@@ -14,6 +14,9 @@ hero:
     - theme: brand
       text: History
       link: /rajasthan/history/history_intro
+    - theme: brand
+      text: Culture
+      link: /rajasthan/culture/culture_intro
     - theme: alt
       text: Geography
       link: /rajasthan/geography/geography_intro

@@ -56,6 +56,18 @@ export default withMermaid({
           collapsed: false,
         },
       ],
+      "rajasthan/culture": [
+        {
+          text: "Culture",
+          items: [
+            {
+              text: "Introduction",
+              link: "/rajasthan/culture/culture_intro.md",
+            },
+          ],
+          collapsed: false,
+        },
+      ],
       "rajasthan/geography": [
         {
           text: "Geography",
@@ -157,7 +169,7 @@ export default withMermaid({
         },
       ],
     },
-    
+
     search: {
       provider: "local",
       options: {
@@ -181,7 +193,7 @@ export default withMermaid({
     math: true,
     image: {
       // image lazy loading is disabled by default
-      lazyLoading: true
+      lazyLoading: true,
     },
   },
 });
