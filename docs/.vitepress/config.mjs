@@ -104,6 +104,10 @@ export default withMermaid({
               text: "Industries Quiz",
               link: "/rajasthan/economy/industries_quiz.md",
             },
+            {
+              text: "Tourism Quiz",
+              link: "/rajasthan/economy/tourism_quiz.md",
+            },
           ],
           collapsed: false,
         },

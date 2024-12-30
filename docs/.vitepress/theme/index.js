@@ -1,5 +1,5 @@
 import DefaultTheme from "vitepress/theme";
-import QuizQuestion from "../components/QuizQuestion.vue";
+import SimpleMcq from "../components/SimpleMcq.vue";
 // https://github.com/T-miracle/vitepress-plugin-comment-with-giscus
 import giscusTalk from "vitepress-plugin-comment-with-giscus";
 import { useData, useRoute } from "vitepress";
@@ -22,8 +22,8 @@ export default {
     // Enhance the app with additional components or plugins
     DefaultTheme.enhanceApp({ app, router, siteData });
 
-    // Register QuizQuestion globally
-    app.component("QuizQuestion", QuizQuestion);
+    // Register SimpleMcq globally
+    app.component("SimpleMcq", SimpleMcq);
 
     // Add the Search Plugin
     // app.use(SearchPlugin(searchOptions));

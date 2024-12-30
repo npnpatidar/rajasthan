@@ -26,5 +26,5 @@ export default defineUserConfig({
     // console.log(`sorter: ${pageA.path} vs ${pageB.path} = ${index}`);
     return index
   },
-  urlOrigin: "https://nixos-and-flakes.thiscute.world/",
+  urlOrigin: "https://rajasthan.naresh.world/",
 })
