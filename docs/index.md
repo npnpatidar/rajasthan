@@ -14,7 +14,7 @@ hero:
     - theme: brand
       text: History
       link: /rajasthan/history/history_intro
-    - theme: brand
+    - theme: alt
       text: Culture
       link: /rajasthan/culture/culture_intro
     - theme: alt
@@ -30,13 +30,14 @@ hero:
       text: Current Affairs
       link: /rajasthan/current_affairs/current_affairs_today
 
-# features:
-#   - title: Feature A
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - title: Feature B
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - title: Feature C
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+features:
+  - title: In-Depth Theory
+    details: Detailed theory covering Rajasthan's history, culture, geography, polity, economy, and current affairs, designed for competitive exams.
+  - title: Extensive MCQs 
+    details: A comprehensive collection of multiple-choice questions to practice and master Rajasthan's key topics for exams.
+  - title: Open-Source and Collaborative
+    details: Hosted on GitHub, enabling collaborative contributions from aspirants and educators to enrich the content.
+
 ---
 
 
