@@ -204,4 +204,20 @@ Term 2
   <p>This is a paragraph in HTML.</p>
 </div>
 
-This is <u>underlined text</u>.
+
+
+
+
+This is the way to <mark style="background-color: black; color: white;">highlight</mark> any text
+
+This is the way to <mark >highlight</mark> any text
+
+This is the way to <mark style="background-color: gold; color: black;">highlight</mark> any text
+
+
+this is the way to <u>underline</u>
+
+
+this is the way to add images
+
+![Rajasthan_map_dark](../../public/rajasthan_map_dark.png)

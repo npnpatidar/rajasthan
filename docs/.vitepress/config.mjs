@@ -426,8 +426,8 @@ export default withMermaid({
               link: "/rajasthan/polity/high_court.md",
             },
             {
-              text: "Rajasthan Service Public Commission",
-              link: "/rajasthan/polity/rajasthan_service_public_commission.md",
+              text: "Rajasthan Public Service Commission",
+              link: "/rajasthan/polity/rajasthan_public_service_commission.md",
             },
             {
               text: "Rajasthan State Election Commission",
