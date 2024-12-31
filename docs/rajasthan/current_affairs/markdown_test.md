@@ -203,3 +203,5 @@ Term 2
   <h1>This is a header in HTML</h1>
   <p>This is a paragraph in HTML.</p>
 </div>
+
+This is <u>underlined text</u>.
