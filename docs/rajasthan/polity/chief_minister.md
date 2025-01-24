@@ -192,3 +192,119 @@ Okay, here's the information about the Deputy Chief Ministers of Rajasthan, pres
     - Banwari Lal Sharma
     - Mrs. Deya Kumari
     - Laxman Nayak
+
+
+
+Here is the content relevant to the query "List all the chief ministers of Rajasthan till now" in markdown format:
+
+---
+
+
+
+
+Here is the relevant content in markdown format:
+
+# List of Chief Ministers of Rajasthan
+
+## Chief Minister of Rajasthan
+
+### Current Chief Minister
+**Bhajan Lal Sharma**
+- **Since**: 15 December 2023
+- **Party**: Bharatiya Janata Party
+- **Constituency**: Sanganer
+- **Term**: 1 year, 19 days
+
+### Previous Chief Ministers
+
+| Name                | Term of Office | Party       | Constituency       |
+|---------------------|----------------|--------------|--------------------|
+| Heera Lal Shastri   | 26 January 1950 - 6 January 1951 | Indian National Congress | - |
+| C. S. Venkatachar   | 6 January 1951 - 26 April 1951 | Indian National Congress | - |
+| Jai Narayan Vyas    | 26 April 1951 - 3 March 1952 | Indian National Congress | Kishangarh |
+| Tika Ram Paliwal    | 3 March 1952 - 1 November 1952 | Indian National Congress | Mahuwa |
+| Mohan Lal Sukhadia  | 13 November 1954 - 11 April 1957 | Indian National Congress | Udaipur |
+| Mohan Lal Sukhadia  | 11 April 1957 - 11 March 1962 | Indian National Congress | Udaipur |
+| Mohan Lal Sukhadia  | 13 March 1962 - 13 March 1967 | Indian National Congress | Udaipur |
+| Barkatullah Khan    | 9 July 1971 - 11 October 1973 | Indian National Congress | Tijara |
+| Hari Dev Joshi      | 11 October 1973 - 29 April 1977 | Indian National Congress | Banswara |
+| Bhairon Singh Shekhawat | 22 June 1977 - 16 February 1980 | Indian National Congress | Chhabra |
+| Jagannath Pahadia   | 6 June 1980 - 14 July 1981 | Indian National Congress | Weir |
+| Shiv Charan Mathur  | 14 July 1981 - 23 February 1985 | Indian National Congress | Mandalgarh |
+| Hira Lal Devpura    | 23 February 1985 - 10 March 1985 | Indian National Congress | Kumbhalgarh |
+| Hari Dev Joshi      | 10 March 1985 - 20 January 1988 | Indian National Congress | Banswara |
+| Shiv Charan Mathur  | 20 January 1988 - 4 December 1989 | Indian National Congress | Mandalgarh |
+| Hari Dev Joshi      | 4 December 1989 - 4 March 1990 | Indian National Congress | Banswara |
+| Bhairon Singh Shekhawat | 4 March 1990 - 15 December 1992 | Indian National Congress | Bali |
+| Bhairon Singh Shekhawat | 4 December 1993 - 1 December 1998 | Indian National Congress | Bali |
+| Ashok Gehlot       | 1 December 1998 - 8 December 2003 | Indian National Congress | Sardarpura |
+| Vasundhara Raje     | 8 December 2003 - 12 December 2008 | Indian National Congress | Jhalrapatan |
+| Ashok Gehlot       | 12 December 2008 - 13 December 2013 | Indian National Congress | Sardarpura |
+| Vasundhara Raje     | 13 December 2013 - 17 December 2018 | Indian National Congress | Jhalrapatan |
+| Ashok Gehlot       | 17 December 2018 - 15 December 2023 | Indian National Congress | Sardarpura |
+| Bhajan Lal Sharma   | 15 December 2023 - Incumbent | Bharatiya Janata Party | Sanganer |
+
+### Statistics
+
+| Party                | Fraction of Time (as of December 2024) |
+|----------------------|-----------------------------------------|
+| Bharatiya Janata Party | 25.15% |
+| Indian National Congress | 69.25% |
+| Janata Party         | 3.54% |
+| President's Rule     | 2.06% |
+
+### Timeline
+
+- **1948**: Formation of Rajasthan
+- **1950**: First Chief Minister, Heera Lal Shastri
+- **1952**: Tika Ram Paliwal becomes the first elected Chief Minister
+- **1962**: Mohan Lal Sukhadia becomes Chief Minister
+- **1972**: Barkatullah Khan becomes Chief Minister
+- **1980**: Shiv Charan Mathur becomes Chief Minister
+- **1985**: Hari Dev Joshi becomes Chief Minister
+- **1990**: Bhairon Singh Shekhawat becomes Chief Minister
+- **1993**: Ashok Gehlot becomes Chief Minister
+- **1998**: Vasundhara Raje becomes Chief Minister
+- **2003**: Ashok Gehlot becomes Chief Minister
+- **2008**: Vasundhara Raje becomes Chief Minister
+- **2013**: Ashok Gehlot becomes Chief Minister
+- **2018**: Vasundhara Raje becomes Chief Minister
+- **2023**: Bhajan Lal Sharma becomes Chief Minister
+
+### See Also
+
+- [List of districts of Rajasthan](https://en.wikipedia.org/wiki/List_of_districts_of_Rajasthan)
+- [List of governors of Rajasthan](https://en.wikipedia.org/wiki/List_of_governors_of_Rajasthan)
+- [List of deputy chief ministers of Rajasthan](https://en.wikipedia.org/wiki/List_of_deputy_chief_ministers_of_Rajasthan)
+- [List of institutions of higher education in Rajasthan](https://en.wikipedia.org/wiki/List_of_institutions_of_higher_education_in_Rajasthan)
+
+### Notes
+
+1. ^ The princely states included Udaipur, Jaipur, Jodhpur, Bikaner, Jaisalmer, Kota, Bundi, Tonk, Jhalawar, Kishangarh, Alwar, Bharatpur, Sirohi, Dholpur, Karauli, Dungarpur, Banswara, Pratapgarh-Deoliya, and Shahpura.
+2. ^ This column only names the chief minister's party. The state government he heads may be a complex coalition of several parties and independents; these are not listed here.
+3. ^ Jump up to: a b c d President's rule may be imposed when the "government in a state is not able to function as per the Constitution", which often happens because no party or coalition has a majority in the assembly. When President's rule is in force in a state, its council of ministers stands dissolved. The office of chief minister thus lies vacant, and the administration is taken over by the governor, who functions on behalf of the central government. At times, the legislative assembly also stands dissolved.
+
+### References
+
+1. ^ Jump up to: a b Durga Das Basu. Introduction to the Constitution of India. 1960. 20th Edition, 2011 Reprint. pp. 241, 245. LexisNexis Butterworths Wadhwa Nagpur. ISBN 978-81-8038-559-9. Note: although the text talks about Indian state governments in general, it applies to the specific case of Rajasthan as well.
+2. ^ Hooja 2006, pp. 1130.
+3. ^ Hooja 2006, pp. 1134–1135.
+4. ^ Hooja 2006, pp. 1135.
+5. ^ Hooja 2006, pp. 1136.
+6. ^ Hooja 2006, pp. 1138.
+7. ^ Hooja 2006, pp. 1139.
+8. ^ Hooja 2006, pp. 1144.
+9. ^ "Former Chief Minister" [https://assembly.rajasthan.gov.in/Containers/Archives/Former.aspx]. Rajasthan Legislative Assembly. Retrieved 6 June 2024.
+10. ^ Anand, Akriti (24 November 2023). "BJP Vs Congress in Rajasthan Poll: Why govt has been changing every 5 years" [https://www.livemint.com/elections/assembly-elections/rajasthan-election-2023-bjp-vs-congress-why-govt-changing-will-it-swing-this-time-too-ashok-gehlot-vasundhara-raje-11700832186961.html]. mint. Retrieved 15 December 2023.
+11. ^ "Ashok Gehlot Resigns As Rajasthan Chief Minister As BJP Thumps Congress In Assembly Polls" [https://english.jagran.com/elections/rajasthan-cm-ashok-gehlot-to-tender-resignation-today-as-bjp-inches-closer-to-wrest-power-from-congress-in-rajasthan-reportashok-gehlot-to-hand-over-resignation-letter-to-governor-today-as-bjp-eyes-win-report-10117853]. English Jagran. 3 December 2023. Retrieved 3 December 2023.
+12. ^ "Who is Bhajan Lal Sharma, the new chief minister of Rajasthan" [https://timesofindia.indiatimes.com/india/who-is-bhajan-lal-sharma-the-new-chief-minister-of-rajasthan/articleshow/105928864.cms?from=mdr]. The Times of India. 12 December 2023. ISSN 0971-8257 [https://search.worldcat.org/issn/0971-8257]. Retrieved 14 December 2023.
+13. ^ Amberish K. Diwanji. "A dummy's guide to President's rule" [http://www.rediff.co.in/news/2005/mar/15spec1.htm]. Rediff.com [https://en.wikipedia.org/wiki/Rediff.com]. 15 March 2005.
+
+### Bibliography
+
+* Hooja, Rima (2006). A History of Rajasthan [https://books.google.com/books?id=tosMAQAAMAAJ]. New Delhi: Rupa & Company. ISBN 9788129108906 [https://books.google.com/books?id=tosMAQAAMAAJ]. OCLC 80362053 [https://search.worldcat.org/oclc/80362053].
+
+### External Links
+
+* [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Chief_ministers_of_Rajasthan)
+* [Profile of current incumbent](https://cmo.rajasthan.gov.in/cm-profile)
