@@ -1,5 +1,7 @@
 import { defineConfig } from "vitepress";
 import { withMermaid } from "vitepress-plugin-mermaid";
+import d2 from "vitepress-plugin-d2";
+import { Layout, Theme, FileType } from "vitepress-plugin-d2/dist/config";
 
 // https://vitepress.dev/reference/site-config
 export default withMermaid({
@@ -15,14 +17,9 @@ export default withMermaid({
     logo: {
       light: "/rajasthan_no_background_light.svg",
       dark: "/rajasthan_no_background_dark.svg",
-      // src: /rajasthan_map_dark.png
       alt: "Rajasthan Map",
-    }, // Logo for dark mode
-    // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: "Home", link: "/" },
-      // { text: "Examples", link: "/markdown-examples" },
-    ],
+    },
+    nav: [{ text: "Home", link: "/" }],
     sidebar: {
       "rajasthan/history": [
         {
@@ -132,90 +129,33 @@ export default withMermaid({
               text: "Language and Dialects",
               link: "/rajasthan/culture/language_and_dialects.md",
             },
-            {
-              text: "Literature",
-              link: "/rajasthan/culture/literature.md",
-            },
-            {
-              text: "Costumes",
-              link: "/rajasthan/culture/costumes.md",
-            },
-            {
-              text: "Ornaments",
-              link: "/rajasthan/culture/ornaments.md",
-            },
-            {
-              text: "Paintings",
-              link: "/rajasthan/culture/paintings.md",
-            },
-            {
-              text: "Handicrafts",
-              link: "/rajasthan/culture/handicrafts.md",
-            },
+            { text: "Literature", link: "/rajasthan/culture/literature.md" },
+            { text: "Costumes", link: "/rajasthan/culture/costumes.md" },
+            { text: "Ornaments", link: "/rajasthan/culture/ornaments.md" },
+            { text: "Paintings", link: "/rajasthan/culture/paintings.md" },
+            { text: "Handicrafts", link: "/rajasthan/culture/handicrafts.md" },
             {
               text: "Customs and Practices",
               link: "/rajasthan/culture/customs_and_practices.md",
             },
-            {
-              text: "Fairs",
-              link: "/rajasthan/culture/fairs.md",
-            },
-            {
-              text: "Festivals",
-              link: "/rajasthan/culture/festivals.md",
-            },
-            {
-              text: "Folk Dance",
-              link: "/rajasthan/culture/folk_dance.md",
-            },
-            {
-              text: "Folk Song",
-              link: "/rajasthan/culture/folk_song.md",
-            },
+            { text: "Fairs", link: "/rajasthan/culture/fairs.md" },
+            { text: "Festivals", link: "/rajasthan/culture/festivals.md" },
+            { text: "Folk Dance", link: "/rajasthan/culture/folk_dance.md" },
+            { text: "Folk Song", link: "/rajasthan/culture/folk_song.md" },
             {
               text: "Folk Theater",
               link: "/rajasthan/culture/folk_theater.md",
             },
-            {
-              text: "Lok Devta",
-              link: "/rajasthan/culture/lok_devta.md",
-            },
-            {
-              text: "Lok Devia",
-              link: "/rajasthan/culture/lok_devia.md",
-            },
-            {
-              text: "Saints",
-              link: "/rajasthan/culture/saints.md",
-            },
-            {
-              text: "Forts",
-              link: "/rajasthan/culture/forts.md",
-            },
-            {
-              text: "Palaces",
-              link: "/rajasthan/culture/palaces.md",
-            },
-            {
-              text: "Havelis",
-              link: "/rajasthan/culture/havelis.md",
-            },
-            {
-              text: "Temples",
-              link: "/rajasthan/culture/temples.md",
-            },
-            {
-              text: "Tombs",
-              link: "/rajasthan/culture/tombs.md",
-            },
-            {
-              text: "Pillars",
-              link: "/rajasthan/culture/pillars.md",
-            },
-            {
-              text: "Stepwell",
-              link: "/rajasthan/culture/stepwell.md",
-            },
+            { text: "Lok Devta", link: "/rajasthan/culture/lok_devta.md" },
+            { text: "Lok Devia", link: "/rajasthan/culture/lok_devia.md" },
+            { text: "Saints", link: "/rajasthan/culture/saints.md" },
+            { text: "Forts", link: "/rajasthan/culture/forts.md" },
+            { text: "Palaces", link: "/rajasthan/culture/palaces.md" },
+            { text: "Havelis", link: "/rajasthan/culture/havelis.md" },
+            { text: "Temples", link: "/rajasthan/culture/temples.md" },
+            { text: "Tombs", link: "/rajasthan/culture/tombs.md" },
+            { text: "Pillars", link: "/rajasthan/culture/pillars.md" },
+            { text: "Stepwell", link: "/rajasthan/culture/stepwell.md" },
           ],
           collapsed: false,
         },
@@ -240,30 +180,12 @@ export default withMermaid({
               text: "Physical Features",
               link: "/rajasthan/geography/physical_features.md",
             },
-            {
-              text: "Climate",
-              link: "/rajasthan/geography/climate.md",
-            },
-            {
-              text: "Rivers",
-              link: "/rajasthan/geography/rivers.md",
-            },
-            {
-              text: "Lakes",
-              link: "/rajasthan/geography/lakes.md",
-            },
-            {
-              text: "Soils",
-              link: "/rajasthan/geography/soils.md",
-            },
-            {
-              text: "Vegetation",
-              link: "/rajasthan/geography/vegetation.md",
-            },
-            {
-              text: "Forests",
-              link: "/rajasthan/geography/forests.md",
-            },
+            { text: "Climate", link: "/rajasthan/geography/climate.md" },
+            { text: "Rivers", link: "/rajasthan/geography/rivers.md" },
+            { text: "Lakes", link: "/rajasthan/geography/lakes.md" },
+            { text: "Soils", link: "/rajasthan/geography/soils.md" },
+            { text: "Vegetation", link: "/rajasthan/geography/vegetation.md" },
+            { text: "Forests", link: "/rajasthan/geography/forests.md" },
             {
               text: "Wildlife and Biodiversity",
               link: "/rajasthan/geography/wildlife_and_biodiversity.md",
@@ -276,35 +198,16 @@ export default withMermaid({
               text: "Agriculture",
               link: "/rajasthan/geography/agriculture.md",
             },
-            {
-              text: "Irrigation",
-              link: "/rajasthan/geography/irrigation.md",
-            },
-            {
-              text: "Livestock",
-              link: "/rajasthan/geography/livestock.md",
-            },
-            {
-              text: "Minerals",
-              link: "/rajasthan/geography/minerals.md",
-            },
+            { text: "Irrigation", link: "/rajasthan/geography/irrigation.md" },
+            { text: "Livestock", link: "/rajasthan/geography/livestock.md" },
+            { text: "Minerals", link: "/rajasthan/geography/minerals.md" },
             {
               text: "Energy Sources",
               link: "/rajasthan/geography/energy_sources.md",
             },
-            {
-              text: "Industries",
-              link: "/rajasthan/geography/industries.md",
-            },
-
-            {
-              text: "Population",
-              link: "/rajasthan/geography/population.md",
-            },
-            {
-              text: "Tribes",
-              link: "/rajasthan/geography/tribes.md",
-            },
+            { text: "Industries", link: "/rajasthan/geography/industries.md" },
+            { text: "Population", link: "/rajasthan/geography/population.md" },
+            { text: "Tribes", link: "/rajasthan/geography/tribes.md" },
           ],
           collapsed: false,
         },
@@ -321,10 +224,7 @@ export default withMermaid({
               text: "Macro View of Economy",
               link: "/rajasthan/economy/macro_view_of_economy.md",
             },
-            {
-              text: "Agriculture",
-              link: "/rajasthan/economy/agriculture.md",
-            },
+            { text: "Agriculture", link: "/rajasthan/economy/agriculture.md" },
             {
               text: "Agriculture Quiz",
               link: "/rajasthan/economy/agriculture_quiz.md",
@@ -337,14 +237,8 @@ export default withMermaid({
               text: "Infrastructure",
               link: "/rajasthan/economy/infrastructure.md",
             },
-            {
-              text: "Transport",
-              link: "/rajasthan/economy/transport.md",
-            },
-            {
-              text: "Tourism",
-              link: "/rajasthan/economy/tourism.md",
-            },
+            { text: "Transport", link: "/rajasthan/economy/transport.md" },
+            { text: "Tourism", link: "/rajasthan/economy/tourism.md" },
             {
               text: "Tourism Quiz",
               link: "/rajasthan/economy/tourism_quiz.md",
@@ -385,18 +279,9 @@ export default withMermaid({
         {
           text: "Polity",
           items: [
-            {
-              text: "Introduction",
-              link: "/rajasthan/polity/polity_intro.md",
-            },
-            {
-              text: "Index",
-              link: "/rajasthan/polity/index.md",
-            },
-            {
-              text: "Governor",
-              link: "/rajasthan/polity/governor.md",
-            },
+            { text: "Introduction", link: "/rajasthan/polity/polity_intro.md" },
+            { text: "Index", link: "/rajasthan/polity/index.md" },
+            { text: "Governor", link: "/rajasthan/polity/governor.md" },
             {
               text: "Chief Minister",
               link: "/rajasthan/polity/chief_minister.md",
@@ -421,10 +306,7 @@ export default withMermaid({
               text: "Local Self Government",
               link: "/rajasthan/polity/local_self_government.md",
             },
-            {
-              text: "High Court",
-              link: "/rajasthan/polity/high_court.md",
-            },
+            { text: "High Court", link: "/rajasthan/polity/high_court.md" },
             {
               text: "Rajasthan Public Service Commission",
               link: "/rajasthan/polity/rajasthan_public_service_commission.md",
@@ -486,7 +368,6 @@ export default withMermaid({
         },
       ],
     },
-
     search: {
       provider: "local",
       options: {
@@ -501,15 +382,34 @@ export default withMermaid({
     editLink: {
       pattern: "https://github.com/npnpatidar/rajasthan/edit/main/docs/:path",
     },
-
     socialLinks: [
       { icon: "github", link: "https://github.com/npnpatidar/rajasthan" },
     ],
   },
   markdown: {
+    config: (md) => {
+      // Use D2 diagram plugin with optional configuration
+      md.use(d2, {
+        forceAppendix: false,
+        layout: Layout.ELK,
+        theme: Theme.NEUTRAL_DEFAULT,
+        darkTheme: Theme.DARK_MUAVE,
+        padding: 100,
+        animatedInterval: 0,
+        timeout: 120,
+        sketch: false,
+        center: false,
+        scale: -1,
+        target: "*",
+        fontItalic: null,
+        fontBold: null,
+        fontSemiBold: null,
+        fileType: FileType.SVG,
+        directory: "d2-diagrams",
+      });
+    },
     math: true,
     image: {
-      // image lazy loading is disabled by default
       lazyLoading: true,
     },
   },

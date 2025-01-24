@@ -221,3 +221,9 @@ this is the way to <u>underline</u>
 this is the way to add images
 
 ![Rajasthan_map_dark](../../public/rajasthan_map_dark.png)
+
+
+## 14. D2 Diagram 
+```d2
+x -> y
+```
