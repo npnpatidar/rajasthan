@@ -32,8 +32,8 @@ flowchart TD
 
 
 #  Formation of Rajasthan
-
-
+- **Gondwana**: The Aravalli Peninsula and Hadauti Plateau are part of the Gondwana land.
+- **Tethys Sea**: Thar Desert and Eastern Plains of Rajasthan  were formed from the Tethys Sea.
 
 ```mermaid
 graph TD
@@ -49,6 +49,3 @@ B --> E(Hadauti Plateau) --> F
 C --> I(Eastern Plain) --> H
 ```
 
-
-- **Gondwana**: The Aravalli Peninsula and Hadauti Plateau are part of the Gondwana land.
-- **Tethys Sea**: Thar Desert and Eastern Plains of Rajasthan  were formed from the Tethys Sea.
