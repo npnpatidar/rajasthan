@@ -19,4 +19,4 @@ pnpm-global
 TODOs.md
 *.timestamp-*.mjs
 
-docs/.obsidian/
+**/.obsidian/**
