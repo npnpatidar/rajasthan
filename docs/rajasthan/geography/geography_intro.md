@@ -40,7 +40,7 @@ graph TD
 
 A[Gondwana Land <br> Tethys Sea ] --> B(Gondwana Land)
 
-A --> C(Tethys Sea) --> G(Thar Desert) --> H( Latest) --> K(Part North Indian Plain)
+A --> C(Tethys Sea) --> G(Thar Desert) --> H( Latest) --> K(Part of North Indian Plain)
 
 B --> D(Aravali Peninsula Part) --> F(Oldest) --> J(Part of Indian Peninsular Plateau)
 
