@@ -185,7 +185,6 @@ export default withMermaid({
             { text: "Lakes", link: "/rajasthan/geography/lakes.md" },
             { text: "Soils", link: "/rajasthan/geography/soils.md" },
             { text: "Vegetation", link: "/rajasthan/geography/vegetation.md" },
-            { text: "Forests", link: "/rajasthan/geography/forests.md" },
             {
               text: "Wildlife and Biodiversity",
               link: "/rajasthan/geography/wildlife_and_biodiversity.md",
@@ -206,6 +205,7 @@ export default withMermaid({
               link: "/rajasthan/geography/energy_sources.md",
             },
             { text: "Industries", link: "/rajasthan/geography/industries.md" },
+            { text: "Tourism", link: "/rajasthan/geography/tourism.md" },
             { text: "Population", link: "/rajasthan/geography/population.md" },
             { text: "Tribes", link: "/rajasthan/geography/tribes.md" },
           ],
