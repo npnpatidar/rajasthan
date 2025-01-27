@@ -1,3 +1,7 @@
+---
+title: Governor
+order: "1"
+---
 
 ## Formerly Known as Rajpramukh:
 - The Governor of Rajasthan was previously known as **Rajpramukh** until 1956.

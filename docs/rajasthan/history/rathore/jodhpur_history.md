@@ -1,3 +1,9 @@
+---
+title: Jodhpur
+order: "1"
+---
+
+
 Okay, here's a structured and translated version of the notes on the Rathore dynasty, formatted in Markdown.
 
 # History of the Rathore Dynasty

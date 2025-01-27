@@ -1,3 +1,8 @@
+---
+title: Bikaner
+order: "2"
+---
+
 # History of Bikaner
 
 (Ancient Names: Janglu Desh, Ratighati)

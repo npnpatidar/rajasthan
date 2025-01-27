@@ -1,3 +1,8 @@
+---
+title: High Court
+order: "5"
+---
+
 # Introduction to the Rajasthan High Court
 
 The **Rajasthan High Court** is the highest judicial authority in the state of Rajasthan, India. It plays a pivotal role in administering justice and upholding the rule of law in the state. Established after the formation of Rajasthan as a state, the High Court has a rich history and a significant impact on the legal and judicial framework of the region.

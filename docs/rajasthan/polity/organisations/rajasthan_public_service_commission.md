@@ -1,3 +1,8 @@
+---
+title: Rajasthan Public Service Commission
+order: "1"
+---
+
 # Rajasthan Public Service Commission (RPSC)
 
 The **Rajasthan Public Service Commission (RPSC)** is the premier recruiting agency for the state of Rajasthan. It is responsible for conducting competitive examinations and recruitment for various civil services and administrative positions in the state government. Established under the provisions of the **Constitution of India**, the RPSC plays a crucial role in selecting competent and qualified individuals for public service.

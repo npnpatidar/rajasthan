@@ -1,3 +1,8 @@
+---
+title: Chief Minister
+order: "2"
+---
+
 ## Chief Ministers of Rajasthan and their significant contributions:
 
 | **Chief Minister**               | **Key Contributions**                                                                                                                                                                                                              |
