@@ -62,8 +62,19 @@ export default withMermaid({
               link: "/rajasthan/history/jaipur_history.md",
             },
             {
-              text: "Jodhpur History",
-              link: "/rajasthan/history/jodhpur_history.md",
+              text: "Rathore History",
+              collapsed: true,
+              items: [
+                {
+                  text: "Jodhpur History",
+                  link: "/rajasthan/history/rathore/jodhpur_history.md",
+                },
+
+                {
+                  text: "Bikaner History",
+                  link: "/rajasthan/history/rathore/bikaner_history.md",
+                },
+              ],
             },
             {
               text: "Jaisalmer History",
