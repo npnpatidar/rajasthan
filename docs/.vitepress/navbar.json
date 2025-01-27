@@ -6,6 +6,10 @@
         "text": "History",
         "items": [
           {
+            "text": "History Intro",
+            "link": "/rajasthan/1_history/0_history_intro"
+          },
+          {
             "text": "Revolution",
             "link": "/rajasthan/1_history/1857_revolution"
           },
@@ -36,10 +40,6 @@
           {
             "text": "Gurjar Pratihar History",
             "link": "/rajasthan/1_history/gurjar_pratihar_history"
-          },
-          {
-            "text": "History Intro",
-            "link": "/rajasthan/1_history/history_intro"
           },
           {
             "text": "Integration of Rajasthan",
@@ -110,12 +110,12 @@
         "text": "Culture",
         "items": [
           {
-            "text": "Costumes",
-            "link": "/rajasthan/2_culture/costumes"
+            "text": "Culture Intro",
+            "link": "/rajasthan/2_culture/0_culture_intro"
           },
           {
-            "text": "Culture Intro",
-            "link": "/rajasthan/2_culture/culture_intro"
+            "text": "Costumes",
+            "link": "/rajasthan/2_culture/costumes"
           },
           {
             "text": "Customs and Practices",
@@ -208,6 +208,10 @@
         "text": "Geography",
         "items": [
           {
+            "text": "Geography Intro",
+            "link": "/rajasthan/3_geography/0_geography_intro"
+          },
+          {
             "text": "Agriculture",
             "link": "/rajasthan/3_geography/agriculture"
           },
@@ -222,10 +226,6 @@
           {
             "text": "Geographical Division",
             "link": "/rajasthan/3_geography/geographical_division"
-          },
-          {
-            "text": "Geography Intro",
-            "link": "/rajasthan/3_geography/geography_intro"
           },
           {
             "text": "Industries",
@@ -294,16 +294,16 @@
         "text": "Economy",
         "items": [
           {
+            "text": "Economy Intro",
+            "link": "/rajasthan/4_economy/0_economy_intro"
+          },
+          {
             "text": "Agriculture",
             "link": "/rajasthan/4_economy/agriculture"
           },
           {
             "text": "Agriculture Quiz",
             "link": "/rajasthan/4_economy/agriculture_quiz"
-          },
-          {
-            "text": "Economy Intro",
-            "link": "/rajasthan/4_economy/economy_intro"
           },
           {
             "text": "Industries Quiz",
@@ -364,6 +364,10 @@
         "text": "Polity",
         "items": [
           {
+            "text": "Polity Intro",
+            "link": "/rajasthan/5_polity/0_polity_intro"
+          },
+          {
             "text": "Governor",
             "link": "/rajasthan/5_polity/1_governor"
           },
@@ -382,10 +386,6 @@
           {
             "text": "High Court",
             "link": "/rajasthan/5_polity/5_high_court"
-          },
-          {
-            "text": "Polity Intro",
-            "link": "/rajasthan/5_polity/5b_polity_intro"
           },
           {
             "text": "Rajasthan Secretary and Secretariate",
@@ -452,12 +452,12 @@
         "text": "Current Affairs",
         "items": [
           {
-            "text": "Markdown Test",
-            "link": "/rajasthan/6_current_affairs/1_markdown_test"
+            "text": "Current Affairs Today",
+            "link": "/rajasthan/6_current_affairs/0_current_affairs_today"
           },
           {
-            "text": "Current Affairs Today",
-            "link": "/rajasthan/6_current_affairs/2_current_affairs_today"
+            "text": "Markdown Test",
+            "link": "/rajasthan/6_current_affairs/1_markdown_test"
           }
         ],
         "collapsed": true

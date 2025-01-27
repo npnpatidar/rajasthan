@@ -13,22 +13,22 @@ hero:
   actions:
     - theme: brand
       text: History
-      link: /rajasthan/1_history/history_intro
+      link: /rajasthan/1_history/0_history_intro
     - theme: alt
       text: Culture
-      link: /rajasthan/2_culture/culture_intro
+      link: /rajasthan/2_culture/0_culture_intro
     - theme: alt
       text: Geography
-      link: /rajasthan/3_geography/geography_intro
+      link: /rajasthan/3_geography/0_geography_intro
     - theme: alt
       text: Polity
-      link: /rajasthan/5_polity/polity_intro
+      link: /rajasthan/5_polity/0_polity_intro
     - theme: alt
       text: Economy
-      link: /rajasthan/4_economy/economy_intro
+      link: /rajasthan/4_economy/0_economy_intro
     - theme: alt
       text: Current Affairs
-      link: /rajasthan/6_current_affairs/current_affairs_today
+      link: /rajasthan/6_current_affairs/0_current_affairs_today
 
 features:
   - title: In-Depth Theory
