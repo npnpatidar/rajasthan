@@ -3,8 +3,7 @@
 There are three main categories of sources for studying the history of Rajasthan: Archaeological, Literary, and Epigraphic.
 
 ## I. Archaeological Sources
-
-*   **Inscriptions:**
+  **Inscriptions:**
     *   The study of inscriptions is called Epigraphy.
     *   Inscriptions that praise kings are called *Prashasti* (eulogies).
     *   Inscriptions are contemporaneous (from the same time period).

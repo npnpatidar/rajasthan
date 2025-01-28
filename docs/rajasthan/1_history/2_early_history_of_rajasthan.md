@@ -1,7 +1,3 @@
-Okay, here's a detailed translation and structured presentation of the ancient history of Rajasthan, as per your provided notes.
-
-# Ancient History of Rajasthan
-
 This section covers the different prehistoric and ancient periods of Rajasthan, from the Paleolithic Age to the pre-medieval period.
 
 ## Periods of Rajasthan's Ancient History
