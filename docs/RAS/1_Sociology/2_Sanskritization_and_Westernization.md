@@ -19,8 +19,7 @@
         *   Higher castes adopting lifestyles of lower castes.
         *   Upper castes abandoning Ancient Indian Culture for Western Lifestyles
 *   **Resankritization:**
-    *   Indian People Abaning Western Culture and Adopting Indian Culture Again after Awakning.
-    *   Indian abandoning Western culture and adopting Indian culture again due to Western education and other values.
+    *   Indian People Abandoning Western Culture and Adopting Indian Culture Again after Awakning.n and other values.
 
 ## Features of Sanskritization
 
@@ -54,6 +53,7 @@
 ## Limitations of Sankritization
 
 *   Limited Concept
+*  No Structural change but merely positional change
 *   The process is more based on reaction
 *   May Lead to Inter Caste Enmity
 *   Despite these limitations, we cannot deny the concept of Sanscritization.
@@ -70,7 +70,7 @@
 *   **Definition:** Adoption of Western culture, values, ideologies, and lifestyle.
 *   **M.N. Srinivas:** Refers to changes in Indian society and culture as a result of 150 years of colonial rule.
 *   **Yogendra Singh:** Modernity, rationalism, humanism that started institutional and social reforms.
-*   Permanent Revolution Changes in Indian Culture
+
 
 ## Dimensions of Westernization
 
@@ -111,11 +111,11 @@
 *   It is an Important, Imported Concept
 *   Socio-economic, cultural, and political change brought by Britishers.
 *   Affects different aspect of Indian Life
-*   Newtral Concept
-*   Westerinisation can effect one side of presonality partially or completey
-*   **Impact of Westernization on National Movement:**
+*   Neutral Concept
+*   Westernisation can effect one side of personality partially or completely
+*   **Impact of Westernisation on National Movement:**
 * Values of Freedom, Independence
-* After Russain Revaluations
+*  Russian Revolution - equality
 
 ## Positive and Negative Impacts of Westernization
 
@@ -128,7 +128,7 @@
 
 *   **Social Sector:** Reduces Caste based Discrimination, and Social Evils
 *   **Political:** Democracy and Rule of Law and Fundamental Rights
-*   **Economic:** Modernization of agriculture, industries and urbanisation
+*   **Economic:** Modernisation of agriculture, industries and urbanisation
 *   **Art and Culture:** Development of Modern painting.
 *   **Religious:**
     *   Superstition Decrease

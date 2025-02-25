@@ -46,7 +46,7 @@
 **Dimensions and Impacts of Globalization:**
 
 *   **Economic:**
-    *   *Positive:* Increased interdependence, fueled growth, increased per capita income, higher living standards, cross-border investment, infrastructure development, employment.
+    *   *Positive:* Increased interdependence, fuelled growth, increased per capita income, higher living standards, cross-border investment, infrastructure development, employment.
     *   *Negative:* Accumulation of wealth (Oxfam report), income inequalities, destruction of local industries, mechanization of industries (jobless growth).
 *   **Socio-Cultural:**
     *   *Positive:* Free flow of cultural ideas, propagation of Indian culture, encourages the value of freedom in society.

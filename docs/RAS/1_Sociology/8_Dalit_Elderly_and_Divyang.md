@@ -48,8 +48,8 @@
 *   Promote skills and small businesses.
 *   Promote agriculture with guidance and non-financial support.
 *   Strengthen legal and judicial systems.
-*   Setting up seperate funds for scholarships, employment, and skill development.
-*   Promote government schemes that promote indentification and self respect.
+*   Setting up separate funds for scholarships, employment, and skill development.
+*   Promote government schemes that promote identification and self respect.
 *   Government to organize awareness campaigns.
 
 ### 1.6 Conclusion
@@ -178,5 +178,3 @@
     *   Reserved seats in CM Anuprati Scheme (free coaching).
     *   Grant for artificial limbs (₹10,000).
     *   Astha Scheme (benefits similar to BPL families if two or more disabled people live together).
-
-**Note:**  Rajasthan Government schemes are particularly important for the RAS exam.

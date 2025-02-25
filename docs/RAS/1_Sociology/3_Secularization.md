@@ -25,7 +25,7 @@
 *   **Social and Religious Movements:** Opposing religious evils (e.g., movements by Raja Ram Mohan Roy, Vivekananda).
 *   **Urbanization, Industrialization, and Globalization:** These promote secularism.
 *   **Education:** Increases literacy and critical thinking.
-*   **Progress of Means of Transport** (Additional point, place at the end, if used).
+*   **Progress of Means of Transport**
 *   **Emergence of a Middle Class:** Similar to historical revolutions, promotes secular values.
 *   **Rising Incomes and Modernization.**
 

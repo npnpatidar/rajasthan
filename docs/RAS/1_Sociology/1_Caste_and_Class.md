@@ -25,9 +25,6 @@
 
 ## Development of Sociological Thought in India
 
-*   Two key perspectives:
-    *   Ancient
-    *   Modern
 *   **Ancient Perspective**
     *   Social life descriptions in ancient texts (Ramayana, Mahabharata).
     *   Emphasis on:

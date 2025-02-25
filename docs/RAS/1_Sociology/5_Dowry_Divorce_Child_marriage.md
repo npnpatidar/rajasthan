@@ -14,7 +14,7 @@
     *   **Legal:** Delayed law-making, complex laws, laws not strict enough.
     *   Continuity of practice (tradition).
     *   Matter of prestige.
-    *   "Anulom" (Hypergamous) marriages.
+    *   "Anulom" (Intercaste ) marriages.
     *   Economic materialism.
     *   Importance of money.
     *   Rising cost of living.
@@ -64,7 +64,7 @@
     *   Not traditionally defined in Hindu tradition (marriage considered a sacrament).
     *   First legislation: State of Kollhapur (1920).
 *   **Abandonment (Parityag):**
-    *   Informal decision by husband and wife to live separately and not fulfill respective roles. Can be temporary or permanent.
+    *   Informal decision by husband and wife to live separately and not fulfil respective roles. Can be temporary or permanent.
 *   **Basis for Divorce (Hindu Marriage Act, 1955):**
     *   Adultery.
     *   Abandonment.
@@ -147,7 +147,7 @@
 *   **Effects and Impacts:**
     *   Ends childhood.
     *   Malnutrition.
-    *   Increased IMR and MMR.  (**ACTION: Find current IMR and MMR data for India.**)
+    *   Increased IMR and MMR.
     *   Increased divorce cases.
     *   Increased gender inequality.
     *   Early marriage = more children = population growth = poverty.
