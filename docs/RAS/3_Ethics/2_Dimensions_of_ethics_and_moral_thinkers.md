@@ -37,6 +37,7 @@
   - **Hedonism (सुखवादी):** Pleasure is the ultimate good. Seek pleasure and avoid pain. (Charvaka Philosophy - "Yavat Jivet Sukham Jivet" - live happily as long as you live)
   - **Utilitarianism (उपयोगितावाद):** Maximize happiness for the greatest number of people.
   - **Evolutionism:** Moral values evolve over time, becoming better.
+  - **Perfectionism(आत्मपूर्णतावाद)**:
 - **Virtue Ethics:**
   - **Socrates**
   - **Plato**
@@ -154,7 +155,7 @@
 
 - **Need for Common Morality:** Social order requires objective moral rules.
 - **Importance of Virtue:** Necessary for a fulfilling human life.
-- **Virtue is Knowledge:** _Key concept to include in any answer about Socrates._
+- **Virtue is Knowledge
 - **Self-Knowledge:** Real knowledge comes from introspection, not factual knowledge.
 - **Distinction Between Right and Wrong:** A person must clearly understand the difference.
 - **Behavior Reflects Knowledge:** A knowledgeable person will not commit wrong acts. Unethical behavior indicates a lack of knowledge of right and wrong.
@@ -169,8 +170,8 @@
 ### Background
 
 - **Disciple of Socrates**.
-- **Institution:** The Academy (emphasized knowledge over education focused on practical skills).
-- **Famous Books:** _The Republic,_ _The Laws._
+- **Institution:** The Academy (emphasised knowledge over education focused on practical skills).
+- **Famous Books:**  _The Republic,_ _ Laws._
 - **Method:** Moral philosophy is derived from his political philosophy.
 
 ### Theory of Justice

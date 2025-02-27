@@ -1,4 +1,4 @@
-## Rta (रित) - The Cosmic Order
+## Rta (ऋत) - The Cosmic Order
 
 - **Unique Concept:** Rta is presented as a unique concept primarily found in Indian philosophy, with no direct equivalent or discussion in Western philosophy.
 - **Origin:** Rooted in the observations of ancient sages, it describes the inherent order and regularity in the universe.
