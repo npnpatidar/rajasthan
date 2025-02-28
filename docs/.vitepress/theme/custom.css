@@ -1,18 +1,20 @@
-/* Root variables for consistent theme colors based on Obsidian */
+/* Root variables for consistent theme colors */
 :root {
-  --h1-color: var(--text-title-h1);
-  --h2-color: var(--text-title-h2);
-  --h3-color: var(--text-title-h3);
-  --h4-color: var(--text-title-h4);
-  --h5-color: var(--text-title-h5);
-  --h6-color: var(--text-title-h6);
+  --h1-color: #6200ee; /* Primary Purple */
+  --h2-color: #03dac6; /* Secondary Teal */
+  --h3-color: #2563eb; /* Blue */
+  --h4-color: #d97706; /* Amber */
+  --h5-color: #10b981; /* Emerald Green */
+  --h6-color: #a3be8c; /* Soft Green */
 
-  --bold-color: var(--color-red);
-  --italic-color: var(--text-normal);
+  --bold-color: #d08770; /* Muted Orange */
+  --italic-color: #111827; /* Dark Gray */
 
-  --background: var(--background-primary);
-  --foreground: var(--text-normal);
-  --border-color: var(--background-primary-alt);
+  --background-light: #ffffff; /* Light Theme Background */
+  --background-dark: #121212; /* Dark Theme Background */
+  --foreground-light: #000000; /* Light Theme Text */
+  --foreground-dark: #ffffff; /* Dark Theme Text */
+  --border-color: #44475a;
 }
 
 /* Heading colors */
@@ -43,76 +45,28 @@ em {
   color: var(--italic-color);
 }
 
-/* Background and text */
-body {
-  background-color: var(--background);
-  color: var(--foreground);
+/* Code Styling */
+code {
+  color: var(--foreground-light);
+  background: var(--background-dark);
+  padding: 2px 4px;
+  border-radius: 4px;
 }
 
-/* Code blocks */
-pre code {
-  background-color: var(--code-background);
-  color: var(--code-normal);
-}
-
-.token.function {
-  color: var(--dracula-definition);
-}
-.token.operator {
-  color: var(--dracula-keyword);
-}
-.token.number {
-  color: var(--dracula-number);
-}
-.token.string {
-  color: var(--dracula-string);
-}
-
-/* Blockquotes */
+/* Blockquote Styling */
 blockquote {
-  color: var(--interactive-accent);
-  font-style: italic;
-  border-left: 3px solid var(--blockquote-border);
+  border-left: 4px solid var(--border-color);
   padding-left: 10px;
+  color: var(--italic-color);
+  font-style: italic;
 }
 
 /* Links */
 a {
-  color: var(--text-a);
+  color: var(--h1-color);
+  text-decoration: none;
 }
 a:hover {
-  color: var(--text-a-hover);
-}
-
-/* Tables */
-th,
-td {
-  border: 1px solid var(--border-color);
-  padding: 5px;
-}
-thead {
-  background-color: var(--background-primary-alt);
-}
-
-/* Sidebar & Navigation */
-.nav-file-title,
-.nav-folder-title {
-  color: var(--text-muted);
-  background-color: var(--background-secondary);
-}
-.nav-file-title:hover,
-.nav-folder-title:hover {
-  color: var(--text-normal);
-}
-
-/* Buttons */
-button.mod-cta {
-  background-color: var(--interactive-accent);
-  color: var(--text-on-accent);
-}
-
-/* Miscellaneous */
-hr {
-  background-color: var(--text-normal);
-  border-color: var(--text-normal);
+  color: var(--h2-color);
+  text-decoration: underline;
 }
