@@ -241,7 +241,7 @@
 
 #### 1. Rorschach Inkblot Test
 
-*   10 inkblot cards (5 Black & White, 2 Red, 3 Colourful).
+*   **10 inkblot cards (5 Black & White, 2 Red, 3 Colourful)**.
 *   Subject responds to the images on the cards.
 *   Two phases:
     *   *Performance Proper*: What the subject sees in each card.
@@ -249,17 +249,18 @@
 
 #### 2. Thematic Apperception Test (TAT)
 
-*   Developed by Christiana Morgan and Henry Murray (1930s).
-*   31 cards (30 picture cards, 1 blank).
-*   Subject creates a short story based on each picture.
+*   Developed by **Christiana Morgan and Henry Murray** (1930s).
+*   **31 cards (30 picture cards, 1 blank).**
+*   Subject creates a **short story** based on each picture.
 *   Assesses personality based on the story content.
 *   *Apperception:* How new experiences are assimilated and transformed by residues of past experiences.
 *   Analysis focuses on:
-    *   Hero (protagonist) and their needs.
-    *   Press (environmental forces).
-    *   Thema (interaction between hero and press).
-    *   Outcome (of the story).
-*   Indian version developed by Uma Chaudhari.
+    *  Hero (protagonist) 
+    *  Needs(28 needs of the hero).
+    *  Press (30 environmental forces).
+    *  Thema (interaction between hero and press).
+    *  Outcome (of the story).
+*   Indian version developed by **Uma Chaudhari**.
 
 #### 3. Sentence Completion Test
 
@@ -269,14 +270,14 @@
 
 #### 4. Rosenzweig Picture-Frustration Study
 
-*   24 cartoon pictures depicting a frustrating situation.
+*   **24 cartoon pictures** depicting a frustrating situation.
 *   Subject describes the response of the frustrated person.
 *   Provides information about how people express aggression in frustrating situations.
-*   Indian version developed by Uday Pareek.
+*   Indian version developed by **Uday Pareek**.
 
 #### 5. Draw-a-Person Test
 
-*   Subject draws a person.
+*   Subject draws a person and write story about it.
 *   Certain characteristics of the drawing (e.g., large hands, big head) are interpreted as indicators of specific personality traits.
 
 ### Behavioral Analysis Techniques
@@ -290,7 +291,8 @@
 
 #### 1. Interview
 
-*   Structured (fixed questions) or Unstructured (open-ended questions).
+* Structured (fixed questions) - to develop an impression potential to reveal subject's personality
+* Unstructured (open-ended questions) - to make objective comparison of subject's personality
 
 #### 2. Observation
 
