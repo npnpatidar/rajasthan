@@ -119,22 +119,13 @@
   - Nolan Committee (UK, 1994)
 
 #### **Nolan Committee's Foundation Values for Civil Servants:**
-
-- Objectivity
-- Selflessness
-- Openness (Transparency)
-- Honesty
-- Accountability
-- Integrity
-
-##### **Elaborating on the values:**
-
-- **Objectivity:** Free from prejudice, merit-based appointments.
-- **Selflessness:** Duty over personal gain, public interest focus.
-- **Openness:** Transparency reduces corruption, strengthens democracy (RTI, e-governance).
-- **Honesty:** Efficient and effective discharge of duties, no bribes, no conflict of interest.
-- **Accountability:** Explain actions/decisions, balance between duties and rights.
-- **Integrity:** Moral virtue, uniform mind/action/speech, consistency, conduct not based on circumstance.
+1. **Selflessness** – Act in the public interest, not for personal gain.
+2. **Integrity** – Avoid personal or financial obligations that might influence decisions.
+3. **Objectivity** – Base decisions on merit, without bias or favoritism.
+4. **Accountability** – Be accountable to the public and subject to scrutiny.
+5. **Openness** – Act transparently, providing reasons for decisions.
+6. **Honesty** – Be truthful and straightforward in all dealings.
+7. **Leadership** – Lead by example, upholding these principles in behavior.
 
 #### **Types of Integrity:**
 
@@ -148,13 +139,13 @@
   - Immanuel Kant: Categorical Imperative, moral rules must be followed, duty for duty's sake.
   - Bhagavad Gita: Swadharma (one's own duty).
 - **Intuitionists:** Conduct should be according to conscience (intuition).
-- **Mahatma Gandhi:** Purity of means and ends (truth and non-violence).
+- **Mahatma Gandhi**: Purity of means and ends (truth and non-violence).
 - **Applied Ethics:** Conduct should be according to code of business conduct.
 
 #### **Benefits of Integrity:**
 
 - Increased credibility
-- Faster personality development
+- Develops personality
 - Faster Decision making
 - Helps in resolving dilemmas
 
@@ -170,7 +161,7 @@
 
   - Positive or negative viewpoint towards a psychological object (person, thing, thought)
   - Components:
-    - Effective: sentiment
+    - Affective: sentiment
     - Cognitive: information
     - Behavioral: behavior
 
@@ -179,16 +170,27 @@
 
   - Definition: Positive or negative viewpoint toward any political party, organization, leader, or ideology.
   - Basis:
-    - Radical: not satisfied with system (violence)
+    - Radical: not satisfied with current economic and social system (justifies violence)
     - Liberal: continuous improvement (no violence)
     - Moderate: small changes within system
     - Conservative: preserve culture (economy not as important)
-    - Reactionists: old system (violence)
-    - Determinate:
-      - Economic factor
-      - Age
-      - Religion
-      - "Not always"
+    - Reactionists: want to implement old system (justifies violence)
+    
+  - Determinants of Political Attitude
+
+1. Economic Factor – Wealthy individuals resist major changes; economically weaker people support change.
+
+
+2. Age – Youth favor big changes; older people resist due to difficulty in adaptation.
+
+
+3. Psychological Tendency – Aggressive individuals may support violence; calm people avoid it. Extroverts express political views more.
+
+
+4. Family – Conservative families lead to conservative political attitudes; liberal families foster independent political views.
+
+
+5. Religion – Religious individuals prioritize religious issues (e.g., Ram Mandir, Triple Talaq).
 
 - **Neutral:**
 
@@ -199,25 +201,84 @@
   - Does not support any party
   - Do not give donations
   - Have a right to vote that cannot be seen by the public
+Here are short, pointed notes based on the image:
+
+**Positive Attitude for Civil Servants**
+
+1. Rule of Law – Uphold legal principles and justice.
+
+
+2. Sarvodaya – Welfare and upliftment of all.
+
+
+3. Constitutional Values – Adherence to the principles enshrined in the Constitution.
+
+
+4. Fundamental Values – Ethical and moral integrity in service.
+
+
+5. Democratic Values – Support for democracy and public participation.
+
+
+6. Secularism – Neutrality in religious matters.
+
+
+7. Social, Economic, and Political Justice – Ensure fairness and equity in society.
+
+
+8. Decentralization of Power – Promote local governance and grassroots participation.
+
+
+9. Public Participation – Encourage citizen involvement in governance.
+
+
+10. Scientific Temperament – Promote rational thinking and evidence-based decision-making.
+
+
+11. Rationalism – Logical, unbiased approach to governance.
+
+**Moral Attitude**
+
+1. Definition – Positive and negative attitudes toward moral issues.
+
+
+2. Basis – Rooted in beliefs about what is right and wrong.
+
+
+3. Examples – Views on death penalty, euthanasia, etc.
+
+
+4. Influences – Shaped by family, society, religion, and education.
+
+
+5. Expectation from Civil Servants – Maintain high ethical standards for themselves and society.
+
+
 
 - **Morality and Administration:**
   - Paul Apple:
     - Morality cannot be separated from administration
     - Features of moral administration:
-      - Responsibility
+      - Sense of Responsibility
       - Skills in communication
-      - Ability to cultivate and utilize resources
+      - Ability to cultivate and utilize institutional resources
       - Willingness to engage in problem solving
       - Willingness to work with team
-      - Personal confidence
-      - Public need/interest
-      - Orientations
-        - Sympathy
-        - Empathy
-        - Compassion
-        - Kindness
-        - Detachment
-        - Hard work
-        - Sacrifice
-        - Impartiality
-        - Objectivity
+      - Personal confidence to initiate ideas
+      - Preference to Public need/interest and sensitivities
+      - 
+#### **Orientation of Civil Servants**
+
+1. Affection Level – Includes qualities like empathy, kindness, compassion, selflessness, public service, listening skills, conscience, and emotional intelligence.
+
+
+2. Cognitive Level – Focuses on rationality, scientific thinking, a spirit of learning, and detachment.
+
+
+3. Behavioral Level – Emphasizes hard work, sacrifice, impartiality, objectivity, integrity, and Nishkaam Karma (selfless action).
+
+
+
+
+
+
