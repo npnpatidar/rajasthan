@@ -2,12 +2,6 @@
 
 ## Introduction
 
-- Gandhi is one of the most debated figures of the century.
-- Extensive literature both for and against him.
-- Authored newspapers: _Young India_ & _Harijan_.
-- Government of India compiled his writings into 100 volumes.
-- Every major library has a dedicated Gandhi section.
-- His theories span across politics, economics, philosophy, ethics, and socialism.
 - "Gandhian Socialism is Socialism of Karl Marx - Violence."
 
 ## Core Concepts & Philosophies
@@ -17,10 +11,10 @@
 - **Vedanta:** _Brahma Satya, Jagan Mithya_ (Brahma is truth, the world is illusion).
 - **Neo-Vedanta:** Acknowledges the reality of social problems. Both Brahma _and_ the world are real.
 - Other Neo-Vedanta thinkers: Swami Vivekananda, Raja Ram Mohan Roy, Rabindranath Tagore, Dr. S. Radhakrishnan.
-- Radhakrishnan: Significant philosophical contributions, commented on Bhagavad Gita.
 
 ### 2. Key Influences
 
+- **Upanishads**: ईशावास्यं इदम सर्वम
 - **Bhagavad Gita:** _Swadharma_ (one's duty) concept, commentary through _Anasakti Yoga_ (detachment).
 - **Jainism/Yoga/Vedas:** _Panch Mahavrat_ (Five Great Vows).
 - **Buddhism & Patanjali Yoga.**
@@ -40,7 +34,7 @@
 #### a. Sathya (Truth)
 
 - General meaning: Reporting what is seen, heard, understood without alteration.
-- Gandhi's interpretation: Truth is God (wider than "God is Truth").
+- Gandhi's interpretation: Truth is God (wider than "God is Truth"). - atheist can agree with this
 - Ultimate objective of life: Realize Truth.
 - Autobiography: _My Experiments with Truth_.
 - **Following the path of truth requires:**
@@ -60,7 +54,7 @@
   - Courage
   - Patience
   - Honesty
-  - Lack of greed
+  - Lack of Hatred
 
 #### c. Ahimsa (Non-Violence)
 
@@ -69,7 +63,7 @@
 - Basic nature of humans, not just an ideal.
 - Violent solutions are temporary and one-sided. Non-violent solutions are permanent and universally accepted.
 - Non-violence is NOT cowardice. Violence is preferable to cowardice.
-- Non-violence is based on morality and spirituality.
+- Non-violence is based on morality and spirituality. Cowardice is based on helplessness and weakness.
 
 #### d. Asteya (Non-Stealing)
 
@@ -113,7 +107,7 @@
   - Opposes anthropocentrism (human-centeredness).
   - Human and nature are co-existent.
   - Nature can fulfill human needs but not human greed.
-  - Arne Næss: Gandhian thought can solve environmental problems.
+  - Arne Næss(book - Gandhi and Nuclear Age): Gandhian thought can solve environmental problems.
 - **Change of Heart (Hridaya Parivartan):**
   - Believe in transforming the individual via changing one's heart.
 - **Economic Ideas:**

@@ -13,9 +13,14 @@
 - **Quotes & Significance:**
   - "धर्मो रक्षति रक्षितः" - (dharmo rakshati rakshitah): "If you protect Dharma, Dharma will protect you."
   - "जो जिस करे तास फल पावे": "As you sow, so shall you reap."
+  - "ऋतस्य यथा प्रेत": "Act according to Rta"
   - Dr. S. Radhakrishnan defined dharma as not just the religious texts such as Vedas, Upanishads, Quran, or Bible. Rather, it is following rules and order in general, such as following traffic rules on road
 - **Ethics Definition:** Rta is a Vedic concept that governs natural, moral and ritualistic order of universe
-- **Administration Relevance:** Maintaining public welfare depends on public order. Administrative systems with constitutions, laws, rules, and regulations are all based on establishing and protecting order as such.
+- Ṛta cannot be violated without consequence; those who transgress it face punishment.
+- Varun is protector of Rta. 
+- Duties of every individual in society is decided, because of which moral order of society is maintained.
+- **Administration Relevance:**  Public welfare depends on maintaining public order. Administrative systems with constitutions, laws, rules, and regulations are all based on establishing and protecting order. Everyone should fulfill their duties to uphold this order.
+
 
 ## Rina (ऋण) - Debt and Obligation
 
@@ -42,7 +47,7 @@
   - **Hinduism:** Four Purusharthas (Dharma, Artha, Kama, Moksha) emphasizes that each action should lead to a duty in itself.
 - **Classification of Duties:**
   - **Positive vs. Negative:** What you _should_ do vs. what you _should not_ do (e.g., always tell the truth vs. never lie).
-  - **Perfect vs. Imperfect:** Duties with accepted exceptions vs. duties without exceptions (e.g., to not kill vs. to be generous).
+  - **Perfect vs. Imperfect:** Duties with accepted exceptions( Rights are given) vs. duties without exceptions(RIghts are not given) (e.g., to not kill vs. to be generous).
   - **Subjective vs. Objective:** Duties interpreted by an individual vs. duties uniform to all (e.g., personal spiritual practice vs. upholding the law).
   - **Legal vs. Moral:** Duties enforced by law vs. duties enforced by social norms (e.g., paying taxes vs. being honest).
 - **Duties of an Individual:**

@@ -34,7 +34,6 @@
 
 **2. Swami Vivekananda**
 
-- **Overview:**
 - **New Vedanta Thinker:**
 - **Influences:** Brahmo Samaj, Vedas, Upanishads, Bhagavad Gita, and Ramakrishna Paramahamsa (his teacher).
 - **Concept of Brahman:**
@@ -75,12 +74,11 @@
 
 **3. S. Radhakrishnan**
 
-- **Overview:**
-- **New Vedanta Thinker:**
+- **Neo Vedanta Thinker:**
 - **Core of Indian Philosophy:** Vedanta Philosophy (Shankaracharya's).
 - **Fundamental Element of Universe:** Param Sat (ultimate truth): conscious, infinite, and free. Experienced through intuition.
-- **Harmonizing Opposites:** Religion and science, idealism and realism.
-- **Modernist Ideas on Religion:**
+- **Harmonizing Opposites:** Religion and science, idealism and realism, modernism and traditionalism, spiritualism and materialism, reason and intuition
+- **Ideas on Religion:**
   - **Two Aspects:** External (rituals, places of worship) and Internal (core message).
   - Conflicts arise from emphasizing the external. All religions are equal based on the internal core.
 - **Ideas Related to Education:**
@@ -98,12 +96,12 @@
   - **Social:** Position, prestige. Remaining strong.
 - **Hindu Religion:** Should have a common authentic book and fill religious posts through exams (to allow lower castes equal opportunity).
 - **Advice to Lower Castes:** Give up traditional professions and focus on education.
-- **Social Dimension:** To decrease social dimension of cast, promote inter-caste marriages and dining.
+- **Social Dimension:** To decrease social discrimination of cast, promote inter-caste marriages and dining.
 - **Disagreement with Gandhi:**
   - Disagreed with Gandhi on the Varna system.
   - Disagreed with Gandhi’s approach of “change of heart” and called for legal and constitutional solutions.
 - **Religious Reform:** Supported religious reforms in Hinduism. Criticized Hinduism for caste system and varna system.
-- **Buddhism:** Adopted Buddhism and advocated for reforms within it.
+- **Buddhism:** Adopted Buddhism and advocated for reforms within it. started 'Navyana'
 - **Women's Rights:**
   - Criticized Islam for religious extremism and violation of women's rights.
   - Supported women's empowerment.
@@ -116,26 +114,25 @@
 - **Three Main Advices to Future Generations:**
   1. Abandon Gandhian methods (non-cooperation, civil disobedience) because they weaken law and order.
   2. Political democracy is not sufficient; social democracy must be achieved.
-  3. Do not surrender completely to leadership; maintain critical thinking.
+  3. Do not surrender completely to charismatic leadership; maintain critical thinking.
 - **Central Government:** Supported a strong central government to eliminate separatist ideologies.
 - **Opposition to Ideologies:** Opposed both communism and capitalism.
 
 **5. Maharishi Arvindo**
 
-- **Overview:** Known as Arvindo in Modern Indian History
-- **New Vedanta Thinker:**
-- **Concept of Integral Monism:**
+- **New Vedanta Thinker**: A modern philosopher integrating spirituality with materialism.
+- **Concept of Integral Monism:** Brahman despite being spiritual , encompasses materialism. 
 - **Belief About Brahman:** The world and humanity are imperfect expressions of the divine.
 - **Darwin's Theory of Evolution:** Added to the physical evolution, now mental evolution is occurring.
 - **Supreme Element:** Sachchidananda, expressed in various forms.
-- **Eight Levels of Development:** Matter, Prana, Manas, Manast, Super Manast, Anand, Chit, and Sat.
-- **Present Level:** Manast. The next stage is Super Manas, through which one will experience Sachchidananda (Liberation). Emphasized collective liberation over individual.
-- **Integral Yoga:** A form of yoga to achieve the “manasour of super manas” which brings collective liberation.
+- **Eight Levels of Development:** Matter, Prana (Life Energy), Manas (Mind), Super Manas (Higher Mind), Anand (Bliss), Chit (Consciousness), and Sat (Pure Being).
+- **Present Level:** Manas(Mind). The next stage is Super Manas, through which one will experience Sachchidananda (Liberation). Emphasized collective liberation over individual.
+- **Integral Yoga:** A form of yoga to transcend the **Manas** and attain **Super Manas**, leading to **collective liberation**. Through this divine life will descend on earth.
 - **Yoga as Unity:**
   - Uniting soul with God, finite with infinite.
   - Includes Hatha Yoga, Raja Yoga, Karma Yoga.
 - **Transformation:** Through yoga, physical, mental, and biological transformation takes place.
 - **Three Levels of Transformation:**
-  1. **Process of Atmanik:** Develops spiritual aspect and eliminates negative emotions (ego, anger, greed, lust).
-  2. **Process of Spirituality:** Develops spiritual aspects and attains peace, happiness, and stability.
-  3. **Process of Supermind:** State of self-knowledge where all types of differences are eliminated.
+  1. **Process of Atmcd raikta:** Develops spiritual awareness and eliminates negative emotions (ego, anger, greed, lust).
+  2. **Process of Spirituality:** Strengthens the spiritual self, attaining peace, happiness, and stability.
+  3. **Process of Supermind:** Achieves a state of higher self-knowledge where all distinctions and dualities dissolve.
