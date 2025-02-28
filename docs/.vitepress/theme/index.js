@@ -8,6 +8,7 @@ import { toRefs } from "vue";
 
 // custom CSS
 import "../style/print.css";
+import './custom.css'
 
 // Configure the search plugin
 // const searchOptions = {

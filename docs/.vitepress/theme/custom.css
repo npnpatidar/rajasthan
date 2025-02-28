@@ -1,0 +1,20 @@
+:root {
+    --heading-color: #ff5733;  /* Color for headings */
+    --bold-color: #007acc;     /* Color for bold text */
+    --italic-color: #ffcc00;   /* Color for italic text */
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    color: var(--heading-color);
+}
+
+/* Bold Text */
+strong {
+    color: var(--bold-color);
+}
+
+/* Italic Text */
+em {
+    color: var(--italic-color);
+}
