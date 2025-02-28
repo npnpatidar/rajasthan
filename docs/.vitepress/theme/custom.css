@@ -1,20 +1,23 @@
 :root {
-    --heading-color: #ff5733;  /* Color for headings */
-    --bold-color: #007acc;     /* Color for bold text */
-    --italic-color: #ffcc00;   /* Color for italic text */
+    --h1-color: #ff79c6;  /* Pink */
+    --h2-color: #bd93f9;  /* Purple */
+    --h3-color: #50fa7b;  /* Green */
+    --h4-color: #f1fa8c;  /* Yellow */
+    --h5-color: #8be9fd;  /* Cyan */
+    --h6-color: #ffb86c;  /* Orange */
+    
+    --bold-color: #ff5555;  /* Red */
+    --italic-color: #f8f8f2; /* Light Gray (Default Dracula text) */
 }
 
-/* Headings */
-h1, h2, h3, h4, h5, h6 {
-    color: var(--heading-color);
-}
+/* Different colors for each heading type */
+h1 { color: var(--h1-color); }
+h2 { color: var(--h2-color); }
+h3 { color: var(--h3-color); }
+h4 { color: var(--h4-color); }
+h5 { color: var(--h5-color); }
+h6 { color: var(--h6-color); }
 
-/* Bold Text */
-strong {
-    color: var(--bold-color);
-}
-
-/* Italic Text */
-em {
-    color: var(--italic-color);
-}
+/* Bold and Italic text */
+strong { color: var(--bold-color); }
+em { color: var(--italic-color); }
