@@ -16,10 +16,17 @@
     1.  Gather facts.
     2.  Define ethical issues.
     3.  Identify affected parties (stakeholders).
-    4.  Consider integrity, values, and ethical values.
-    5.  Create potential alternative solutions.
-    6.  Decide on the right ethical action.
-    7. Review.
+	    1. Primary (directly affected)
+	    2. Secondary (Indirectly affected)
+	4. Identify effects and consequence
+		1. Short term and long term
+		2. Positive and negative
+	
+	
+    
+    5.  Consider integrity and ethical values.
+    6.  Create potential alternative solutions.
+    7.  Decide on the right ethical action.
 
 ## 2. Framework for Ethical Decision Making
 
@@ -29,7 +36,7 @@
     *   **Rights Approach:** Choose the option that protects the rights of all and does not violate anyone's rights.
     *   **Justice Approach:** Choose the impartial and just option.  Treat equals equally.
     *   **Approach of Universal Good:** Select decision that ensures the welfare of all ( *Sarvodaya*, *Antyodaya*, *Lok Sangrah*).
-    *   **Virtue Approach:** Make decisions according to virtues like empathy, wisdom, courage, compassion, temperance, etc. (Plato).
+    *   **Virtue Approach:** Make decisions according to virtues like empathy, wisdom, courage, compassion, temperance, etc.
 
 ## 3. Social Justice
 
@@ -70,9 +77,9 @@
 *   **Necessity:** Creates balance between rights and duties. Ensures rights are not misused and duties are followed.
 
 *   **Components:**
-    *   Responsibility.
-    *   Enforceability.
-    *   Sensitivity.
+    *   Responsibility- appropriately explain decisions and actions.
+    *   Enforceability-take  punitive actions if duty is violated.
+    *   Sensitivity- take actions in public interest.
 
 *   **Types of Accountability:**
 
