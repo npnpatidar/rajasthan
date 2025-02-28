@@ -1,127 +1,118 @@
-/* Root variables for consistent theme colors */
+/* Root variables for consistent theme colors based on Obsidian */
 :root {
-    --h1-color: #ff79c6;  /* Pink */
-    --h2-color: #bd93f9;  /* Purple */
-    --h3-color: #50fa7b;  /* Green */
-    --h4-color: #f1fa8c;  /* Yellow */
-    --h5-color: #8be9fd;  /* Cyan */
-    --h6-color: #ffb86c;  /* Orange */
-    
-    --bold-color: #ff5555;  /* Red */
-    --italic-color: #f8f8f2; /* Light Gray */
-    
-    --background: #282a36;  /* Dracula Background */
-    --foreground: #f8f8f2;  /* Dracula Foreground */
-    --border-color: #44475a;
+  --h1-color: var(--text-title-h1);
+  --h2-color: var(--text-title-h2);
+  --h3-color: var(--text-title-h3);
+  --h4-color: var(--text-title-h4);
+  --h5-color: var(--text-title-h5);
+  --h6-color: var(--text-title-h6);
+
+  --bold-color: var(--color-red);
+  --italic-color: var(--text-normal);
+
+  --background: var(--background-primary);
+  --foreground: var(--text-normal);
+  --border-color: var(--background-primary-alt);
 }
 
 /* Heading colors */
-h1 { color: var(--h1-color); }
-h2 { color: var(--h2-color); }
-h3 { color: var(--h3-color); }
-h4 { color: var(--h4-color); }
-h5 { color: var(--h5-color); }
-h6 { color: var(--h6-color); }
+h1 {
+  color: var(--h1-color);
+}
+h2 {
+  color: var(--h2-color);
+}
+h3 {
+  color: var(--h3-color);
+}
+h4 {
+  color: var(--h4-color);
+}
+h5 {
+  color: var(--h5-color);
+}
+h6 {
+  color: var(--h6-color);
+}
 
 /* Bold and Italic text */
-strong { color: var(--bold-color); }
-em { color: var(--italic-color); }
-/**/
-/*/* Inline Code */*/
-/*code {*/
-/*    background-color: var(--background);*/
-/*    color: var(--foreground);*/
-/*    padding: 2px 5px;*/
-/*    border-radius: 5px;*/
-/*}*/
-/**/
-/*/* Code Blocks */*/
-/*pre {*/
-/*    background-color: var(--background) !important;*/
-/*    color: var(--foreground) !important;*/
-/*    padding: 1em;*/
-/*    border-radius: 8px;*/
-/*    overflow-x: auto;*/
-/*}*/
-/**/
-/*/* Blockquotes */*/
-/*blockquote {*/
-/*    border-left: 5px solid var(--h2-color);*/
-/*    padding: 10px 20px;*/
-/*    font-style: italic;*/
-/*    background-color: rgba(189, 147, 249, 0.1);*/
-/*}*/
-/**/
-/*/* Horizontal Rule */*/
-/*hr {*/
-/*    border: 0;*/
-/*    height: 1px;*/
-/*    background: linear-gradient(to right, var(--h1-color), var(--h2-color));*/
-/*    margin: 20px 0;*/
-/*}*/
-/**/
-/*/* Lists */*/
-/*ul, ol {*/
-/*    padding-left: 20px;*/
-/*}*/
-/**/
-/*ul li::before {*/
-/*    content: "• ";*/
-/*    color: var(--h3-color);*/
-/*    font-weight: bold;*/
-/*}*/
-/**/
-/*ol li {*/
-/*    color: var(--h5-color);*/
-/*}*/
-/**/
-/*/* Tables */*/
-/*table {*/
-/*    width: 100%;*/
-/*    border-collapse: collapse;*/
-/*}*/
-/**/
-/*th, td {*/
-/*    border: 1px solid var(--border-color);*/
-/*    padding: 8px;*/
-/*}*/
-/**/
-/*th {*/
-/*    background-color: #6272a4;*/
-/*    color: var(--foreground);*/
-/*}*/
-/**/
-/*tr:nth-child(even) {*/
-/*    background-color: rgba(255, 255, 255, 0.05);*/
-/*}*/
-/**/
-/*/* Links */*/
-/*a {*/
-/*    color: var(--h5-color);*/
-/*    text-decoration: none;*/
-/*}*/
-/**/
-/*a:hover {*/
-/*    text-decoration: underline;*/
-/*    color: var(--h3-color);*/
-/*}*/
-/**/
-/*/* Footnotes & Superscripts */*/
-/*sup {*/
-/*    font-size: 0.8em;*/
-/*    vertical-align: super;*/
-/*    color: var(--h6-color);*/
-/*}*/
-/**/
-/*sub {*/
-/*    font-size: 0.8em;*/
-/*    vertical-align: sub;*/
-/*    color: var(--h6-color);*/
-/*}*/
-/**/
-/*/* Task Lists */*/
-/*input[type="checkbox"] {*/
-/*    accent-color: var(--h3-color);*/
-/*    width: 16px;*/
-    /*height: 16px;*/
-/*}*/
+strong {
+  color: var(--bold-color);
+}
+em {
+  color: var(--italic-color);
+}
+
+/* Background and text */
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+}
+
+/* Code blocks */
+pre code {
+  background-color: var(--code-background);
+  color: var(--code-normal);
+}
+
+.token.function {
+  color: var(--dracula-definition);
+}
+.token.operator {
+  color: var(--dracula-keyword);
+}
+.token.number {
+  color: var(--dracula-number);
+}
+.token.string {
+  color: var(--dracula-string);
+}
+
+/* Blockquotes */
+blockquote {
+  color: var(--interactive-accent);
+  font-style: italic;
+  border-left: 3px solid var(--blockquote-border);
+  padding-left: 10px;
+}
+
+/* Links */
+a {
+  color: var(--text-a);
+}
+a:hover {
+  color: var(--text-a-hover);
+}
+
+/* Tables */
+th,
+td {
+  border: 1px solid var(--border-color);
+  padding: 5px;
+}
+thead {
+  background-color: var(--background-primary-alt);
+}
+
+/* Sidebar & Navigation */
+.nav-file-title,
+.nav-folder-title {
+  color: var(--text-muted);
+  background-color: var(--background-secondary);
+}
+.nav-file-title:hover,
+.nav-folder-title:hover {
+  color: var(--text-normal);
+}
+
+/* Buttons */
+button.mod-cta {
+  background-color: var(--interactive-accent);
+  color: var(--text-on-accent);
+}
+
+/* Miscellaneous */
+hr {
+  background-color: var(--text-normal);
+  border-color: var(--text-normal);
+}
