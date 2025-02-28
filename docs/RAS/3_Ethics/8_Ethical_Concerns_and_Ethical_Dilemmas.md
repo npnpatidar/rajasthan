@@ -71,6 +71,7 @@
 *   **Types of Ethical Dilemmas:**
     *   **Personal Cost Ethical Dilemma:** Compliance with ethical conduct results in significant personal cost to the decision-maker. (e.g., injuring valued relationships).
     *   **Right vs. Right Ethical Dilemma:** Conflict between two valid ethical principles. (e.g., transparency vs. oath of secrecy).
+    * **Conjoint Ethical Dilemma:** both personal cost and right vs right dilemma are present.
     *   **Frequency of Encounter:**
         *   Civil Servants and Politicians.
         *   Civil Servants and Citizens.
@@ -86,13 +87,15 @@
     *   Contradiction between Personal Values and Administrative Responsibilities.
 
 *   **Resolving Ethical Dilemmas:**
-    *   **Democratic Accountability of Administration:** Bureaucracy functions under a political order; address concerns to politicians.
-    *   **Imperative of Legality:** Civil servants should take decisions according to law.
-    *   **Imperative of Integrity:** Civil servants must behave with integrity, following codes of ethics and conduct.
-    *   **Imperative of Responsibleness:** Civil servant should be responsible to society and pay attention to needs and demands of people. Promoting concepts like "Sarvodaya" and "Antyodaya".
+    *   **Democratic Accountability of Administration:** Bureaucracy functions under a political order; address concerns to politicians in writing.
+    *   **Imperative of Legality:** Civil servants should take decisions according to law. It protects public interests.
+    *   **Imperative of Integrity:** Civil servants must behave with integrity, following codes of ethics and conduct. It is source of internal self control.
+    *   **Imperative of Responsiveness:** Civil servant should be responsive to society and pay attention to needs and demands of people. Create enabling environment for social and human developement. Promoting concepts like "Sarvodaya" and "Antyodaya".
     *   **Use of Ethical Guidance:** Consult constitutions, laws, departmental rules, senior advisors, and personal conscience developed through ethical studies.
 
 *   **Resolution of Ethical Dilemmas in Private Life:**
     *   Clarify personal values.
     *   Prioritize broader interests over narrow interests; use cost-benefit analysis.
     *   Seek ethical guidance from parents, teachers, and friends.
+    * Conscience
+    
