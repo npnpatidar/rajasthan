@@ -29,6 +29,9 @@ hero:
     - theme: alt
       text: Current Affairs
       link: /rajasthan/6_current_affairs/0_current_affairs_today
+    - theme: alt
+      text: RAS
+      link: /RAS/1_Sociology/1_Caste_and_Class
 
 features:
   - title: In-Depth Theory
