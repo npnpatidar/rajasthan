@@ -1,21 +1,24 @@
 ## Definition of Stress
 
 *   A situation where capability is low and challenges are high.
-*   Stress refers to all those physical, emotional, cognitive, and behavioral changes that occur as a result of difficult and challenging situations which influences all aspects of individual behavior.
+*   Stress refers to **all those physical, emotional, cognitive, and behavioral changes that occur as a result of difficult and challenging situations which influences all aspects of individual behavior.**
 *   Key point: Stress is like electricity - beneficial in moderation, but damaging in excess.
+
+*   **Low Stress:** Can lead to listlessness, low motivation, and reduced performance.
+*   **Stress Definition:** A pattern of responses to events that disrupt equilibrium and exceed coping abilities.
 
 ## Types of Stress
 
 ### 1. Hans Selye's Types of Stress
 
-*   **Eustress:** Positive stress, short-term, motivates and energizes.
+*   **Eustress:** Positive stress, short-term, motivates and energizes. Increases performance.
     *   Example: A player's stress during a game.
 
-*   **Distress:** Negative stress, can be short-term or long-term, demotivates and creates anxiety.
+*   **Distress:** Negative stress, can be short-term or long-term, demotivates and creates anxiety. Decreases performance.
     *   Example: Divorce of parents, losing a loved one.
 
 *   Distress subtypes:
-    *   *Acute Distress:* Episodic, Short-term.
+    *   *Acute Distress:* Episodic, Short-term. High Intensity.
         *   Example: Urgent task with the tyre punched
     *   *Chronic Distress:* Toxic, Long-term, Less intense.
         *   Example: Divorce, Financial problem.
@@ -23,6 +26,7 @@
 ### 2. Other Types of Stress
 
 *   **Hyperstress:** Occurs when an individual is pushed beyond what they can handle.
+	* Trigger strong emotiinal response
     *   Example: Work overload.
 
 *   **Hypostress:** Opposite of hyperstress; occurs when an individual is bored and unchallenged.
@@ -44,13 +48,14 @@
 
 ## Sources of Stress
 
-*   Factors that cause stress are called stressors.
+*   Factors that cause stress are called **stressors**.
 *   Three Basic Types:
     *   **Life Events:** Major events that disrupt routine and cause turmoil.
-        *   Example: Moving to a new house, Breakup.
-    *   **Hassles:** Annoying everyday events.
+        *   Example: Moving to a new house(planned), Breakup(non-planned).
+    *   **Hassles:** Annoying everyday events. 
         *   Example: Traffic problems, Water Shortage.
     *   **Traumatic Events:** Extreme events that have a lasting impact.
+	    * Need professional help
         *   Example: Train accident, Robbery, Stuck In Tunnel.
 
 ## Signs and Symptoms of Stress
