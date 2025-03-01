@@ -1,3 +1,4 @@
+# Learning and Motivation
 ## Learning: Definition
 
 *   **NCERT** Definition: Any **relatively permanent change** in behavior or behavioral potential **produced by practice and experience** is called learning.

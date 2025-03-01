@@ -1,4 +1,4 @@
-
+# Intelligence 
 ## Syllabus Breakdown
 
 The syllabus is broadly divided into four topics, leading to four lectures:
