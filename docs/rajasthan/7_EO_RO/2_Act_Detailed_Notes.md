@@ -1880,11 +1880,11 @@ Appeal to state government within 15 days
 
 ## Sanction of Budget Estimate
 
-| Aspect                      | Details                                                                                   |
-| --------------------------- | ----------------------------------------------------------------------------------------- |
-| **Adoption Deadline**       | - Municipality adopts budget by **15th February**                                         |
-| **State Govt. Involvement** | - Budget submitted to State Govt. via **Director of Local Bodies**                        |
-| **Govt. Changes**           | - State Govt. may direct necessary changes in budget; changes **binding** on Municipality |
+| Aspect                      | Details                                                                                                    |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Adoption Deadline**       | - Municipality adopts budget by **15th February** ( if not then **CMO** sends to State govt by **28 Feb**) |
+| **State Govt. Involvement** | - Budget submitted to State Govt. via **Director of Local Bodies**                                         |
+| **Govt. Changes**           | - State Govt. may direct necessary changes in budget; changes **binding** on Municipality                  |
 
 # Section 89
 
@@ -1902,14 +1902,14 @@ Appeal to state government within 15 days
 
 ## Constitution of Basic Services to the Urban Poor Fund
 
-| **Aspect**             | **Details**                                                                               |
-| ---------------------- | ----------------------------------------------------------------------------------------- |
-| **Purpose**            | Provide basic services to urban poor, including slum inhabitants.                         |
-| **Fund Name**          | Basic Services to the Urban Poor Fund (BSUP Fund).                                        |
-| **Minimum Allocation** | **≥ 25% of yearly municipal budget grants** (as prescribed by State Government).          |
-| **Unutilized Funds**   | - **Do not lapse.**<br>- Credited to fund for use in subsequent years.                    |
-| **Separate Account**   | - Maintained in a nationalized bank.<br>- Separate primary books of accounts as per NMAM. |
-| **Budget Enclosure**   | Fund allocation and utilization to be detailed in municipal annual budget.                |
+| **Aspect**             | **Details**                                                                                           |
+| ---------------------- | ----------------------------------------------------------------------------------------------------- |
+| **Purpose**            | Provide basic services to urban poor, including slum inhabitants.                                     |
+| **Fund Name**          | Basic Services to the Urban Poor Fund (BSUP Fund).                                                    |
+| **Minimum Allocation** | **≥ 25% of yearly municipal budget grants** (as prescribed by State Government).<br>( 2011 Amendment) |
+| **Unutilized Funds**   | - **Do not lapse.**<br>- Credited to fund for use in subsequent years.                                |
+| **Separate Account**   | - Maintained in a nationalized bank.<br>- Separate primary books of accounts as per NMAM.             |
+| **Budget Enclosure**   | Fund allocation and utilization to be detailed in municipal annual budget.                            |
 
 ## Funding Sources
 
@@ -2077,18 +2077,18 @@ Appeal to state government within 15 days
 
 ## Other Taxes that may be Imposed
 
-| Tax Type                       | Description                                                      |
-| ------------------------------ | ---------------------------------------------------------------- |
-| **Vehicle Tax**                | - Tax on **vehicles** plying within the Municipality             |
-| **Boat Tax**                   | - Tax on **boats** moored within the Municipality                |
-| **Lighting Tax**               | - For municipal lighting services                                |
-| **Congregation Tax**           | - Tax on gatherings or large meetings                            |
-| **Pilgrimage and Tourist Tax** | - Tax on **pilgrims and tourists** visiting the area             |
-| **Hoarding Tax**               | - Tax on land/buildings used for **advertisement hoardings**     |
-| **Fire Tax**                   | - Imposed for fire safety services                               |
-| **Parking Deficit Tax**        | - Tax on **deficit parking spaces** in non-residential buildings |
-| **Stamp Duty Surcharge**       | - Additional ==surcharge on **stamp duty** (up to 0.5%)==        |
-| **Other Taxes**                | - Any other tax within State Govt. power under **Constitution**  |
+| Tax Type                       | Description                                                                |
+| ------------------------------ | -------------------------------------------------------------------------- |
+| **Vehicle Tax**                | - Tax on **vehicles** plying within the Municipality                       |
+| **Boat Tax**                   | - Tax on **boats** moored within the Municipality                          |
+| **Lighting Tax**               | - For municipal lighting services                                          |
+| **Congregation Tax**           | - Tax on gatherings or large meetings                                      |
+| **Pilgrimage and Tourist Tax** | - Tax on **pilgrims and tourists** visiting the area                       |
+| **Hoarding Tax**               | - Tax on land/buildings used for **advertisement hoardings**               |
+| **Fire Tax**                   | - Imposed for fire safety services                                         |
+| **Parking Deficit Tax**        | - Tax on **deficit parking spaces** in non-residential buildings           |
+| **Stamp Duty Surcharge**       | - Additional ==surcharge on **stamp duty** (up to 10%)==<br>(earlier 0.5%) |
+| **Other Taxes**                | - Any other tax within State Govt. power under **Constitution**            |
 
 - **Constitutional Limit**: Taxes only within State Govt.'s constitutional authority.
 - **Implementation**: Levy, assessment, and collection as per the Act, rules, and bye-laws.

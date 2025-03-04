@@ -750,12 +750,15 @@ except for **election petitions**.
 ## Compulsory Acquisition of Property
 
 - State Govt acquires land.
+- Land acquisition Act  2013
 
 ---
 
 # Section 71
 
 ## Allotment and Regularization of Lands
+
+- under Rajasthan Land Revenue Act, 1956.
 
 ---
 
@@ -771,7 +774,7 @@ except for **election petitions**.
 
 ## Property Transfer
 
-- **20% plots** to **EWS/LIG** in group housing/township projects.
+- **20% plots** to **EWS/LIG** in group housing/township projects. ( 2011 Amendment)
 
 ---
 
@@ -821,6 +824,7 @@ except for **election petitions**.
 # Section 77
 
 ## Implementation of Recommendations of SFC
+- by State govt
 
 ---
 
@@ -911,6 +915,7 @@ except for **election petitions**.
 ## Preparation of Budget Estimate
 
 - By **CMO**: **15th January**.
+- Preliminary approval by **Finance Committee**
 - Presented by **Chairperson**: **31st January**.
 - Approved by: **15th February**.
 - **Enclosure**: Annual inventory, financial statement.
@@ -922,6 +927,7 @@ except for **election petitions**.
 ## Sanction of Budget Estimate
 
 - Submitted to **State Govt** via **Director of Local Bodies**.
+- CMO send by 28th February
 
 ---
 
@@ -933,9 +939,9 @@ except for **election petitions**.
 
 # Section 89A
 
-## Basic Services to Urban Poor Fund
+## Basic Services to Urban Poor Fund 
 
-- Allocation: More than **25% of the year’s municipal budget grants**.
+- Allocation: More than **25% of the year’s municipal budget grants**. ( 2011 Amendment)
 
 ---
 
@@ -992,7 +998,7 @@ except for **election petitions**.
 - Vehicle, boat, lighting.
 - Congregation, pilgrimage-tourist.
 - Hoarding, fire, parking.
-- Stamp duty surcharge (up to 0.5%).
+- Stamp duty surcharge (up to 10%). (earlier 0.5%)
 
 ---
 
@@ -1580,7 +1586,7 @@ Priority:
 - Failure to process: ₹5k–₹10k + 1 month.
 - Occupation w/o occupancy certificate: ₹30k–₹50k + ₹500/day.
 
-**Appeal**: Within 30 days.
+**Appeal**: Within 30 days to state govt.
 
 # Section 194A
 
@@ -2258,7 +2264,7 @@ Fine: ₹20k.
   - **Director of Public Health**
   - **District Medical and Health Officer**
 - Fine: **₹1k - ₹2k**
-- **Appeal:** To collector within **30 days**
+- **Appeal:** To **collector** within **30 days**
 
 ---
 
@@ -2311,7 +2317,7 @@ Fine: ₹20k.
 
 - Penalties: **₹2k - ₹5k** + **₹100/day**
 - Without License: **₹1k - ₹2k** + **₹100 - ₹500/day**
-- **Appeal:** To collector within **30 days**
+- **Appeal:** To **collector** within **30 days**
 
 ---
 
@@ -2524,7 +2530,7 @@ Fine: ₹20k.
 
 ## Specific Sections to Be Cognizable and Bailable
 
-- Sections: **167**, **236**, **245**
+- Sections: **167**, **236**, **245**, **297 (A), (B), (C)**
 
 ---
 
@@ -2545,7 +2551,7 @@ Fine: ₹20k.
 ## Suits against municipality or its officers
 
 - **Two-month notice**
-- **Action within six months**
+- **Action within six months** except for actions for **immovable property or title declarations.**
 
 # Section 305
 
