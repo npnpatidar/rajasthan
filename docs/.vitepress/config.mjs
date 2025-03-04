@@ -8,6 +8,7 @@ import navbar from "./navbar.json";
 export default withMermaid({
   title: "Rajasthan",
   description: "A site for Rajasthan",
+  ignoreDeadLinks: true,
   themeConfig: {
     footer: {
       message:
