@@ -1,3 +1,6 @@
+Effective from **11 September 2009**
+Formed under **Section 51, 52, 337** of Municipality Act 2009
+
 | **Rule**   | **Key Points**                                                                                                                                                                                                                                                                                                                                                                                       |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Rule 1** | **Short Title & Commencement**<br> - Rajasthan Municipality (Conduct of Business) Rules, 2009.<br> - Effective from Gazette publication.                                                                                                                                                                                                                                                             |
@@ -37,22 +40,22 @@
 |            | - Resolutions decided by a majority vote of members present.                                                            |
 |            | - In case of a tie, Presiding Officer casts deciding vote.                                                              |
 
-| **Rule 10** | **Procedure for Putting a Proposal to Vote**                                                                                              |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-|             | - Presiding Officer requests members to raise hands for or against the proposal.                                                          |
-|             | - Counts votes and announces results.                                                                                                     |
-|             | - Proceedings include:                                                                                                                    |
-|             | - Names of members voting for and against the proposal.                                                                                   |
-| **Rule 11** | **Minutes of Meetings**                                                                                                                   |
-|             | - Written in **Hindi** (Devanagari script) under CMO supervision **within 3 days** of meeting.                                            |
-|             | - Minutes include key facts and decisions consistent with:                                                                                |
-|             | - Legal provisions.<br> - Government directions/orders/instructions.                                                                      |
-|             | - CMO duty:                                                                                                                               |
-|             | - Ensure legality of decisions.<br> - Record advisory compliance.                                                                         |
-|             | - Distribution of Minutes:                                                                                                                |
-|             | - Copies to all members, Director/Deputy Director of Local Bodies, Regional Officer, and relevant authorities (e.g., District Collector). |
-|             | - **If Decision Conflicts with Advice:**                                                                                                  |
-|             | - CMO records objections and sends to the state government for further instructions.                                                      |
+| **Rule 10** | **Procedure for Putting a Proposal to Vote**                                                                                                                                                      |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|             | - **Presiding Officer** requests members to raise hands for or against the proposal.                                                                                                              |
+|             | - Counts votes and announces results.                                                                                                                                                             |
+|             | - Proceedings include:                                                                                                                                                                            |
+|             | - Names of members voting for and against the proposal.                                                                                                                                           |
+| **Rule 11** | **Minutes of Meetings**                                                                                                                                                                           |
+|             | - Written in **Hindi** (Devanagari script) under CMO supervision **within 3 days** of meeting.                                                                                                    |
+|             | - Minutes include key facts and decisions consistent with:                                                                                                                                        |
+|             | - Legal provisions.<br> - Government directions/orders/instructions.                                                                                                                              |
+|             | - CMO duty:                                                                                                                                                                                       |
+|             | - Ensure legality of decisions.<br> - Record advisory compliance.                                                                                                                                 |
+|             | - Distribution of Minutes:                                                                                                                                                                        |
+|             | - Copies to all members, Director/Deputy Director of Local Bodies, Regional Officer, and relevant authorities ( District Collector ( Board) or Divisional Commissioner( Council & Corporation )). |
+|             | - **If Decision Conflicts with Advice:**                                                                                                                                                          |
+|             | - CMO records objections and sends to the state government for further instructions.                                                                                                              |
 
 | **Rule 12** | **Speaking Conduct and Restrictions**                                                             |
 | ----------- | ------------------------------------------------------------------------------------------------- |
@@ -68,7 +71,7 @@
 |             | - Directs exclusion of non-compliant speeches from records.                                       |
 |             | - Can restrict members from participating for disrupting proceedings.                             |
 | **Rule 13** | **Duration of Speeches**                                                                          |
-|             | - Presiding Officer regulates speech duration at their discretion.                                |
+|             | - **Presiding Officer** regulates speech duration at their discretion.                                |
 
 | **Rule 14** | **Pecuniary Interest in Discussions**                                                                                  |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------- |
@@ -82,22 +85,22 @@
 | **Rule 16** | **Matters Outside Agenda**                                                                                             |
 |             | - **Discussion Allowed:** Only with Presiding Officer’s permission.                                                    |
 |             | - **Exception for Urgency:**                                                                                           |
-|             | - If Presiding Officer deems an unlisted proposal/work urgent in public interest, it can be considered.                |
+|             | - If **Presiding Officer** deems an unlisted proposal/work urgent in public interest, it can be considered.                |
 |             | - Requires **3/4th consent** of voting members present.                                                                |
 |             | - **Suspension of Meeting:**                                                                                           |
-|             | - Presiding Officer can suspend meeting to a later date/time if needed for order or proceedings.                       |
+|             | - **Presiding Officer** can suspend meeting to a later date/time if needed for order or proceedings.                       |
 
 | **Rule 18** | **Maintaining Order**                                                                                                   |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------- |
-|             | - Presiding Officer responsible for maintaining order during meetings.                                                  |
+|             | - **Presiding Officer** responsible for maintaining order during meetings.                                                  |
 |             | - Has full authority, including seeking assistance from police.                                                         |
 | **Rule 19** | **Calling Experts**                                                                                                     |
-|             | - Presiding Officer can invite government technical, legal, or other experts and local officials for advice.            |
+|             | - **Presiding Officer** can invite government technical, legal, or other experts and local officials for advice.            |
 | **Rule 20** | **Compliance with State Government Directions**                                                                         |
 |             | - Chairperson must convene meetings as directed by the state government or its authorized officer.                      |
 |             | - Include specified matters in the agenda as per government instructions.                                               |
 | **Rule 21** | **Custody of Proceedings and Records**                                                                                  |
-|             | - Chief Municipal Officer (CMO) responsible for safekeeping of municipal proceedings and records.                       |
+|             | - Chief Municipal Officer (**CMO**) responsible for safekeeping of municipal proceedings and records.                       |
 | **Rule 22** | **Repeal and Continuity**                                                                                               |
 |             | - **Repealed Rules:** Rajasthan Municipality (Conduct of Business) Rules, 1974.                                         |
 |             | - **Continuity Clause:** Meetings and decisions under the repealed rules remain valid if consistent with the new rules. |

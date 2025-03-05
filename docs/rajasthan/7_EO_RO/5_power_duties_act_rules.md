@@ -1,3 +1,8 @@
+- Formed Under 
+	- **[Section 55](./1_Act_short_notes#section-55)( Committees in Municipality)**, 
+	- **[Section 61](./1_Act_short_notes#section-61)( Delegation of Powers, Duties, and Functions)**,
+	- **[Section 337](./1_Act_short_notes#section-337)(Power of State Government to Make Rules and Orders)** of Municipal Act 2009
+- Effective **23 December 2009**
 # Rule 1: Abbreviation and Introduction
 
 | Term             | Description                                                   |
@@ -7,19 +12,18 @@
 
 # Rule 2: Definitions
 
-| Term              | Definition                                                                           |
-| ----------------- | ------------------------------------------------------------------------------------ |
-| **Act**           | [[ACT notes\|Rajasthan Municipal Act, 2009]]                                         |
-| **Section**       | Section of the Rajasthan Municipal Act                                               |
-| **Committee**     | Municipality committee formed under [[ACT notes#Section 55\| Section 55]] of the Act |
-| **Defined Terms** | Words defined in the Act have the same meaning here                                  |
+| Term              | Definition                                                                                  |
+| ----------------- | ------------------------------------------------------------------------------------------- |
+| **Act**           | [[ACT notes\|Rajasthan Municipal Act, 2009]]                                                |
+| **Section**       | Section of the Rajasthan Municipal Act                                                      |
+| **Committee**     | Municipality committee formed under [Section 55](./1_Act_short_notes#section-55) of the Act |
+| **Defined Terms** | Words defined in the Act have the same meaning here                                         |
 
 # Rule 3: Formation of Committees
 
 | Term           | Description                                       |
-| -------------- | ------------------------------------------------- |
-| **Committees** | Formed in the general meeting of the municipality |
-| **Process**    | Committees formed by ordinary general meeting     |
+| ----------- | ------------------------------------------------- |
+| **Process**    | Committees formed by **ordinary general meeting** |
 
 # Rule 4: Powers, Duties, and Acts of Committees
 
