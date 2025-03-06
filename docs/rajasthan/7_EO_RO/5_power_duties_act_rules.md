@@ -1,16 +1,17 @@
+# Rajasthan Municipality (Powers, Duties, and Acts) Rules, 2009 
 - Formed Under 
 	- **[Section 55](./1_Act_short_notes#section-55)( Committees in Municipality)**, 
 	- **[Section 61](./1_Act_short_notes#section-61)( Delegation of Powers, Duties, and Functions)**,
 	- **[Section 337](./1_Act_short_notes#section-337)(Power of State Government to Make Rules and Orders)** of Municipal Act 2009
 - Effective **23 December 2009**
-# Rule 1: Abbreviation and Introduction
+## Rule 1: Abbreviation and Introduction
 
 | Term             | Description                                                   |
 | ---------------- | ------------------------------------------------------------- |
 | **Rules**        | Rajasthan Municipality (Powers, Duties, and Acts) Rules, 2009 |
 | **Introduction** | Specifies the powers and duties of municipal committees       |
 
-# Rule 2: Definitions
+## Rule 2: Definitions
 
 | Term              | Definition                                                                                  |
 | ----------------- | ------------------------------------------------------------------------------------------- |
@@ -19,13 +20,13 @@
 | **Committee**     | Municipality committee formed under [Section 55](./1_Act_short_notes#section-55) of the Act |
 | **Defined Terms** | Words defined in the Act have the same meaning here                                         |
 
-# Rule 3: Formation of Committees
+## Rule 3: Formation of Committees
 
 | Term           | Description                                       |
 | ----------- | ------------------------------------------------- |
 | **Process**    | Committees formed by **ordinary general meeting** |
 
-# Rule 4: Powers, Duties, and Acts of Committees
+## Rule 4: Powers, Duties, and Acts of Committees
 
 ### 1. **Executive Committee**
 
@@ -86,7 +87,7 @@
 |                                               |                                |
 |                                               |                                |
 
-# Rule 5: *Repealed* (as of 28-01-2011)
+## Rule 5: *Repealed* (as of 28-01-2011)
 
 | Points                              | Description                                                                                   |
 | ----------------------------------- | --------------------------------------------------------------------------------------------- |
@@ -94,7 +95,7 @@
 |                                     | 2. Chairperson can approve, return, or instruct for presentation in the next general meeting. |
 |                                     | 3. No decision can be implemented without approval from the Chairperson or the Municipality.  |
 
-# Rule 6: Repeal and Re-enactment
+## Rule 6: Repeal and Re-enactment
 
 | Points                       | Description                                                                    |
 | ---------------------------- | ------------------------------------------------------------------------------ |
