@@ -8,10 +8,10 @@
   --h6-color: #a3be8c; /* Soft Green */
 
   --bold-color: #d08770; /* Muted Orange */
-  --italic-color: #8e44ad; /* Dark Gray */
+  --italic-color: #0000ff; /* Dark Gray */
 
   --background-light: #ffffff; /* Light Theme Background */
-  --background-dark: #121212; /* Dark Theme Background */
+  --background-dark: #000000; /* Dark Theme Background */
   --foreground-light: #000000; /* Light Theme Text */
   --foreground-dark: #ffffff; /* Dark Theme Text */
   --border-color: #44475a;
