@@ -1,20 +1,21 @@
 ## Comparison of Rajasthan State Schemes
 
-| Feature                          | Shree Annapurna Rasoi Yojana                          | Indira Gandhi Shahari Credit Card Yojana                                                | Mukhyamantri Shahari Rojgar Guarantee Yojana (MSRYG)     |
-| -------------------------------- | ----------------------------------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| **Former Name**                  | Indira Rasoi Yojana                                   | (No Change)                                                                             | Indira Gandhi Shahari Rojgar Guarantee Yojana            |
-| **Effective Date**               | Name change: Jan 3, 2024; Operational: Jan 6, 2024    | Launched: Aug 18, 2021; Expired: Mar 31, 2024                                           | Name change: Nov 25, 2024                                |
-| **Objective**                    | Provide subsidized meals to the urban poor.           | Provide interest-free loans to urban informal workers                                   | Provide guaranteed employment to urban poor.             |
-| **Beneficiaries**                | Urban poor and needy.                                 | Urban informal workers, unregistered unemployed (18-40/60)                              | Urban informal sector workers (18-60 years).             |
-| **Key Benefit**                  | ₹8 per meal.                                          | Up to ₹50,000 interest-free loan.                                                       | 125 days of guaranteed employment per year.              |
-| **Funding**                      | State Government (₹50 crore annual budget initially). | Banks (disbursement through state agencies).                                            | State Government (₹800 crore annual budget).             |
-| **Meal Cost/Subsidy**            | Total: ₹22, Subsidy: ₹14, Beneficiary: ₹8             | N/A (Interest-free loan)                                                                | N/A                                                      |
-| **Wage Rates (MSRYG)**           | N/A                                                   | N/A                                                                                     | Unskilled: ₹283, Semi: ₹295, Skilled: ₹309, Highly: ₹369 |
-| **Operational Area**             | 240 Urban Local Bodies (ULBs)                         | Urban areas of Rajasthan                                                                | All ULBs (targeting urban areas)                         |
-| **Monitoring**                   | Multi-tiered (State, District, ULB)                   | District level Banking committee, Nodal Department                                      | Multi-tiered (State, Divisional, District, ULB)          |
-| **Key Requirement**              | -                                                     | Jan Aadhaar, Income limits, residency                                                   | Jan Aadhaar Card                                         |
-| **Loan Repayment (Credit Card)** | N/A                                                   | Up to ₹25,000: 12 installments; ₹25,000-₹50,000: 18 installments. Moratorium: 3 months. | N/A                                                      |
-| **Grivance Redressal**           | N/A                                                   | N/A                                                                                     | District Collector,EO, Jan Sampark Portal (181)          |
+| Feature                          | Shree Annapurna Rasoi Yojana                                                        | Indira Gandhi Shahari Credit Card Yojana                                                | Mukhyamantri Shahari Rojgar Guarantee Yojana (MSRYG)         |
+| -------------------------------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| Budget                           | 2020-21                                                                             | 2021-2022                                                                               | 2022-2023                                                    |
+| **Former Name**                  | Indira Rasoi Yojana                                                                 | (No Change)                                                                             | Indira Gandhi Shahari Rojgar Guarantee Yojana                |
+| **Effective Date**               | Launched: *20 August 2020:*<br>Name change: *Jan 3, 2024;* Operational: Jan 6, 2024 | Launched: *18 Aug, 2021;* <br>Expired: *Mar 31, 2024*                                   | Launched: *9 September 2022;*<br>Name change: *Nov 25, 2024* |
+| **Objective**                    | Provide subsidized meals to the urban poor.                                         | Provide interest-free loans to urban informal workers                                   | Provide guaranteed employment to urban poor.                 |
+| **Beneficiaries**                | Urban poor and needy.                                                               | Urban informal workers, unregistered unemployed (18-40/60)                              | Urban informal sector workers (18-60 years).                 |
+| **Key Benefit**                  | ₹8 per meal.                                                                        | Up to ₹50,000 interest-free loan.                                                       | 125 days of guaranteed employment per year.                  |
+| **Funding**                      | State Government (*₹250* crore annual budget).                                      | Banks (disbursement through state agencies).                                            | State Government (*₹800 crore* annual budget).               |
+| **Meal Cost/Subsidy**            | Total: ₹30, Subsidy: ₹22, Beneficiary: ₹8                                           | N/A (Interest-free loan)                                                                | N/A                                                          |
+| **Wage Rates (MSRYG)**           | N/A                                                                                 | N/A                                                                                     | Unskilled: ₹283, Semi: ₹295, Skilled: ₹309, Highly: ₹369     |
+| **Operational Area**             | 240 Urban Local Bodies (ULBs)                                                       | Urban areas of Rajasthan                                                                | All ULBs (targeting urban areas)                             |
+| **Monitoring**                   | Multi-tiered (State, District, ULB)                                                 | District level Banking committee, Nodal Department                                      | Multi-tiered (State, Divisional, District, ULB)              |
+| **Key Requirement**              | -                                                                                   | Jan Aadhaar, Income limits, residency                                                   | Jan Aadhaar Card                                             |
+| **Loan Repayment (Credit Card)** | N/A                                                                                 | Up to ₹25,000: 12 installments; ₹25,000-₹50,000: 18 installments. Moratorium: 3 months. | N/A                                                          |
+| **Grivance Redressal**           | N/A                                                                                 | N/A                                                                                     | District Collector,EO, Jan Sampark Portal (181)              |
 
 ## Comparison of Central Government Schemes
 
@@ -38,22 +39,25 @@
 ### A. Shree Annapurna Rasoi Yojana (Formerly Indira Rasoi Yojana)
 
 *   **Effective Date of Name Change:** *January 3, 2024* (operational change effective January 6, 2024).
+*  Announced: 2020-21 budget 
 *  **Launched**: *20 August 2020* Rajiv Gandhi Birthday
 *   **Tagline:** "*Koi Bhookha Na Soaye*" (Let no one sleep hungry).
-* 
-*   **Operational Area:** 240 Urban Local Bodies (ULBs) in Rajasthan.
+*  Economic Survey - "लक्ष्य अंत्योदय , प्रण अंत्योदय , पथ अंत्योदय"
+*   **Operational Area:** **240 Urban Local Bodies** (ULBs) in Rajasthan.
 *   **Number of Kitchens:** 1000 (with a proposal to increase to 2000 in the 2023-24 budget, and a ₹700 crore proposed budget).
 *   **Meal Cost:** *₹30* per meal .
 	*  Beneficiary: *₹ 8* 
     *   Government *Subsidy: ₹22* per meal.
-*   **Annual Budget:** ₹50 crore (initial).
+*   **Annual Budget:** **₹250 crore** (initial).
 *   **Meal Target:**
     *   2.52 lakh meals per day.
-    *   9.21 crore meals per year (target as per Economic Survey; actual served by March 31, 2024: 19.17 crore).
+    * *5.47 crore meals per year ( Economic Review)*
+    *  
+    *   9.21 crore meals per year (target as per Economic Survey; *actual served by March 31, 2024: 19.17 crore*).
 *   **Meal Timings:**
-    *   Lunch: 8:30 AM to 3:00 PM (updated from 8:30 AM - 1:00 PM).
-    *   Dinner: 5:00 PM to 9:00 PM (updated from 5:00 PM - 8:00 PM).
-*   **Meal Composition (per thali - *600g* total):**
+    *   Lunch: *8:30 AM to 3:00 PM* (updated from 8:30 AM - 1:00 PM).
+    *   Dinner: *5:00 PM to 9:00 PM* (updated from 5:00 PM - 8:00 PM).
+*   **Meal Composition (per thali - *600g* total):** 
     *   Chapati & Pickle: *300g*.
     *   Dal: 100g.
     *   Vegetables: 100g.
@@ -86,7 +90,7 @@
 	* Division - ₹15,000, ₹11,000, ₹5,000
 	* District - ₹11,000
 *   **Audit:**
-    *   Office of the Accountant General.
+    *   *Office of the Accountant General.*
     *   *Local Fund Audit Department*.
     *   Committee formed at the Directorate level (Swayatt Shasan Vibhag).
 
@@ -117,7 +121,9 @@
     3.  **Technical Officers (AEN/XEN):** Provide technical sanction.
     4.  **EO:** Provides administrative and financial sanction.
 *   **Work Types:**  Diverse, including environmental protection, water conservation, sanitation, property maintenance, service-related tasks, heritage conservation, and convergence with other schemes (like PM Awas Yojana).
-*   **Material-Labor Ratio:** *70% wages, 30% materials* (changed from 75/25 around October 7, 2024).
+*   **Material-Labor Ratio:**
+	* Normal Work - *70% wages, 30% materials*
+	* Special Work - 30% wages, 70% material 
 *   **Payment:** Within *15 days* of work completion, directly to the linked Jan Aadhaar bank account.
 *  **Mat (Worksite Supervisor) Qualifications & Ratio:**
     *   **Female Mat:** 10th pass, trained.
@@ -143,8 +149,8 @@
     *   District Collector.
     *   EO/Commissioner.
     *   Jan Sampark Portal (181).
-    *   IGRGY Urban MIS portal (resolution within 7 days).
-*   **Audit:** Finance Committee (Rajasthan Nagar Palika Act section 55).
+    *   IGRGY Urban MIS portal (resolution *within 7 days*).
+*   **Audit:** *Finance Committee* (Rajasthan Nagar Palika Act section 55).
 
 ### C. Indira Gandhi Shahari Credit Card Yojana
 
@@ -156,18 +162,17 @@
     *   *Monthly income: <₹15,000.*
     *   *Family income: <₹50,000.*
     *   **Age:**
-        *   Registered Unemployed: 18-40 years.
-        *   Street Vendors: *18-60 years*.
+        *   Registered Unemployed Youth: 18-40 years.
+        *   Street Vendors: *18-60 years*, Must be surveyed, possess a vendor certificate, or have a letter of recommendation from the Nagar Nigam.
         *   Unorganized Sector Workers: 18-60 years.
-    *   Street vendors: Must be surveyed, possess a vendor certificate, or have a letter of recommendation from the Nagar Nigam.
 *   **Loan:** *Maximum ₹50,000, interest-free*.
 * **Loan Repayment:**
     * Loan upto 25000- 12 installments.
     * Loan from 25000 to 50000 - 18 installments.
 *   **Moratorium Period:** *3 months.*
 * **Loan Time Limit**
-    * Total - 25 Days.
-    * Nodal officer - 15 Days.
+    * Total time to release - 25 Days.
+    *  Document Check by Nodal officer - 15 Days.
     * Banks- 7 Days.
     * Credit card delivery - 3 Days.
 *   **Nodal Department:** Local Self Government Department.
@@ -177,16 +182,16 @@
     *   Review the progress monthly.
 *   **Economic Survey Data:**
     *   Targeted *5 lakh beneficiaries*.
-    *   ₹710 crore disbursed to 249,000 beneficiaries.
+    *   *₹710 crore disbursed to 249,000 beneficiaries*.
     *   Funds disbursed to 656,000 accounts.
 
 ### **II. Central Government Schemes**
 
 ### A. HRIDAY Yojana (National Heritage City Development and Augmentation Yojana)
 
-*   **Full Form:** National Heritage City Development and Augmentation Yojana.
-*   **Launch Date:** January 21, 2015.
-*   **Closure Date:** March 31, 2019.
+*   **Full Form:** *National Heritage City Development and Augmentation Yojana.*
+*   **Launch Date:** *January 21, 2015*.
+*   **Closure Date:** *March 31, 2019*.
 *   **Duration:** December 2014 to 2019.
 *   **Cities Included (12):**
     *   Uttar Pradesh: Varanasi, Mathura.
@@ -196,14 +201,14 @@
     *   Andhra Pradesh: Amaravati.
     *   Telangana: Warangal.
     *   Karnataka: Badami.
-    *   Rajasthan: Ajmer.
+    *   Rajasthan: *Ajmer*.
     *   Punjab: Amritsar.
     *   Gujarat: Dwarka.
 *   **Objective:** Integrated, inclusive, and sustainable development of heritage cities, preserving culture and heritage, and improving basic infrastructure.
-*   **Funding Pattern:** Centrally Sponsored Scheme (100% central government funding).
-*   **Nodal Ministry:** Ministry of Housing and Urban Affairs (MoHUA).
+*   **Funding Pattern:** *Centrally Sector Scheme* (100% central government funding).
+*   **Nodal Ministry:** Ministry of Housing and Urban Affairs (*MoHUA*).
 *   **Components:** Physical infrastructure, institutional, economic, and social.
-*   **Budget:** ₹500 crore.
+*   **Budget:** *₹500 crore.*
 *   **Project Funding Distribution (100%):**
     *   Pilot City Projects: 85%.
     *   Operationalization/Establishment: 6%.
