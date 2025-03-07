@@ -4,7 +4,7 @@
 | -------------------------------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | Budget                           | 2020-21                                                                             | 2021-2022                                                                               | 2022-2023                                                    |
 | **Former Name**                  | Indira Rasoi Yojana                                                                 | (No Change)                                                                             | Indira Gandhi Shahari Rojgar Guarantee Yojana                |
-| **Effective Date**               | Launched: *20 August 2020:*<br>Name change: *Jan 3, 2024;* Operational: Jan 6, 2024 | Launched: *18 Aug, 2021;* <br>Expired: *Mar 31, 2024*                                   | Launched: *9 September 2022;*<br>Name change: *Nov 25, 2024* |
+| **Effective Date**               | Launched: *20 August 2020:*<br>Name change: *Jan 6, 2024;* Operational: Jan 6, 2024 | Launched: *18 Aug, 2021;* <br>Expired: *Mar 31, 2024*                                   | Launched: *9 September 2022;*<br>Name change: *Nov 25, 2024* |
 | **Objective**                    | Provide subsidized meals to the urban poor.                                         | Provide interest-free loans to urban informal workers                                   | Provide guaranteed employment to urban poor.                 |
 | **Beneficiaries**                | Urban poor and needy.                                                               | Urban informal workers, unregistered unemployed (18-40/60)                              | Urban informal sector workers (18-60 years).                 |
 | **Key Benefit**                  | ₹8 per meal.                                                                        | Up to ₹50,000 interest-free loan.                                                       | 125 days of guaranteed employment per year.                  |
@@ -38,48 +38,49 @@
 
 ### A. Shree Annapurna Rasoi Yojana (Formerly Indira Rasoi Yojana)
 
-*   **Effective Date of Name Change:** *January 3, 2024* (operational change effective January 6, 2024).
+-  https://shreeannapurnarasoi.rajasthan.gov.in/AboutUs.aspx
+*   **Effective Date of Name Change:** *January 6, 2024*
 *  Announced: 2020-21 budget 
 *  **Launched**: *20 August 2020* Rajiv Gandhi Birthday
 *   **Tagline:** "*Koi Bhookha Na Soaye*" (Let no one sleep hungry).
 *  Economic Survey - "लक्ष्य अंत्योदय , प्रण अंत्योदय , पथ अंत्योदय"
-*   **Operational Area:** **240 Urban Local Bodies** (ULBs) in Rajasthan.
-*   **Number of Kitchens:** 1000 (with a proposal to increase to 2000 in the 2023-24 budget, and a ₹700 crore proposed budget).
+*   **Operational Area:** *240 Urban Local Bodies* (ULBs) in Rajasthan.
+*   **Number of Kitchens:** *1000* (with a proposal to increase to 2000 in the 2023-24 budget, and a ₹700 crore proposed budget).
 *   **Meal Cost:** *₹30* per meal .
 	*  Beneficiary: *₹ 8* 
     *   Government *Subsidy: ₹22* per meal.
-*   **Annual Budget:** **₹250 crore** (initial).
+*   **Annual Budget:** **₹250 crore** .
 *   **Meal Target:**
-    *   2.52 lakh meals per day.
+    *   *2.52 lakh meals per day.*
+    *  *9.21 crore people per year*
     * *5.47 crore meals per year ( Economic Review)*
-    *  
-    *   9.21 crore meals per year (target as per Economic Survey; *actual served by March 31, 2024: 19.17 crore*).
+    *  *actual served by March 31, 2024: 19.17 crore* (Economic Review)
 *   **Meal Timings:**
-    *   Lunch: *8:30 AM to 3:00 PM* (updated from 8:30 AM - 1:00 PM).
-    *   Dinner: *5:00 PM to 9:00 PM* (updated from 5:00 PM - 8:00 PM).
+    *   Lunch: *8:30 AM to 3:00 PM* 
+    *   Dinner: *5:00 PM to 9:00 PM* 
 *   **Meal Composition (per thali - *600g* total):** 
     *   Chapati & Pickle: *300g*.
     *   Dal: 100g.
     *   Vegetables: 100g.
     *   Rice/Khichdi (coarse grain): 100g.
 * **Thali Distribution Per Kitchen:**
-    *    Municipal Corporation- 200 (Lunch) & 200 (Dinner).
-    *    Municipal Council - 100 (Lunch) & 100 (Dinner).
-    *    Municipality - 100 (Lunch) & 100 (Dinner).
+    *    Municipal *Corporation*- *200* (Lunch) & 200 (Dinner).
+    *    Municipal *Council* - *100* (Lunch) & 100 (Dinner).
+    *    Municipality *Board* - *100* (Lunch) & 100 (Dinner).
 *   **Administrative Structure (Monitoring & Management):**
     *   **State Level:** State-Level Management and Monitoring Committee.
-        *   Chaired by: Hon'ble Minister of Urban Development and Self-Government.
+        *   Chaired by: Hon'ble *Minister* of Urban Development and Self-Government.
         *   Meeting Frequency: Every three months.
     *   **District Level:** District-Level Coordination and Monitoring Committee.
-        *   Chaired by: District Collector.
+        *   Chaired by: *District Collector*.
         *   Meeting Frequency: Every month.
-    *   **Local Body Level:**  Executive Officers (EOs) monitor daily operations.  Standing agenda for regular review.
+    *   **Local Body Level:**  Executive Officers (*EOs*) monitor daily operations.  Standing agenda for regular review.
 *   **Institution Selection (for running Rasois):**
-    *   Selected by the district-level committee.
-    *   Contract Duration: 3 years.
+    *   Selected by the *district-level committee*.
+    *   Contract Duration: *3 years.*
     *   Grants:
-        *   One-time grant: ₹5 lakh.
-        *   Recurring annual grant: ₹3 lakh.
+        *   *One-time* infrastructure grant: *₹5 lakh.*
+        *   *Recurring* annual grant: *₹3 lakh.*
     *   Local institutions are prioritized.
 *  **Coupon System:** One.
 *   **Public Contribution:** Individuals, institutions, and firms can contribute:
@@ -111,7 +112,7 @@
     *   Semi-skilled and unskilled workers can apply.
     *   Employment must be provided within *15 days of application*.
 *   **Wage Rates (per day):**
-    *   Unskilled: ₹283.
+    *   *Unskilled: ₹283*.
     *   Semi-skilled: ₹295 (₹283 + ₹12).
     *   Skilled: ₹309 (₹295 + ₹12).
     *   Highly Skilled: ₹369 (₹309 + ₹60).
@@ -135,16 +136,16 @@
         *   Add 1 Mat for every additional 20 workers.
 *   **Monitoring Committees:**
     *   **State Level:** State Level Sanctioning and Coordination Committee.
-        *   Chaired by: Principal Secretary/Secretary, Local Self Government Department.
-        *   Meeting Frequency: Every three months.
+        *   Chaired by: *Principal Secretary*/Secretary, Local Self Government Department.
+        *   Meeting Frequency: Every *three months.*
     *   **Divisional Level:**
-        *   Chaired by: Divisional Commissioner.
-        *   Meeting Frequency: Every two months.
-    *   **District Level:** District Project Coordinator (District Collector).
-        *   Meeting Frequency: Every month.
+        *   Chaired by: *Divisional Commissioner*.
+        *   Meeting Frequency: Every *two months*.
+    *   **District Level:** District Project Coordinator (District *Collector*).
+        *   Meeting Frequency: *Every month*.
     *   **Urban Local Body Level:**
-        *   Chaired by: EO.
-        *   Meeting Frequency: Frequent meetings.
+        *   Chaired by: *EO*.
+        *   Meeting Frequency: *Frequent* meetings.
 *   **Grievance Redressal:**
     *   District Collector.
     *   EO/Commissioner.
@@ -162,16 +163,16 @@
     *   *Monthly income: <₹15,000.*
     *   *Family income: <₹50,000.*
     *   **Age:**
-        *   Registered Unemployed Youth: 18-40 years.
-        *   Street Vendors: *18-60 years*, Must be surveyed, possess a vendor certificate, or have a letter of recommendation from the Nagar Nigam.
-        *   Unorganized Sector Workers: 18-60 years.
+        *   Registered Unemployed Youth: *18-40 years.*
+        *   Street Vendors: *minimum 18 years*, Must be surveyed, possess a vendor certificate, or have a letter of recommendation from the Nagar Nigam.
+        *   Unorganized Sector Workers: *18-60 years*.
 *   **Loan:** *Maximum ₹50,000, interest-free*.
 * **Loan Repayment:**
-    * Loan upto 25000- 12 installments.
-    * Loan from 25000 to 50000 - 18 installments.
+    * Loan upto *25000- 12 installments.*
+    * Loan from *25000 to 50000 - 18 installments.*
 *   **Moratorium Period:** *3 months.*
 * **Loan Time Limit**
-    * Total time to release - 25 Days.
+    * Total time to release - *25 Days.*
     *  Document Check by Nodal officer - 15 Days.
     * Banks- 7 Days.
     * Credit card delivery - 3 Days.
@@ -210,20 +211,21 @@
 *   **Components:** Physical infrastructure, institutional, economic, and social.
 *   **Budget:** *₹500 crore.*
 *   **Project Funding Distribution (100%):**
-    *   Pilot City Projects: 85%.
-    *   Operationalization/Establishment: 6%.
-    *   Capacity Development: 4%.
-    *   DPR Development: 4%.
-    *   IEC (Information, Education, Communication): 4%.
-    *   Administrative & Office Expenses: 1%.
+    *   Pilot City *Projects: 85%.*
+    *   *Operationalization*/Establishment: *6%.*
+    *   *Capacity* Development: *4%.*
+    *   *DPR* Development: *4%.*
+    *   *IEC* (Information, Education, Communication): *4%.*
+    *   Administrative & *Office Expenses: 1%.*
 *   **Monitoring Committees:**
     *   **National Level:**
         *   HRIDAY National Empowered Committee.
-            *   Co-Chaired by: Secretary, MoUD & Chief Secretary of the respective state.
+            *   Co-Chaired by: *Secretary, MoUD* & *Chief Secretary of the respective state*.
         *   Mission Directorate.
-            *   Headed by: Additional/Joint Secretary, MoUD.
+            *   Headed by: *Additional/Joint Secretary, MoUD.*
     *   **City Level (ULB Level):** City Level Advisory and Monitoring Committee.
-        *   Headed by: EO.
+        *   Headed by: *EO*.
+        * Mission Directorate : not below rank of CEO
 
 ### B. AMRUT Yojana (Atal Mission for Rejuvenation and Urban Transformation)
 
@@ -262,11 +264,11 @@
     *   >10 lakh population: 25% Central funding.
 *   **Monitoring Committees:**
     *   **National Level:** Apex Committee.
-        *   Chaired by: Secretary, Ministry of Housing and Urban Affairs.
+        *   Chaired by: *Secretary*, Ministry of Housing and Urban Affairs.
     *   **State Level:** State High Powered Steering Committee.
-        *   Chaired by: Chief Secretary.
+        *   Chaired by: *Chief Secretary*.
     *   **ULB Level:**
-        * Chaired by: EO.
+        * Chaired by: *EO*.
 *   **Economic Survey Data (Rajasthan):**
     *   AMRUT 1.0: ₹3223 crore allocated (central: ₹1515 crore, state: ₹874 crore).
     *   AMRUT 2.0: *₹3552 crore* allocated.
@@ -283,9 +285,9 @@
     *   Low-Income Group (*LIG*).
     *   Middle-Income Group (*MIG*).
 *   **Income Criteria (PMAY-U 2.0):**
-    *   EWS: Up to ₹3 lakh annual income.
-    *   LIG: ₹3 lakh to ₹6 lakh annual income.
-    *   MIG: ₹6 lakh to ₹9 lakh annual income.
+    *   EWS: Up to *₹3 lakh* annual income.
+    *   LIG: ₹3 lakh to *₹6 lakh* annual income.
+    *   MIG: ₹6 lakh to *₹9 lakh* annual income.
 *   **Components:**
     *   **In-situ Slum Redevelopment (ISSR):**
         *   *₹1 lakh per* dwelling unit.
@@ -302,21 +304,21 @@
         *   *₹2.5 lakh* per dwelling unit (for EWS only).
         *   For individual home construction.
 *   **House Size (BLC & AHP):**
-        * Minimum: 30 sq m
-        * Maximum: 45 sq m.
-*   **Central Assistance Installments (BLC):** 40%, 40%, 20%.
+        * Minimum: *30 sq m*
+        * Maximum: *45 sq m.*
+*   **Central Assistance Installments (BLC):** *40%, 40%, 20%.*
 *   **PMAY 2.0:**
     *   Launched: *September 1, 2024*.
     *   Duration: 5 years.
     *   Target: *1 crore new houses* (all-weather proof with basic amenities).
 * **PMAY 2.0 Verticals & Funding:**
-	* **BLC and AHP** - ₹2.5 lakh
+	* **BLC and AHP** - ₹2.5 lakh : for EWS only
 		* NE and Hill states,UTs of JK, Puducherry and Delhi - ₹2.25 lakh by center and ₹25k by state
 	    * Other UTs - ₹2.50 lakh per unit
 	    * Other states - ₹1.50 lakh by center and ₹1 lakh by state
     * **ARHC (Affordable Rental Housing Complexes):** For EWS, LIG, and homeless urban poor.
-	    * NE and Hill states,UTs of JK, Puducherry and Delhi - ₹ 3000 per unit
-	    * Other states - ₹2000 state share 
+	    * NE and Hill states,UTs of JK, Puducherry and Delhi - ₹ 3000 per sqmt per unit
+	    * Other states - ₹2000 state share + ₹3000 by center 
     * **ISS (Interest Subsidy Scheme):** For all three categories (EWS, LIG, MIG).
 	    * ₹ 1.80 lakh 
 *   **Important Notes:**
@@ -326,13 +328,13 @@
     *   Only one component can be availed per beneficiary.
 *   **Monitoring Committees:**
     *   **Central Level:** Central Sanctioning and Monitoring Committee.
-        *   Chaired by: Secretary, Ministry of Housing and Urban Affairs.
+        *   Chaired by: *Secretary*, Ministry of Housing and Urban Affairs.
     *   **State Level:** State Level Committee.
-        *   Chaired by: Chief Secretary.
+        *   Chaired by: *Chief Secretary.*
 * **IEC annual funds:**
-    * Municipality - 50000.
-    * Municipal Council - 75000.
-    * Muncipal Corporation - 150000.
+    * Municipality - ₹60K.
+    * Municipal Council - ₹1.5 lakh.
+    * Muncipal Corporation - ₹ 5 lakh.
 
 ### D. Swachh Bharat Mission (Urban)
 
@@ -361,14 +363,14 @@
 *   **Status Levels:** ODF, ODF+, ODF++, Water+.
 *   **Monitoring Committees:**
     *   **National Level:** National Advisory and Review Committee.
-        *   Chaired by: Secretary, Ministry of Housing and Urban Affairs.
+        *   Chaired by: *Secretary*, Ministry of Housing and Urban Affairs.
     *   **State Level:** State High Powered Committee.
-        *   Chaired by: Chief Secretary.
+        *   Chaired by: *Chief Secretary*.
     *   **District Level:**
-        *   Chaired by: District Collector.
+        *   Chaired by: District *Collector*.
     *   **ULB Level:**
-        *   Chaired by: EO.
-*   **APP:** My Toilet App (For Public feedback)
+        *   Chaired by: *EO*.
+*   **APP:** *My Toilet App* (For Public feedback)
 *   **Economic Survey Data (Rajasthan):**
     *   3.69 lakh individual toilets.
     *   22,547 CT/PTs.
@@ -426,9 +428,9 @@
         *   Chaired by:  **Minister**, Ministry of Housing and Urban Affairs.  *(This is a key difference from other schemes.)*
     *   **State Level:** State Mission Management Unit.
         *   Chaired by: **Chief Minister**. *(Another key difference.)*
-    *   **District Level:** District Mission Management Unit.
-        *   Chaired by: Municipal Commissioner/EO.
-*   **Portal:** U-Learn Portal.
+    *   **City Level:** City Mission Management Unit.
+        *   Chaired by: Municipal Commissioner/*EO*.
+*   **Portal:** *U-Learn Portal*.
 *   **Economic Survey Data (Rajasthan):**
     *   *Implemented in 213 urban bodies.*
     *   ₹25 crore allocated in 2023-24 budget.
