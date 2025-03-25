@@ -1,70 +1,76 @@
-The **Prajamandal movements** in Rajasthan were pivotal in the fight for freedom and democracy during British rule and the princely states' feudal oppression. These movements emerged in the early 20th century and aimed to challenge the autocratic policies of princely rulers and British imperial control, while also working for civil rights, social reforms, and political representation. Here’s an overview:
+### Key Points
+- The Prajamandal movement in Rajasthan was a series of political movements from the 1920s to 1940s, aiming to end autocratic rule and establish democratic governance in princely states.
+- It was part of the broader Indian independence movement, focusing on securing democratic rights and fighting feudalism and colonialism.
+- Major Prajamandals, such as Jaipur, Marwar, and Mewar, were led by key figures like Jamnalal Bajaj and Manikyalal Verma, contributing to political awakening and social reforms.
+- An unexpected detail is that Shahpura Prajamandal was the first to establish responsible governance, highlighting early success in democratic reforms.
+
+### Overview
+The Prajamandal movement was a significant effort in Rajasthan's princely states to challenge autocratic rule and align with India's freedom struggle. It emerged in the 1920s, influenced by national movements, and sought democratic rights for the people.
+
+### Historical Context
+In 1927, the All India States People’s Conference in Bombay allowed princely state participation, leading to the formation of councils like the Rajputana Desi Lok Parishad, which laid the groundwork for Prajamandals in Rajasthan.
+
+### Key Contributions
+These movements implemented constructive programs, such as promoting education and khadi, and linked peasant struggles across regions, fostering political awareness and social equality.
 
 ---
 
-### **Background of Prajamandal Movements**
-- **Nature of Princely States in Rajasthan:** Rajasthan comprised 19 princely states, where rulers often governed with feudal authority, ignoring the welfare of the common people. Heavy taxes, forced labor (**begar**), and lack of civil liberties were common.
-- **Role of Nationalist Movements:** Inspired by the Indian National Congress and Gandhian ideals, local leaders initiated movements in Rajasthan to fight for democratic governance and socio-economic reforms.
+### Notes on the Prajamandal Movement in Rajasthan
 
----
+The Prajamandal movement in Rajasthan was a pivotal series of political movements during the 1920s to 1940s, aimed at ending the autocratic rule of feudal princes and establishing democratic governance accountable to the people. As part of the broader Indian independence movement, it played a crucial role in integrating Rajasthan's struggles with national efforts, contributing to the region's socio-political development and eventual integration into the Indian Union post-independence.
 
-### **Key Features**
-1. **Aims and Objectives:**
-   - Establish responsible governance in princely states.
-   - Abolish oppressive taxes and practices like begar.
-   - Promote education, healthcare, and civil liberties.
-   - End British interference in princely states' administration.
-   
-2. **Leadership:**
-   - Leaders like **Jai Narayan Vyas**, **Manikya Lal Verma**, **Ram Narayan Chaudhary**, and others played key roles.
-   - Many leaders were closely associated with the Indian National Congress.
+#### Historical Background and Context
+The movement gained momentum following the 1927 All India States People’s Conference in Bombay, which permitted people from princely states to join the Indian freedom struggle. This led to the establishment of the Akhil Bhartiya Desi Rajya Lok Parishad and, specifically in Rajasthan, the Rajputana Desi Lok Parishad. These councils were instrumental in laying the foundation for the Prajamandal movement, responding to increasing oppression by landlords and aligning with farmer movements and Gandhi's national freedom struggle, which heightened public awareness.
 
-3. **Methods:**
-   - Non-violent protests, demonstrations, and public meetings.
-   - Mobilizing peasants and laborers against feudal exploitation.
-   - Submitting petitions and memoranda to princely rulers and the British government.
+The movement was characterized by its dual fight against feudalism and colonialism, targeting both the autocratic rule of princes and the British administration. It emerged in the 1920s, with significant activity continuing through the 1930s and 1940s, reflecting the broader push for democratic reforms and responsible government.
 
----
+#### Objectives and Activities
+The primary objectives of the Prajamandal movements included securing democratic and fundamental rights for the people, ending misrule in princely states, and establishing governance accountable to the populace. Activities mirrored those of the Indian National Movement, such as:
 
-### **Major Prajamandal Movements in Rajasthan**
-1. **Mewar Praja Mandal (1938):**
-   - Founded by **Manikya Lal Verma** in Udaipur.
-   - Focused on abolishing begar, promoting education, and ensuring public representation in governance.
-   - Played a crucial role in connecting with the broader national movement.
+- Establishing schools to improve education.
+- Promoting khadi and encouraging cottage industries to foster economic self-sufficiency.
+- Agitating against untouchability to promote social equality.
+- Implementing constructive programs that linked peasant movements across princely states and British India, creating a unified front for change.
 
-2. **Marwar Praja Mandal (1934):**
-   - Established by **Jai Narayan Vyas** in Jodhpur.
-   - Protested against the despotic rule of Maharaja Umaid Singh.
-   - Advocated for civil liberties, ending forced labor, and introducing reforms in administration.
+These efforts were crucial in raising political awareness and advocating for reforms, contributing to the broader freedom struggle.
 
-3. **Jaipur Praja Mandal (1931):**
-   - Formed by **Jamnalal Bajaj** and **Kapil Dev** in Jaipur.
-   - Targeted the oppressive policies of Maharaja Man Singh II.
-   - Mobilized support for issues like famine relief, tax reduction, and constitutional reforms.
+#### Key Prajamandals and Their Leaders
+Various Prajamandals were established across Rajasthan, each with distinct leadership and contributions. Below is a detailed table summarizing the major Prajamandals, their establishment years, and key figures:
 
-4. **Bikaner Praja Mandal:**
-   - Active against the feudal policies of the Bikaner princely state.
-   - Leaders like **Kisan Lal Joshi** worked to promote peasants' rights.
+| **Prajamandal** | **Year Established** | **Key Founders/Figures**                                                               | **Notes**                                                                                                                                                                                                                      |
+| --------------- | -------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Jaipur          | 1931                 | Arjunlal Sethi, Kapur Chand Patni, Jamnalal Bajaj, Hiralal Shastri, Chiranjilal Mishra | First Prajamandal; Jamnalal Bajaj called himself "Gulam No. 4"; Reorganized in 1936 with Chiranjilal Mishra as president; 1942: Gentlemen’s Agreement with Hiralal Shastri and Mirza Ismail, excluded from Quit India Movement |
+| Bundi           | 1931                 | Kantilal, Nityanand                                                                    | Bundi State Public Council established in 1944 by Rishidatt Mehta                                                                                                                                                              |
+| Marwar          | 1934                 | Jaynarayan Vyas (Sher-e-Rajasthan), Bhanwarlal Sarraf                                  | Marwar Lok Parishad formed in 1938 under Ranchhod Das Gattani                                                                                                                                                                  |
+| Hadoti          | 1934                 | Nayanuram Sharma                                                                       | Kota Prajamandal formed in 1938/1939 by Nayanuram Sharma and Abhitri Hari                                                                                                                                                      |
+| Dholpur         | 1936                 | Krishnadutt Paliwal, Mulchand, Jwala Prasad Jigasu                                     | -                                                                                                                                                                                                                              |
+| Bikaner         | 4 Oct 1936           | Mangharam Vaidya, Raghuvar Dayal Goyal                                                 | Only Prajamandal established outside Rajasthan (Calcutta); Bikaner State Council formed in 1942 by Raghuvar Dayal                                                                                                              |
+| Mewar           | 24 Apr 1938          | Manikyalal Verma, Balwant Singh Mehta, Bhure Lal Baya                                  | First session in 1941 at Shahpura Haveli, Udaipur, with J.B. Kripalani and Vijayalakshmi Pandit                                                                                                                                |
+| Bharatpur       | 1938                 | Jugal Kishore Chaturvedi, Gopilal Yadav                                                | -                                                                                                                                                                                                                              |
+| Shahpura        | 18 Apr 1938          | GokulLal Asawa, Madan Lal Purohit                                                      | First state to establish responsible government, a notable early success                                                                                                                                                       |
+| Alwar           | 1938                 | Pt. Harinarayan Sharma, Kunj Bihari Modi, Sardar Nathimala                             | Registered in 1939; President: Sardar Natthamal                                                                                                                                                                                |
+| Kota            | 1938                 | Nayanuram Sharma, Abhinna Hari                                                         | -                                                                                                                                                                                                                              |
+| Kishangarh      | 1939                 | Kantilal Chauthani, Jamal Shah                                                         | -                                                                                                                                                                                                                              |
+| Karauli         | Apr 1939             | Trilok Chand Mathur, Chiranjilal Sharma, Kunwar Madan Singh                            | -                                                                                                                                                                                                                              |
+| Sirohi          | 23 Jan 1939          | Gokulbhai Bhatt (Rajasthan’s Gandhi)                                                   | -                                                                                                                                                                                                                              |
+| Kushalgarh      | Apr 1942             | Bhanwarlal Nigam, Kanhaiyalal Sethia                                                   | -                                                                                                                                                                                                                              |
+| Banswara        | 1943                 | Bhupendranath Trivedi, Dhulji Bhai Bhavsar, Manishankar Nagar                          | -                                                                                                                                                                                                                              |
+| Dungarpur       | 1 Aug 1944           | Bhogilal Padya (Vagad’s Gandhi), Shivalal Kotaria                                      | -                                                                                                                                                                                                                              |
+| Pratapgarh      | 1945                 | Chunnilal, Amritlal                                                                    | -                                                                                                                                                                                                                              |
+| Jaisalmer       | 15 Dec 1945          | Mithalal Vyas                                                                          | Established in Jodhpur                                                                                                                                                                                                         |
+| Jhalawar        | 25 Nov 1946          | Mangilal Bhavy, Kanhiya Lal Mittal, Makbool Alam                                       | -                                                                                                                                                                                                                              |
 
-5. **Kota Praja Mandal:**
-   - Focused on labor and peasant rights.
-   - Played a role in the broader Quit India Movement.
+This table highlights the widespread nature of the movement, with each Prajamandal contributing to local and regional political awakening.
 
-6. **Dungarpur and Banswara Praja Mandals:**
-   - Tribal leaders actively participated, opposing oppressive forest laws and taxation policies.
+#### Significance and Impact
+The Prajamandal movements had a profound impact on Rajasthan's socio-political landscape:
 
----
+- **Political Awakening:** They created awareness among the populace about their rights and the need for political participation, fostering a democratic ethos.
+- **Educational and Social Reforms:** By establishing schools and promoting social equality, they laid the foundation for modern governance and societal progress.
+- **Integration with National Movement:** They linked local struggles with the national freedom movement, ensuring Rajasthan's alignment with India's independence efforts.
+- **Early Democratic Success:** Notably, Shahpura Prajamandal's achievement in establishing responsible governance was an unexpected early success, demonstrating the feasibility of democratic reforms in princely states.
 
-### **Key Events**
-- **Protests and Repression:** Movements often faced severe repression from princely rulers, including arrests and exile of leaders.
-- **Participation in the Quit India Movement (1942):** Many Praja Mandal leaders and workers aligned their activities with the Quit India Movement, intensifying anti-British resistance.
-- **Integration of Princely States (1947-1949):** After independence, Praja Mandals played a vital role in integrating princely states into the Indian Union, ensuring democratic governance.
+These contributions were instrumental in preparing Rajasthan for integration into the Indian Union post-independence, marking a significant step towards democratic governance.
 
----
-
-### **Significance**
-- **Strengthened National Movement:** The Prajamandal movements brought the nationalist struggle to princely states, ensuring broader participation.
-- **Social Reforms:** They addressed socio-economic issues like caste discrimination, forced labor, and illiteracy.
-- **Democratic Legacy:** These movements laid the groundwork for Rajasthan's eventual transition to a democratic and united state after independence.
-
-The Prajamandal movements symbolize the fight for justice, equality, and democratic rights in Rajasthan during the colonial period.
+#### Conclusion
+The Prajamandal movement in Rajasthan was a critical component of the region's journey towards democracy and freedom. By challenging feudal and colonial structures, it not only advanced local governance but also reinforced the national struggle for independence, leaving a lasting legacy in Rajasthan's political history.
