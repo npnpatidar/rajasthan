@@ -31,7 +31,7 @@ hero:
       link: /rajasthan/6_current_affairs/0_current_affairs_today
     - theme: alt
       text: RAS
-      link: /RAS/1_Sociology/1_Caste_and_Class
+      link: /RAS/0_Syllabus_Mains
 
 features:
   - title: In-Depth Theory
