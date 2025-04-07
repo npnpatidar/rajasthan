@@ -21,6 +21,10 @@ export default withMermaid({
       dark: "/rajasthan_no_background_dark.svg",
       alt: "Rajasthan Map",
     },
+    outline: {
+      level: [2, 2], // show H2 and H3
+      label: "On This Page", // optional custom label
+    },
     nav: [{ text: "Home", link: "/" }],
     sidebar: navbar,
     search: {
