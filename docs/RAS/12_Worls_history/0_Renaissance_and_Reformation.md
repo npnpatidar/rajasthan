@@ -1,144 +1,153 @@
+# Comprehensive Detailed Notes: Renaissance and Reformation
 
-## **I. The Renaissance (Approx. Late 14th - Early 17th Century)**
+## I. The Renaissance (Approx. Late 14th - Early 17th Century)
 
-**1. Meaning, Origin & Context:**
-    *   **Meaning:** French for **"Rebirth"**. Refers to a period of profound cultural, artistic, intellectual, and economic transformation in Europe, marking a revival of interest in the classical civilizations of **Ancient Greece and Rome**.
-    *   **Transition:** Seen as a bridge between the **Middle Ages** (often characterized, perhaps overly simplistically, as dominated by faith and feudalism) and **Modernity** (characterized by secularism, individualism, and scientific inquiry).
-    *   **Origin:** Began in the prosperous **Italian city-states** (Florence, Venice, Genoa, Milan, Rome) during the 14th century (Trecento). Florence, under the influence of families like the Medici, is often considered the cradle of the Renaissance.
-    *   **Spread:** Gradually spread northwards to other parts of Europe (France, England, Holy Roman Empire, Low Countries) during the 15th and 16th centuries, adapting to local conditions (**Northern Renaissance**).
+### 1. Meaning, Origin & Context:
 
-**2. Causes / Contributing Factors:**
-    *   **Rediscovery of Classical Texts:** Increased availability of Greek and Roman manuscripts. The **Fall of Constantinople (1453)** accelerated this as Byzantine scholars fled westward, bringing classical knowledge. Monasteries had also preserved many texts.
-    *   **Rise of Independent City-States:** Wealth generated through **trade, banking, and manufacturing** in Italian cities created a prosperous merchant and banking class with the resources and desire for cultural advancement. Relative political independence allowed for innovation.
-    *   **Patronage System:** Wealthy families (**Medici** in Florence), Popes (e.g., Julius II, Leo X), princes, guilds, and affluent merchants commissioned artworks, buildings, and supported scholars, fostering artistic and intellectual creativity.
-    *   **Invention of the Printing Press (Johannes Gutenberg, c. 1440s):** Revolutionized communication. Allowed for the mass production and rapid **dissemination of ideas**, classical texts, and later, Reformation pamphlets, making knowledge more accessible beyond the clergy and nobility.
-    *   **Decline of Feudalism & Weakening Church Influence:** The crises of the Late Middle Ages (famine, plague, Avignon Papacy, Great Schism) somewhat weakened the absolute dominance of the feudal system and the Catholic Church, creating space for new ideas and **secular concerns**.
-    *   **Increased Interaction:** Trade and travel (including Crusades, though earlier) led to greater contact with Byzantine and Islamic cultures, which had preserved and built upon classical knowledge.
+*   **Meaning:** French for **"Rebirth"**. Refers to a period of profound cultural, artistic, intellectual, and economic transformation in Europe, marking a revival of interest in the classical civilizations of **Ancient Greece and Rome**.
+*   **Transition:** Seen as a bridge between the **Middle Ages** (often characterized, perhaps overly simplistically, as dominated by faith and feudalism) and **Modernity** (characterized by secularism, individualism, and scientific inquiry).
+*   **Origin:** Began in the prosperous **Italian city-states** (Florence, Venice, Genoa, Milan, Rome) during the 14th century (Trecento). Florence, under the influence of families like the Medici, is often considered the cradle of the Renaissance.
+*   **Spread:** Gradually spread northwards to other parts of Europe (France, England, Holy Roman Empire, Low Countries) during the 15th and 16th centuries, adapting to local conditions (**Northern Renaissance**).
 
-**3. Core Ideals & Characteristics:**
-    *   **Humanism:**
-        *   An intellectual movement focused on **human potential, achievements, reason, and worldly experience**. Central tenet: *"Man is the measure of all things"* (Protagoras, rediscovered).
-        *   Shift from a predominantly **theocentric** (God-centered) worldview to one incorporating **anthropocentric** (human-centered) perspectives. Not necessarily anti-religious, but placed greater emphasis on human agency and life on Earth.
-        *   Focused on the **_Studia Humanitatis_** (Humanities): grammar, rhetoric, poetry, history, and moral philosophy, based on classical models. Figures like **Petrarch** (often called the "Father of Humanism") were key in reviving classical study.
-    *   **Individualism:**
-        *   Emphasis on the **unique talents, potential, and achievements of the individual**. A departure from the medieval focus on collective identity (guild, Church, feudal rank).
-        *   Reflected in the rise of **portraiture** (celebrating individual appearance), autobiography, and the concept of the artist/scholar as a celebrated genius.
-    *   **Secularism:**
-        *   Increased focus on **worldly (non-religious) affairs**, such as politics, wealth, patronage, and the enjoyment of life on Earth, rather than solely on salvation and the afterlife.
-        *   This did *not* necessarily mean atheism, but rather a broadening of interests beyond purely religious doctrine.
-    *   **Rationalism & Skepticism:**
-        *   Emphasis on **reason, observation, empirical evidence, and critical thinking**.
-        *   A willingness to **question traditional authorities** and established beliefs, including those of the Church and ancient philosophers like Aristotle (though still highly respected).
-    *   **Well-Roundedness ('Renaissance Man' / _Uomo Universale_):**
-        *   An ideal individual who possessed broad intellectual interests and was accomplished in diverse fields – arts, sciences, humanities, physical pursuits.
-        *   Belief that humans were capable of limitless development.
-        *   **Example:** **Leonardo da Vinci** is the archetypal 'Renaissance Man' – a master painter (*Mona Lisa*, *The Last Supper* painted in Santa Maria delle Grazie, Milan), sculptor, architect, musician, scientist, mathematician, engineer, inventor, anatomist, geologist, cartographer, botanist, and writer. *(Addresses Leonardo PYQ & 'Renaissance Man' PYQ)*
+### 2. Causes / Contributing Factors:
 
-**4. Manifestations Across Fields:**
-    *   **Art:**
-        *   Techniques: Development of **perspective** (creating 3D illusion), **realism** in depicting human anatomy and emotion, use of **chiaroscuro** (light and shadow).
-        *   Themes: Continued religious themes, but also revival of **classical mythology** and portraiture. Focus on human form and beauty.
-        *   Key Artists: Leonardo da Vinci, **Michelangelo** (Sistine Chapel ceiling, *David*), **Raphael** (*School of Athens*), **Donatello** (sculptor), Botticelli (*Birth of Venus*).
-    *   **Architecture:**
-        *   Revival of **classical forms**: symmetry, proportion, domes, columns (Doric, Ionic, Corinthian), arches.
-        *   Key Architects/Works: **Filippo Brunelleschi** (Dome of Florence Cathedral), Bramante, Palladio. St. Peter's Basilica in Rome (begun in Renaissance, completed in Baroque).
-    *   **Literature:**
-        *   Increased use of the **vernacular** (local languages like Italian, French, English) alongside Latin.
-        *   Focus on human emotions, experiences, political theory, and classical forms (sonnets).
-        *   Key Writers: **Petrarch** (sonnets), Boccaccio (*Decameron*), **Machiavelli** (*The Prince* - secular political analysis), Castiglione (*The Book of the Courtier* - defining the ideal gentleman). In the North: Erasmus, Thomas More (*Utopia*), Shakespeare (later Renaissance).
-    *   **Science:**
-        *   Emphasis on **direct observation, experimentation, and mathematical analysis**, laying crucial groundwork for the Scientific Revolution.
-        *   Key Figures: **Nicolaus Copernicus** (heliocentric theory), **Andreas Vesalius** (advances in human anatomy based on dissection), Leonardo da Vinci (anatomical drawings, inventions). Galileo Galilei's major work came slightly later but built directly on Renaissance foundations.
+*   **Rediscovery of Classical Texts:** Increased availability of Greek and Roman manuscripts. The **Fall of Constantinople (1453)** accelerated this as Byzantine scholars fled westward, bringing classical knowledge. Monasteries had also preserved many texts.
+*   **Rise of Independent City-States:** Wealth generated through **trade, banking, and manufacturing** in Italian cities created a prosperous merchant and banking class with the resources and desire for cultural advancement. Relative political independence allowed for innovation.
+*   **Patronage System:** Wealthy families (**Medici** in Florence), Popes (e.g., Julius II, Leo X), princes, guilds, and affluent merchants commissioned artworks, buildings, and supported scholars, fostering artistic and intellectual creativity.
+*   **Invention of the Printing Press (Johannes Gutenberg, c. 1440s):** Revolutionized communication. Allowed for the mass production and rapid **dissemination of ideas**, classical texts, and later, Reformation pamphlets, making knowledge more accessible beyond the clergy and nobility.
+*   **Decline of Feudalism & Weakening Church Influence:** The crises of the Late Middle Ages (famine, plague, Avignon Papacy, Great Schism) somewhat weakened the absolute dominance of the feudal system and the Catholic Church, creating space for new ideas and **secular concerns**.
+*   **Increased Interaction:** Trade and travel (including Crusades, though earlier) led to greater contact with Byzantine and Islamic cultures, which had preserved and built upon classical knowledge.
 
-**5. The Northern Renaissance:**
-    *   Developed later than in Italy, influenced by Italian ideas but with distinct characteristics.
-    *   More focused on **Christian Humanism** (e.g., Erasmus, Thomas More), seeking to reform society and the Church based on early Christian principles and classical piety.
-    *   Art often featured intense realism, detail, and complex symbolism (e.g., Van Eyck, Dürer, Holbein).
+### 3. Core Ideals & Characteristics:
 
-**6. Impact & Significance:**
-    *   **Cultural Transformation:** Fundamentally altered European art, literature, architecture, and intellectual life. Promoted the development of vernacular languages.
-    *   **Intellectual Foundation:** Fostered **critical thinking**, skepticism, and inquiry, paving the way for the **Scientific Revolution** and the **Enlightenment**.
-    *   **Influence on Exploration:** The spirit of curiosity, discovery, and advancements in cartography and navigation contributed to the **Age of Exploration**.
-    *   **Challenged Institutions:** The questioning spirit and focus on secular power implicitly challenged the monolithic authority of the **Catholic Church**, contributing to the climate for the **Reformation**.
-    *   **Economic & Social Changes:** Reflected and spurred economic growth, banking innovations, and changing social structures (rise of merchant class, changing status of artists).
-    *   **Modern Worldview:** Helped shape the modern Western emphasis on individualism, human potential, and rational inquiry.
+*   **Humanism:**
+    *   An intellectual movement focused on **human potential, achievements, reason, and worldly experience**. Central tenet: *"Man is the measure of all things"* (Protagoras, rediscovered).
+    *   Shift from a predominantly **theocentric** (God-centered) worldview to one incorporating **anthropocentric** (human-centered) perspectives. Not necessarily anti-religious, but placed greater emphasis on human agency and life on Earth.
+    *   Focused on the **_Studia Humanitatis_** (Humanities): grammar, rhetoric, poetry, history, and moral philosophy, based on classical models. Figures like **Petrarch** (often called the "Father of Humanism") were key in reviving classical study.
+*   **Individualism:**
+    *   Emphasis on the **unique talents, potential, and achievements of the individual**. A departure from the medieval focus on collective identity (guild, Church, feudal rank).
+    *   Reflected in the rise of **portraiture** (celebrating individual appearance), autobiography, and the concept of the artist/scholar as a celebrated genius.
+*   **Secularism:**
+    *   Increased focus on **worldly (non-religious) affairs**, such as politics, wealth, patronage, and the enjoyment of life on Earth, rather than solely on salvation and the afterlife.
+    *   This did *not* necessarily mean atheism, but rather a broadening of interests beyond purely religious doctrine.
+*   **Rationalism & Skepticism:**
+    *   Emphasis on **reason, observation, empirical evidence, and critical thinking**.
+    *   A willingness to **question traditional authorities** and established beliefs, including those of the Church and ancient philosophers like Aristotle (though still highly respected).
+*   **Well-Roundedness ('Renaissance Man' / _Uomo Universale_):**
+    *   An ideal individual who possessed broad intellectual interests and was accomplished in diverse fields – arts, sciences, humanities, physical pursuits.
+    *   Belief that humans were capable of limitless development.
+    *   **Example:** **Leonardo da Vinci** is the archetypal 'Renaissance Man' – a master painter (*Mona Lisa*, *The Last Supper* painted in Santa Maria delle Grazie, Milan), sculptor, architect, musician, scientist, mathematician, engineer, inventor, anatomist, geologist, cartographer, botanist, and writer. *(Addresses Leonardo PYQ & 'Renaissance Man' PYQ)*
 
----
+### 4. Manifestations Across Fields:
 
-## **II. The Reformation (Approx. Early 16th - Mid 17th Century)**
+*   **Art:**
+    *   Techniques: Development of **perspective** (creating 3D illusion), **realism** in depicting human anatomy and emotion, use of **chiaroscuro** (light and shadow).
+    *   Themes: Continued religious themes, but also revival of **classical mythology** and portraiture. Focus on human form and beauty.
+    *   Key Artists: Leonardo da Vinci, **Michelangelo** (Sistine Chapel ceiling, *David*), **Raphael** (*School of Athens*), **Donatello** (sculptor), Botticelli (*Birth of Venus*).
+*   **Architecture:**
+    *   Revival of **classical forms**: symmetry, proportion, domes, columns (Doric, Ionic, Corinthian), arches.
+    *   Key Architects/Works: **Filippo Brunelleschi** (Dome of Florence Cathedral), Bramante, Palladio. St. Peter's Basilica in Rome (begun in Renaissance, completed in Baroque).
+*   **Literature:**
+    *   Increased use of the **vernacular** (local languages like Italian, French, English) alongside Latin.
+    *   Focus on human emotions, experiences, political theory, and classical forms (sonnets).
+    *   Key Writers: **Petrarch** (sonnets), Boccaccio (*Decameron*), **Machiavelli** (*The Prince* - secular political analysis), Castiglione (*The Book of the Courtier* - defining the ideal gentleman). In the North: Erasmus, Thomas More (*Utopia*), Shakespeare (later Renaissance).
+*   **Science:**
+    *   Emphasis on **direct observation, experimentation, and mathematical analysis**, laying crucial groundwork for the Scientific Revolution.
+    *   Key Figures: **Nicolaus Copernicus** (heliocentric theory), **Andreas Vesalius** (advances in human anatomy based on dissection), Leonardo da Vinci (anatomical drawings, inventions). Galileo Galilei's major work came slightly later but built directly on Renaissance foundations.
 
-**1. Meaning & Origin:**
-    *   **Meaning:** A major **religious movement** originating in 16th-century Western Europe that challenged the doctrines, practices, and authority of the **Roman Catholic Church**.
-    *   **Outcome:** Led to a permanent **schism** within Western Christianity, resulting in the establishment of various **Protestant** churches alongside Catholicism.
-    *   **Origin:** Traditionally dated to **1517** when **Martin Luther**, a German monk and theologian, posted his **95 Theses** in Wittenberg, Germany.
+### 5. The Northern Renaissance:
 
-**2. Causes / Contributing Factors:**
-    *   **Church Corruption & Abuses:** Widespread dissatisfaction with perceived moral laxity and financial exploitation by the Church hierarchy. Key issues included:
-        *   **Simony:** Selling of Church offices and positions.
-        *   **Nepotism:** Favoring relatives for appointments.
-        *   **Pluralism/Absenteeism:** Clergy holding multiple offices and not residing in them.
-        *   **Lavish Lifestyles:** Wealth and worldly focus of some Popes and high clergy.
-        *   **Sale of Indulgences:** Selling pardons to reduce time spent in purgatory; seen by critics like Luther as undermining genuine repentance and salvation by faith. (Johann Tetzel's aggressive sales tactics were a major trigger).
-    *   **Renaissance Influence:**
-        *   **Humanism:** Emphasis on *ad fontes* (back to the sources) led scholars (like Erasmus) to study the Bible in its original languages (Greek, Hebrew), revealing discrepancies with Church interpretations and practices.
-        *   **Critical Spirit:** The Renaissance fostered questioning of authority and tradition, which extended to religious matters.
-        *   **Individualism:** Encouraged a more personal relationship with God, potentially diminishing the role of intermediaries.
-    *   **Political Factors:**
-        *   Rise of powerful **monarchs and princes** (especially in Germany and England) who resented Papal interference in political affairs and desired greater control over Church lands, appointments, and revenues within their territories. **Nationalism** grew.
-    *   **Economic Factors:**
-        *   Resentment among rulers and populace over Church **taxes** and wealth flowing from local regions to Rome.
-        *   Economic aspirations of the rising merchant class sometimes clashed with Church doctrines (e.g., on usury).
-    *   **Printing Press:** Crucial for the **rapid spread** of Luther's writings, the 95 Theses, Bible translations, and other Reformation ideas across Europe, reaching a wider audience than previously possible.
+*   Developed later than in Italy, influenced by Italian ideas but with distinct characteristics.
+*   More focused on **Christian Humanism** (e.g., Erasmus, Thomas More), seeking to reform society and the Church based on early Christian principles and classical piety.
+*   Art often featured intense realism, detail, and complex symbolism (e.g., Van Eyck, Dürer, Holbein).
 
-**3. Key Figures, Events & Branches:**
-    *   **Martin Luther (Germany - Lutheranism):**
-        *   Augustinian monk troubled by personal salvation and Church corruption (especially indulgences).
-        *   **95 Theses (1517):** Academic propositions challenging indulgences, sparking widespread debate.
-        *   Key Beliefs: **Salvation through Faith Alone (Sola Fide)**, **Bible as Sole Authority (Sola Scriptura)**, **Grace Alone (Sola Gratia)**, **Priesthood of All Believers**. Rejected papal supremacy and many sacraments.
-        *   **Diet of Worms (1521):** Summoned by Holy Roman Emperor Charles V, Luther refused to recant, famously declaring, "Here I stand; I can do no other." Declared an outlaw.
-        *   Protected by German princes (like Frederick the Wise of Saxony); **translated the New Testament into German**, making it accessible.
-    *   **John Calvin (France/Switzerland - Calvinism):**
-        *   Wrote *Institutes of the Christian Religion*, outlining Protestant theology systematically.
-        *   Emphasized God's absolute sovereignty and **Predestination** (God has predetermined who will be saved).
-        *   Established a theocratic community in **Geneva**, known for its strict moral code and discipline.
-        *   Highly influential: Spread to France (**Huguenots**), Scotland (**Presbyterians** under John Knox), Netherlands (Dutch Reformed), England (**Puritans**).
-    *   **Ulrich Zwingli (Switzerland):**
-        *   Led the Reformation in Zurich. More radical than Luther in simplifying worship (e.g., removing images).
-        *   Disagreed with Luther over the nature of the Eucharist (Lord's Supper). Died in battle (1531).
-    *   **Anabaptists:**
-        *   Radical reformers advocating **adult baptism** (believer's baptism), separation of church and state, pacifism, and communal living.
-        *   Heavily persecuted by both Catholics and other Protestants. Ancestors of Mennonites, Amish, Hutterites.
-    *   **English Reformation (Anglicanism):**
-        *   Primarily driven by **political motives:** **King Henry VIII** sought an annulment from Catherine of Aragon, denied by the Pope.
-        *   **Act of Supremacy (1534):** Declared the King the Supreme Head of the Church of England, breaking with Papal authority. Monasteries dissolved, wealth seized.
-        *   Doctrine remained largely Catholic initially, became more Protestant under Edward VI, reverted to Catholicism under Mary I ("Bloody Mary"), and established a moderate Protestantism (Anglicanism) under **Elizabeth I** (Elizabethan Settlement).
+### 6. Impact & Significance:
 
-**4. Core Theological Concepts:**
-    *   **Sola Scriptura (Scripture Alone):** The Bible is the sole infallible source of religious authority, superseding papal decrees, Church traditions, and councils.
-    *   **Sola Fide (Faith Alone):** Justification (being made right with God) is achieved solely through faith in Jesus Christ, not through good works, sacraments, or buying indulgences. Works are seen as a *result* of faith, not a means to salvation.
-    *   **Sola Gratia (Grace Alone):** Salvation is an unearned gift (grace) from God, not something humans can merit through their own efforts.
-    *   **Priesthood of All Believers (Universal Priesthood):**
-        *   Belief that through Christ, **all baptized Christians have direct access to God** without needing an ordained priest as an essential mediator for forgiveness or interpretation of scripture.
-        *   **Diminished the special status** and sacramental power attributed to the ordained Catholic clergy. Empowered the laity to read and interpret the Bible for themselves. *(Addresses 'Universal Priesthood' PYQ)*
+*   **Cultural Transformation:** Fundamentally altered European art, literature, architecture, and intellectual life. Promoted the development of vernacular languages.
+*   **Intellectual Foundation:** Fostered **critical thinking**, skepticism, and inquiry, paving the way for the **Scientific Revolution** and the **Enlightenment**.
+*   **Influence on Exploration:** The spirit of curiosity, discovery, and advancements in cartography and navigation contributed to the **Age of Exploration**.
+*   **Challenged Institutions:** The questioning spirit and focus on secular power implicitly challenged the monolithic authority of the **Catholic Church**, contributing to the climate for the **Reformation**.
+*   **Economic & Social Changes:** Reflected and spurred economic growth, banking innovations, and changing social structures (rise of merchant class, changing status of artists).
+*   **Modern Worldview:** Helped shape the modern Western emphasis on individualism, human potential, and rational inquiry.
 
-**5. Counter-Reformation (Catholic Reformation):**
-    *   The Catholic Church's internal reform and response aimed at combating the spread of Protestantism and revitalizing Catholic faith and practice.
-    *   **Council of Trent (1545-1563):**
-        *   Reaffirmed core Catholic doctrines (e.g., justification by faith *and* works, equal validity of Scripture and Tradition, seven sacraments, transubstantiation, Papal authority).
-        *   Instituted reforms addressing abuses: condemned simony, limited sale of indulgences, mandated improved **education for clergy (seminaries)**, required bishops to reside in their dioceses.
-    *   **Society of Jesus (Jesuits):**
-        *   Religious order founded by **Ignatius of Loyola** (approved 140). Known for rigorous spiritual discipline, loyalty to the Pope, emphasis on **education** (founding schools and universities), and extensive **missionary work** in Europe and overseas (Asia, Americas) to win converts back to Catholicism.
-    *   **Roman Inquisition:** Church court system revived and expanded to identify and suppress heresy.
-    *   **Index of Prohibited Books:** List of publications deemed heretical or dangerous to faith and morals, forbidden for Catholics to read.
-    *   **Revival of Spirituality:** Renewal of mystical traditions and religious fervor within Catholicism.
+## II. The Reformation (Approx. Early 16th - Mid 17th Century)
 
-**6. Impact & Significance:**
-    *   **End of Religious Unity:** Permanently shattered the millennium-long religious unity of Western and Central Europe under the Papacy. Europe became divided along Catholic/Protestant lines.
-    *   **Religious Wars & Conflicts:** Led to over a century of devastating religious wars, including the French Wars of Religion (Huguenots vs. Catholics), the Dutch Revolt against Spain, and the **Thirty Years' War (1618-1648)** in the Holy Roman Empire, which reshaped the political map of Europe.
-    *   **Rise of Nation-States & Secular Power:** Weakened the political power of the Papacy. **Strengthened secular rulers** (kings, princes) who often gained control over church appointments, lands, and wealth within their territories (e.g., Peace of Augsburg - "whose realm, his religion").
-    *   **Increased Literacy & Education:** Protestant emphasis on individual Bible reading spurred demand for **education** and **translation of the Bible into vernacular languages**, contributing to increased literacy rates. Catholics also boosted education (Jesuits).
-    *   **Economic & Social Changes:** Weber Thesis argues Protestantism (especially Calvinism) fostered values conducive to capitalism (hard work, thrift, discipline), though debated. Social upheaval and peasant revolts (e.g., German Peasants' War, partially inspired by Luther's ideas but condemned by him).
-    *   **Cultural Impact:** Influenced art (austere Protestant churches vs. ornate **Baroque** style favored by Counter-Reformation), music (Lutheran hymns, Bach later), literature, and shaped different cultural values in Catholic and Protestant regions.
-    *   **Long-Term Legacy:** Contributed (often indirectly and after much conflict) to the development of ideas about **religious tolerance**, freedom of conscience, and the separation of church and state in some regions. Laid groundwork for further intellectual shifts in the Enlightenment.
+### 1. Meaning & Origin:
 
----
+*   **Meaning:** A major **religious movement** originating in 16th-century Western Europe that challenged the doctrines, practices, and authority of the **Roman Catholic Church**.
+*   **Outcome:** Led to a permanent **schism** within Western Christianity, resulting in the establishment of various **Protestant** churches alongside Catholicism.
+*   **Origin:** Traditionally dated to **1517** when **Martin Luther**, a German monk and theologian, posted his **95 Theses** in Wittenberg, Germany.
+
+### 2. Causes / Contributing Factors:
+
+*   **Church Corruption & Abuses:** Widespread dissatisfaction with perceived moral laxity and financial exploitation by the Church hierarchy. Key issues included:
+    *   **Simony:** Selling of Church offices and positions.
+    *   **Nepotism:** Favoring relatives for appointments.
+    *   **Pluralism/Absenteeism:** Clergy holding multiple offices and not residing in them.
+    *   **Lavish Lifestyles:** Wealth and worldly focus of some Popes and high clergy.
+    *   **Sale of Indulgences:** Selling pardons to reduce time spent in purgatory; seen by critics like Luther as undermining genuine repentance and salvation by faith. (Johann Tetzel's aggressive sales tactics were a major trigger).
+*   **Renaissance Influence:**
+    *   **Humanism:** Emphasis on *ad fontes* (back to the sources) led scholars (like Erasmus) to study the Bible in its original languages (Greek, Hebrew), revealing discrepancies with Church interpretations and practices.
+    *   **Critical Spirit:** The Renaissance fostered questioning of authority and tradition, which extended to religious matters.
+    *   **Individualism:** Encouraged a more personal relationship with God, potentially diminishing the role of intermediaries.
+*   **Political Factors:**
+    *   Rise of powerful **monarchs and princes** (especially in Germany and England) who resented Papal interference in political affairs and desired greater control over Church lands, appointments, and revenues within their territories. **Nationalism** grew.
+*   **Economic Factors:**
+    *   Resentment among rulers and populace over Church **taxes** and wealth flowing from local regions to Rome.
+    *   Economic aspirations of the rising merchant class sometimes clashed with Church doctrines (e.g., on usury).
+*   **Printing Press:** Crucial for the **rapid spread** of Luther's writings, the 95 Theses, Bible translations, and other Reformation ideas across Europe, reaching a wider audience than previously possible.
+
+### 3. Key Figures, Events & Branches:
+
+*   **Martin Luther (Germany - Lutheranism):**
+    *   Augustinian monk troubled by personal salvation and Church corruption (especially indulgences).
+    *   **95 Theses (1517):** Academic propositions challenging indulgences, sparking widespread debate.
+    *   Key Beliefs: **Salvation through Faith Alone (Sola Fide)**, **Bible as Sole Authority (Sola Scriptura)**, **Grace Alone (Sola Gratia)**, **Priesthood of All Believers**. Rejected papal supremacy and many sacraments.
+    *   **Diet of Worms (1521):** Summoned by Holy Roman Emperor Charles V, Luther refused to recant, famously declaring, "Here I stand; I can do no other." Declared an outlaw.
+    *   Protected by German princes (like Frederick the Wise of Saxony); **translated the New Testament into German**, making it accessible.
+*   **John Calvin (France/Switzerland - Calvinism):**
+    *   Wrote *Institutes of the Christian Religion*, outlining Protestant theology systematically.
+    *   Emphasized God's absolute sovereignty and **Predestination** (God has predetermined who will be saved).
+    *   Established a theocratic community in **Geneva**, known for its strict moral code and discipline.
+    *   Highly influential: Spread to France (**Huguenots**), Scotland (**Presbyterians** under John Knox), Netherlands (Dutch Reformed), England (**Puritans**).
+*   **Ulrich Zwingli (Switzerland):**
+    *   Led the Reformation in Zurich. More radical than Luther in simplifying worship (e.g., removing images).
+    *   Disagreed with Luther over the nature of the Eucharist (Lord's Supper). Died in battle (1531).
+*   **Anabaptists:**
+    *   Radical reformers advocating **adult baptism** (believer's baptism), separation of church and state, pacifism, and communal living.
+    *   Heavily persecuted by both Catholics and other Protestants. Ancestors of Mennonites, Amish, Hutterites.
+*   **English Reformation (Anglicanism):**
+    *   Primarily driven by **political motives:** **King Henry VIII** sought an annulment from Catherine of Aragon, denied by the Pope.
+    *   **Act of Supremacy (1534):** Declared the King the Supreme Head of the Church of England, breaking with Papal authority. Monasteries dissolved, wealth seized.
+    *   Doctrine remained largely Catholic initially, became more Protestant under Edward VI, reverted to Catholicism under Mary I ("Bloody Mary"), and established a moderate Protestantism (Anglicanism) under **Elizabeth I** (Elizabethan Settlement).
+
+### 4. Core Theological Concepts:
+
+*   **Sola Scriptura (Scripture Alone):** The Bible is the sole infallible source of religious authority, superseding papal decrees, Church traditions, and councils.
+*   **Sola Fide (Faith Alone):** Justification (being made right with God) is achieved solely through faith in Jesus Christ, not through good works, sacraments, or buying indulgences. Works are seen as a *result* of faith, not a means to salvation.
+*   **Sola Gratia (Grace Alone):** Salvation is an unearned gift (grace) from God, not something humans can merit through their own efforts.
+*   **Priesthood of All Believers (Universal Priesthood):**
+    *   Belief that through Christ, **all baptized Christians have direct access to God** without needing an ordained priest as an essential mediator for forgiveness or interpretation of scripture.
+    *   **Diminished the special status** and sacramental power attributed to the ordained Catholic clergy. Empowered the laity to read and interpret the Bible for themselves. *(Addresses 'Universal Priesthood' PYQ)*
+
+### 5. Counter-Reformation (Catholic Reformation):
+
+*   The Catholic Church's internal reform and response aimed at combating the spread of Protestantism and revitalizing Catholic faith and practice.
+*   **Council of Trent (1545-1563):**
+    *   Reaffirmed core Catholic doctrines (e.g., justification by faith *and* works, equal validity of Scripture and Tradition, seven sacraments, transubstantiation, Papal authority).
+    *   Instituted reforms addressing abuses: condemned simony, limited sale of indulgences, mandated improved **education for clergy (seminaries)**, required bishops to reside in their dioceses.
+*   **Society of Jesus (Jesuits):**
+    *   Religious order founded by **Ignatius of Loyola** (approved 140). Known for rigorous spiritual discipline, loyalty to the Pope, emphasis on **education** (founding schools and universities), and extensive **missionary work** in Europe and overseas (Asia, Americas) to win converts back to Catholicism.
+*   **Roman Inquisition:** Church court system revived and expanded to identify and suppress heresy.
+*   **Index of Prohibited Books:** List of publications deemed heretical or dangerous to faith and morals, forbidden for Catholics to read.
+*   **Revival of Spirituality:** Renewal of mystical traditions and religious fervor within Catholicism.
+
+### 6. Impact & Significance:
+
+*   **End of Religious Unity:** Permanently shattered the millennium-long religious unity of Western and Central Europe under the Papacy. Europe became divided along Catholic/Protestant lines.
+*   **Religious Wars & Conflicts:** Led to over a century of devastating religious wars, including the French Wars of Religion (Huguenots vs. Catholics), the Dutch Revolt against Spain, and the **Thirty Years' War (1618-1648)** in the Holy Roman Empire, which reshaped the political map of Europe.
+*   **Rise of Nation-States & Secular Power:** Weakened the political power of the Papacy. **Strengthened secular rulers** (kings, princes) who often gained control over church appointments, lands, and wealth within their territories (e.g., Peace of Augsburg - "whose realm, his religion").
+*   **Increased Literacy & Education:** Protestant emphasis on individual Bible reading spurred demand for **education** and **translation of the Bible into vernacular languages**, contributing to increased literacy rates. Catholics also boosted education (Jesuits).
+*   **Economic & Social Changes:** Weber Thesis argues Protestantism (especially Calvinism) fostered values conducive to capitalism (hard work, thrift, discipline), though debated. Social upheaval and peasant revolts (e.g., German Peasants' War, partially inspired by Luther's ideas but condemned by him).
+*   **Cultural Impact:** Influenced art (austere Protestant churches vs. ornate **Baroque** style favored by Counter-Reformation), music (Lutheran hymns, Bach later), literature, and shaped different cultural values in Catholic and Protestant regions.
+*   **Long-Term Legacy:** Contributed (often indirectly and after much conflict) to the development of ideas about **religious tolerance**, freedom of conscience, and the separation of church and state in some regions. Laid groundwork for further intellectual shifts in the Enlightenment.
