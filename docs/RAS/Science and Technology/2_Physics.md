@@ -234,7 +234,7 @@ The human eye is a vital and intricate sensory organ responsible for vision, loc
 
 The eye is roughly spherical (about 2.3 cm in diameter) and composed of several key parts arranged in layers:
 
-![human_eye.jpg](../../../images/human_eye.jpg)
+![human_eye.jpg](./../../../images/human_eye.jpg)
 
 
 
