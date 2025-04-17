@@ -105,7 +105,7 @@ Johannes Kepler formulated three laws describing how planets orbit the Sun, whic
 1.  **Law of Orbits:** Each planet revolves around the Sun in an *elliptical* orbit, with the Sun located at *one focus* of the ellipse (not the center). This means a planet's distance from the Sun varies during its orbit, being closest at *perihelion* and farthest at *aphelion*.
 2.  **Law of Areas:** An imaginary line joining a planet and the Sun sweeps out *equal areas in equal intervals of time*. This implies that a planet moves *faster* when it is closer to the Sun (near perihelion) and *slower* when it is farther away (near aphelion). This law is a consequence of the *conservation of angular momentum*.
 3.  **Law of Periods:** The square of the orbital period (*T*) of a planet is directly proportional to the cube of the semi-major axis (*a*) of its orbit.
-    $T^2 \propto a^3$
+    *$T^2 \propto a^3$*
     For an orbit around a central body of mass *M*:
     $T^2 = \left( \frac{4\pi^2}{GM} \right) a^3$
     This means planets farther from the Sun take *significantly longer* to complete one orbit.
@@ -172,18 +172,15 @@ $T = 2\pi \sqrt{\frac{r^3}{GM}} = 2\pi \sqrt{\frac{(R+h)^3}{GM}}$
 
 #### Types of Artificial Satellites
 
-1.  **Geostationary Satellites (GEO):**
-    *   Orbit in the equatorial plane at a specific altitude of approximately **35,786 km** above the Earth's surface.
-    *   Their orbital period is exactly **24 hours**, matching Earth's rotation.
-    *   Appear *stationary* relative to a point on the Earth's surface.
-    *   *Uses:* Communications (TV, phone), weather forecasting (e.g., INSAT, GSAT series).
-
-2.  **Polar Satellites (e.g., LEO):**
-    *   Orbit passing over or near the Earth's North and South poles.
-    *   Typically orbit at much *lower altitudes* (few hundred to ~1000 km).
-    *   Have much *shorter periods* (around 90-120 minutes).
-    *   As the Earth rotates beneath them, they can eventually scan the *entire* surface.
-    *   *Uses:* Earth observation, mapping, environmental monitoring, reconnaissance, International Space Station (ISS).
+| Feature                      | Geostationary (GEO)                         | Polar (LEO)                                                               |                       |                    |                                                                           |
+| ---------------------------- | ------------------------------------------- | ------------------------------------------------------------------------- | --------------------- | ------------------ | ------------------------------------------------------------------------- |
+| **Orbit**                    | Equatorial plane                            | Passing over/near Earth's Poles                                           |                       |                    |                                                                           |
+| **Altitude**                 | ~35,786 km                                  | Few hundred to ~1000 km                                                   |                       |                    |                                                                           |
+| **Orbital Period**           | ~24 hours                                   | ~90-120 minutes                                                           |                       |                    |                                                                           |
+| **Motion Relative to Earth** | Appears Stationary                          | Moves Relative to Earth                                                   |                       |                    |                                                                           |
+| **Coverage**                 | Fixed area of Earth                         | Entire Earth surface (over time)                                          |                       |                    |                                                                           |
+| **Uses**                     | Communications, Weather Forecasting         | Earth Observation, Mapping, Environmental Monitoring, Reconnaissance, ISS |                       |                    |                                                                           |
+| **Examples**                 | INSAT, GSAT series                          | (Implicitly) ISS                                                          |                       |                    |                                                                           |
 
 ### Gravitational Potential Energy (U)
 
@@ -213,7 +210,7 @@ Gravitation is constantly at work, shaping our experiences in countless ways:
 3.  **Water Flow and Rainfall:** Gravity pulls rain from clouds to the ground and causes rivers to flow downhill towards the sea.
 4.  **Celestial Motion:** Gravity holds the Moon in orbit around Earth, and the Earth and other planets in orbit around the Sun. It dictates the structure of solar systems, galaxies, and the universe itself.
 5.  **Weight vs. Mass:** Your *mass* (amount of matter) is constant, but your *weight* (the force of gravity on your mass, *W = mg*) depends on the local acceleration due to gravity (*g*). You'd weigh less on the Moon because its *g* is lower, but your mass remains the same.
-6.  **Sports:** The parabolic trajectory of a thrown basketball or a cricket ball is shaped by the combination of its initial velocity and the constant downward pull of gravity.
+6.  **Sports:** The *parabolic trajectory* of a thrown basketball or a cricket ball is shaped by the combination of its initial velocity and the constant downward pull of gravity.
 7.  **Tides:** The gravitational pulls of the Moon and (to a lesser extent) the Sun cause the rise and fall of sea levels (tides).
 8.  **Climbing Difficulty:** Climbing uphill requires working *against* gravity, consuming more energy and making it feel strenuous.
 9.  **Astronaut Weightlessness:** Astronauts in orbit experience *apparent* weightlessness because they and their spacecraft are constantly in a state of *free fall* around the Earth. Gravity is still acting strongly on them, but there's no ground or surface to push back and create the sensation of weight.
@@ -221,10 +218,9 @@ Gravitation is constantly at work, shaping our experiences in countless ways:
 
 ### Gravitation and Modern Science
 
-*   **Einstein's General Theory of Relativity:** Provides a more profound description of gravity, not as a force, but as the *curvature of spacetime* caused by mass and energy. Massive objects warp the spacetime around them, and other objects follow these curves.
-*   **Gravitational Waves:** Ripples in spacetime caused by accelerating massive objects (like merging black holes or neutron stars). Their detection in 2015 confirmed a major prediction of General Relativity and opened a new window for observing the universe.
+*   **Einstein's General Theory of Relativity:** Provides a more profound description of gravity, not as a force, but as the *curvature of spacetime continuum* caused by mass and energy. Massive objects warp the spacetime around them, and other objects follow these curves.
+*   **Gravitational Waves:** Ripples in spacetime continuum caused by accelerating massive objects (like merging black holes or neutron stars). Their detection in 2015 confirmed a major prediction of General Relativity and opened a new window for observing the universe.
 
-Gravitation, though the weakest fundamental force, dictates the motion of the cosmos and is an inescapable part of our everyday existence on Earth.
 
 
 
@@ -237,6 +233,11 @@ The human eye is a vital and intricate sensory organ responsible for vision, loc
 ### Structure of the Human Eye
 
 The eye is roughly spherical (about 2.3 cm in diameter) and composed of several key parts arranged in layers:
+
+![human_eye.jpg](../../../images/human_eye.jpg)
+
+
+
 
 #### Outer Layer
 *   ***Sclera***: The tough, white, outer connective tissue providing structural support.
