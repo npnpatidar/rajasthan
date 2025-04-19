@@ -431,6 +431,8 @@ Light is a fundamental form of energy enabling vision. Our understanding highlig
 | **O**range | 590 - 620                     | Very Low          | Very Low               | Low       |
 | **R**ed    | 620 - 700                     | Minimum           | Lowest                 | Least     |
 
+
+![dispersion_of_light](/images/dispersion_of_light.png)
 *   **Newton's Experiment:** Demonstrated that white light is composed of these colors by splitting it with one prism and recombining it with an inverted prism.
 *   **Natural Example:** Rainbow formation (sunlight dispersed by water droplets).
 *   **Other Effects:** Sparkling of diamonds (dispersion combined with TIR), colors in thin oil films (dispersion and interference).
@@ -564,13 +566,14 @@ Thermodynamics studies heat, temperature, and the conversion of energy between d
 
 ### Temperature Scales and Conversions
 
-| Scale         | Symbol | Freezing Point (Water) | Boiling Point (Water) | Absolute Zero | Conversion from Celsius ($T_C$)             |
-| :------------ | :----: | :--------------------- | :-------------------- | :------------ | :------------------------------------------ |
-| Celsius       |  °C    | $0 \, ^\circ\text{C}$  | $100 \, ^\circ\text{C}$ | $-273.15 \, ^\circ\text{C}$ | -                                           |
-| Fahrenheit    |  °F    | $32 \, ^\circ\text{F}$ | $212 \, ^\circ\text{F}$ | $-459.67 \, ^\circ\text{F}$ | $T_F = \frac{9}{5} T_C + 32$                |
-| Kelvin        |   K    | $273.15 \, \text{K}$   | $373.15 \, \text{K}$   | $0 \, \text{K}$             | $T_K = T_C + 273.15$                        |
-| Rankine       |  °R    | $491.67 \, ^\circ\text{R}$ | $671.67 \, ^\circ\text{R}$ | $0 \, ^\circ\text{R}$       | $T_R = T_F + 459.67 = \frac{9}{5} T_K$ |
+| Scale      | Symbol | Freezing Point (Water)     | Boiling Point (Water)      | Absolute Zero               | Conversion from Celsius ($T_C$)        |
+| :--------- | :----: | :------------------------- | :------------------------- | :-------------------------- | :------------------------------------- |
+| Celsius    |   °C   | $0 \, ^\circ\text{C}$      | $100 \, ^\circ\text{C}$    | $-273.15 \, ^\circ\text{C}$ | -                                      |
+| Fahrenheit |   °F   | $32 \, ^\circ\text{F}$     | $212 \, ^\circ\text{F}$    | $-459.67 \, ^\circ\text{F}$ | $T_F = \frac{9}{5} T_C + 32$           |
+| Kelvin     |   K    | $273.15 \, \text{K}$       | $373.15 \, \text{K}$       | $0 \, \text{K}$             | $T_K = T_C + 273.15$                   |
+| Rankine    |   °R   | $491.67 \, ^\circ\text{R}$ | $671.67 \, ^\circ\text{R}$ | $0 \, ^\circ\text{R}$       | $T_R = T_F + 459.67 = \frac{9}{5} T_K$ |
 
+$$ \frac{T_k-273}{100}=\frac{T_f-32}{180}= \frac{T_c-0}{100}$$
 ### Daily Life Examples
 
 | Phenomenon                        | Concept Illustrated                 | Explanation                                                                   |
@@ -649,7 +652,7 @@ Where $k$ is Coulomb's constant ($k \approx 8.988 \times 10^9 \, \text{N}\cdot\t
     *   Never intersect.
     *   The *density* of lines indicates field strength (closer lines mean stronger field).
     *   The tangent to a field line gives the direction of $\vec{E}$ at that point.
-
+ ![](/images/electric_field.jpg)
 #### Electric Potential
 
 *   *Electric potential* ($V$) at a point in an electric field is a scalar quantity representing the electric potential energy ($U$) per unit charge ($q$) at that point.
@@ -789,7 +792,7 @@ Used for analyzing complex electrical circuits:
     *   Density of lines indicates field strength (closer lines mean stronger field).
     *   Never intersect.
 *   SI Unit of Magnetic Field: Tesla (T).
-
+ ![](/images/magnetic_field.png)
 #### Magnetic Materials
 
 Materials respond differently to magnetic fields:
@@ -802,6 +805,8 @@ Materials respond differently to magnetic fields:
 | *Antiferromagnetic*| (Complex)                  | Small, positive              | Domains aligned anti-parallel                | MnO, Cr₂O₃              |
 | *Ferrimagnetic*   | Attracted (like Ferro)     | Large, positive              | Domains anti-parallel but unequal moments    | Ferrites (Fe₃O₄)          |
 
+
+ ![](/images/magnetic_materials.webp)
 *Note:* Ferromagnetic materials can be permanently magnetized and lose their property above the *Curie temperature*.
 
 ### Electromagnetism
@@ -820,10 +825,10 @@ Materials respond differently to magnetic fields:
 #### Electromagnetic Induction (Faraday's Law)
 
 *   Michael Faraday discovered that a *changing magnetic flux* through a loop of wire induces an *electromotive force* (EMF, or voltage) and hence a current in the loop.
-*   **Faraday's Law**: The magnitude of the induced EMF ($\mathcal{E}$) is proportional to the rate of change of magnetic flux ($\Phi_B$) through the loop:
+*   **Faraday's Law**: *The magnitude of the induced EMF ($\mathcal{E}$) is proportional to the rate of change of magnetic flux ($\Phi_B$) through the loop*:
     $$ \mathcal{E} = -N \frac{d\Phi_B}{dt} $$
     Where $N$ is the number of turns in the coil. $\Phi_B = \int \vec{B} \cdot d\vec{A}$ is the magnetic flux.
-*   **Lenz's Law**: The negative sign indicates that the direction of the induced current is such that it creates a magnetic field that *opposes* the change in magnetic flux that produced it (conservation of energy).
+*   **Lenz's Law**: The negative sign indicates that the *direction of the induced current is such that it creates a magnetic field that opposes the change in magnetic flux* that produced it (conservation of energy).
 *   This principle is the basis for electric *generators* and *transformers*.
 
 #### Force on Moving Charges and Conductors (Lorentz Force)
@@ -848,6 +853,7 @@ These mnemonic rules help determine directions in electromagnetism:
 | *Fleming's Left-Hand Rule* | Direction of Force ($\vec{F}$) on a conductor in $\vec{B}$ field | Left | **F**orefinger = Field ($\vec{B}$), **M**iddle finger = Current ($I$), **Th**umb = Force/Motion ($\vec{F}$). (Think **F**-**B**-**I**)                          |
 | *Fleming's Right-Hand Rule*| Direction of Induced Current ($I_{ind}$) in a generator   | Right| **F**orefinger = Field ($\vec{B}$), **Th**umb = Motion of conductor ($\vec{v}$), **M**iddle finger = Induced Current ($I_{ind}$). (Think Motion-**B**-**I**nduced) |
 
+![](https://www.electricaltechnology.org/wp-content/uploads/2020/12/Difference-between-Flemings-Left-Hand-and-Right-Hand-Rules.png)
 #### Applications of Electromagnetism
 
 Electromagnetism underlies vast areas of technology:
