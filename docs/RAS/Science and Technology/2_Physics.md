@@ -241,65 +241,71 @@ The eye is roughly spherical (about 2.3 cm in diameter) and composed of several 
 
 #### Outer Layer
 *   ***Sclera***: The tough, white, outer connective tissue providing structural support.
-*   ***Cornea***: The transparent, curved front part of the sclera. It allows light to enter and performs most of the initial light refraction. It lacks blood vessels, receiving oxygen directly from the air.
+*   ***Cornea***: The transparent, curved front part of the sclera. It *allows light to enter* and performs most of the initial light refraction. It lacks blood vessels, receiving oxygen directly from the air.
 
 #### Middle Layer (Uvea)
 *   ***Choroid***: A layer rich in blood vessels, located beneath the sclera, providing nourishment.
 *   ***Ciliary Body***: An extension of the choroid at the front of the eye, containing the *ciliary muscles*.
-*   ***Ciliary Muscles***: Control the shape and thickness of the lens for focusing (accommodation).
-*   ***Iris***: The colored, muscular diaphragm (e.g., brown, blue, green) extending from the ciliary body. It controls the size of the pupil.
-*   ***Pupil***: The adjustable opening at the center of the iris. It regulates the amount of light entering the eye – constricting in bright light and dilating in dim light.
+*   ***Ciliary Muscles***: *Control the shape and thickness of the lens* for focusing (accommodation).
+*   ***Iris***: The colored, muscular diaphragm (e.g., brown, blue, green) extending from the ciliary body. It *controls the size of the pupil.*
+*   ***Pupil***: The adjustable opening at the center of the iris. It *regulates the amount of light entering the eye* – constricting in bright light and dilating in dim light.
 
 #### Inner Layer
-*   ***Retina***: The light-sensitive innermost layer lining the back of the eye. It contains *photoreceptor cells*:
-    *   ***Rods***: Sensitive to dim light (responsible for twilight vision).
-    *   ***Cones***: Sensitive to bright light and responsible for color vision.
+*   ***Retina***: The light-sensitive innermost layer lining the back of the eye. It *contains* *photoreceptor cells*:
+    *   ***Rods***: Sensitive to *dim light* (responsible for twilight vision).
+    *   ***Cones***: Sensitive to *bright light* and responsible for *color vision.*
 *   ***Macula (Yellow Spot)***: A small area on the retina responsible for sharp, detailed central vision.
-*   ***Fovea***: A tiny pit in the center of the macula, densely packed with cones, providing the clearest vision (*visual acuity*).
+*   ***Fovea***: A tiny pit in the center of the macula, densely packed with cones, providing the *clearest vision (*visual acuity*).
 *   ***Optic Nerve***: A bundle of nerve fibers that transmits visual information (electrical signals) from the retina to the brain.
-*   ***Blind Spot***: The point where the optic nerve leaves the eye; it lacks photoreceptor cells, creating a gap in the visual field.
+*   ***Blind Spot***: The point where the *optic nerve leaves the eye*; it *lacks photoreceptor cells*, creating a gap in the visual field.
 
 #### Internal Components
-*   ***Crystalline Lens***: A transparent, biconvex, flexible structure located behind the iris and pupil. It fine-tunes the focus of light onto the retina. Its shape is adjusted by the ciliary muscles.
-*   ***Aqueous Humor***: A clear, watery fluid filling the *aqueous chamber* (space between the cornea and the lens). It nourishes the cornea and lens and maintains pressure.
-*   ***Vitreous Humor***: A clear, jelly-like substance filling the *vitreous chamber* (the large space behind the lens). It helps maintain the eye's spherical shape and supports the retina.
+*   ***Crystalline Lens***: A *transparent, biconvex, flexible structure* located behind the iris and pupil. It *fine-tunes the focus of light onto the retina*. Its shape is adjusted by the ciliary muscles.
+*   ***Aqueous Humor***: A clear, watery fluid filling the *aqueous chamber* (space *between the cornea and the lens*). It nourishes the cornea and lens and maintains pressure.
+*   ***Vitreous Humor***: A clear, jelly-like substance filling the *vitreous chamber* (the *large space behind the lens*). It helps *maintain the eye's spherical shape and supports the retina.*
 *   ***Lacrimal Glands***: Produce tears to keep the eye moist and protect it from infection.
 
 ### Mechanism of Vision
 
-1.  Light rays from an object enter the eye through the *cornea*.
-2.  The *cornea* and *aqueous humor* refract the light.
-3.  The *iris* adjusts the *pupil* size to control the amount of light entering.
-4.  Light passes through the *lens*, which further refracts it, focusing it onto the *retina*. The lens adjusts its shape (*accommodation*) to focus objects at different distances.
-5.  An *inverted, real image* forms on the *retina*.
-6.  *Rods* and *cones* in the retina detect the light energy and convert it into electrical nerve impulses.
-7.  These impulses travel along the *optic nerve* to the brain.
-8.  The brain processes these signals, interprets them, and perceives the object upright and clearly.
 
+```mermaid
+graph TD
+    A[Light rays enter through the cornea] --> B[Cornea and aqueous humor refract light]
+    B --> C[Iris adjusts pupil size to control light]
+    C --> D[Light passes through the lens]
+    D --> E[Lens refracts light and focuses it on retina - accommodation]
+    E --> F[Inverted, real image forms on retina]
+    F --> G[Rods and cones convert light to electrical impulses]
+    G --> H[Impulses travel via optic nerve]
+    H --> I[Brain processes signals and perceives image upright]
+
+
+```
 ### Power of Accommodation
 
-*Accommodation* is the eye's ability to adjust the focal length of its *lens* to form a clear image on the *retina*, regardless of the object's distance.
+*Accommodation* is the eye's *ability to adjust the focal length* of its *lens* to form a clear image on the *retina*, regardless of the object's distance.
 
-*   **For Distant Objects (at infinity):** The *ciliary muscles* are relaxed, making the lens *thinner* (longer focal length).
-*   **For Near Objects:** The *ciliary muscles* contract, making the lens *thicker* (shorter focal length).
-
+| Object Distance    | Ciliary Muscles | Lens Shape             | Focal Length |
+| ------------------ | --------------- | ---------------------- | ------------ |
+| Distant (Infinity) | Relaxed         | Thinner (Flatter)      | Longer       |
+| Near               | Contracted      | Thicker (More Rounded) | Shorter      |
 #### Limits of Accommodation:
-*   ***Near Point***: The closest distance at which an object can be seen clearly without strain. For a normal young adult eye, this is approximately **25 cm**.
-*   ***Far Point***: The farthest distance at which an object can be seen clearly. For a normal eye, this is considered to be **infinity** ($ \infty $).
+*   ***Near Point***: The *closest distance at which an object can be seen clearly* without strain. For a normal young adult eye, this is approximately **25 cm**.
+*   ***Far Point***: The *farthest distance at which an object can be seen clearly.* For a normal eye, this is considered to be **infinity**.
 
 ### Vision Defects and Their Correction
 
 When the eye cannot focus light correctly onto the retina, vision becomes blurred. Common defects include:
 
-| Defect                 | Description                                                                 | Symptoms                                       | Cause(s)                                                      | Correction              | Lens Type   |
-| :--------------------- | :-------------------------------------------------------------------------- | :--------------------------------------------- | :------------------------------------------------------------ | :---------------------- | :---------- |
-| **Myopia**             | Nearsightedness                                                             | Distant objects blurry, near objects clear   | Eyeball too long; Excessive lens curvature (high power)     | Diverging lens          | *Concave*   |
-| **Hypermetropia**      | Farsightedness                                                              | Near objects blurry, distant objects clear     | Eyeball too short; Insufficient lens curvature (low power)  | Converging lens         | *Convex*    |
-| **Presbyopia**         | Age-related difficulty focusing on near objects                             | Near objects blurry                            | Weakening ciliary muscles; Decreased lens flexibility       | Converging / Bifocal lens | *Convex*    |
-| **Astigmatism**        | Blurred or distorted vision at all distances                                | Objects appear distorted, especially edges   | Irregular curvature of the cornea or lens                     | *Cylindrical* lens      | Cylindrical |
-| **Cataract**           | Clouding of the lens                                                        | Blurry vision, glare, poor night vision        | Aging, diabetes, UV exposure (protein buildup in lens)      | Surgery (Lens replacement)| N/A         |
+| Defect            | Description                                       | Symptoms                                       | Cause(s)                                                   | Correction                 | Lens Type   |
+| :---------------- | :------------------------------------------------ | :--------------------------------------------- | :--------------------------------------------------------- | :------------------------- | :---------- |
+| **Myopia**        | Nearsightedness                                   | Distant objects blurry, *near objects clear*   | Eyeball too long; Excessive lens curvature (high power)    | Diverging lens             | *Concave*   |
+| **Hypermetropia** | Farsightedness                                    | Near objects blurry, *distant objects clear*   | Eyeball too short; Insufficient lens curvature (low power) | Converging lens            | *Convex*    |
+| **Presbyopia**    | *Age-related* difficulty focusing on near objects | Near objects blurry                            | Weakening ciliary muscles; *Decreased lens flexibility*    | Converging / Bifocal lens  | *Convex*    |
+| **Astigmatism**   | Blurred or distorted vision at *all distances*    | Objects appear *distorted*, especially *edges* | *Irregular curvature of the cornea or lens*                | *Cylindrical* lens         | Cylindrical |
+| **Cataract**      | Clouding of the lens                              | Blurry vision, glare, poor night vision        | Aging, diabetes, UV exposure (protein buildup in lens)     | Surgery (Lens replacement) | N/A         |
 
-*   ***Bifocal Lenses***: Used often for *presbyopia*, especially when combined with *myopia* or *hypermetropia*. They typically have a concave lens portion (top) for distance and a convex lens portion (bottom) for near vision.
+*   ***Bifocal Lenses***: Used often for *presbyopia*, especially when combined with *myopia* or *hypermetropia*. They typically have a *concave lens portion (top) for distance and a convex lens portion (bottom) for near vision.*
 
 ### Power of a Lens
 
@@ -336,9 +342,9 @@ Light is a fundamental form of energy enabling vision. Our understanding highlig
 ### Dual Nature of Light
 
 1.  **Wave Nature:**
-    *   Light exhibits wave-like properties, primarily demonstrated by phenomena like *diffraction* (bending around small obstacles) and *interference* (where light added to light can produce darkness, as shown in Young's double-slit experiment).
+    *   Light exhibits *wave-like properties*, primarily demonstrated by phenomena like *diffraction* (bending around small obstacles) and *interference* (where light added to light can produce darkness, as shown in Young's double-slit experiment).
     *   Light waves are *transverse electromagnetic waves*, propagating at a speed $c \approx 3 \times 10^8$ m/s in a vacuum.
-    *   *Polarisation* further confirms the transverse nature of light waves.
+    *   *Polarisation* further confirms the *transverse nature* of light waves.
     *   The wave properties are described by frequency ($\nu$), wavelength ($\lambda$), and velocity ($c$), related by $c = \nu\lambda$. Wavenumber ($\bar{\nu}$) is also used, defined as $\bar{\nu} = 1/\lambda$.
 
 2.  **Particle Nature:**
@@ -354,7 +360,7 @@ Light is a fundamental form of energy enabling vision. Our understanding highlig
 ### Light Propagation and Interaction with Media
 
 *   **Speed of Light:** The speed of light in a vacuum ($c$) is constant ($c = 299,792,458$ m/s, approximately $3 \times 10^8$ m/s). Its speed ($v$) changes in different media.
-*   **Refractive Index (n or μ):** A measure of how much light slows down in a medium.
+*   **Refractive Index (n or μ):** A measure of *how much light slows down in a medium.*
     *   *Absolute Refractive Index*: $n = c/v$.
     *   *Relative Refractive Index* (medium 2 w.r.t. medium 1): $n_{12} = v_1 / v_2 = n_2 / n_1$.
     *   If $n > 1$, the medium slows light (e.g., glass, water).
@@ -391,8 +397,8 @@ Light is a fundamental form of energy enabling vision. Our understanding highlig
         where $n_1$ and $n_2$ are the absolute refractive indices of medium 1 and medium 2, respectively, and $\mu$ ($n_{12}$) is the relative refractive index of medium 2 with respect to medium 1.
 *   **Behavior:**
     *   Rarer to Denser: Light slows down, bends *towards* the normal.
-    *   Denser to Rarer: Light speeds up, bends *away* from the normal.
-*   **Total Internal Reflection (TIR):** Occurs when light travels from a denser to a rarer medium at an angle of incidence *greater* than the *critical angle*. The light is completely reflected back into the denser medium. Used in optical fibers and explains the sparkle of diamonds.
+    *   Denser to Rarer: Light speeds up, bends *away* from the normal.  ( D-R-AW)
+*   **Total Internal Reflection (TIR):** Occurs when light travels from a denser to a rarer medium at an angle of incidence *greater* than the *critical angle*. The light is completely reflected back into the denser medium. Used in *optical fibers* and explains the sparkle of *diamonds.*
 
 ### Comparison: Reflection vs. Refraction
 
@@ -407,7 +413,7 @@ Light is a fundamental form of energy enabling vision. Our understanding highlig
 
 ### Dispersion of Light
 
-*Dispersion* is the splitting of white light into its constituent colors (spectrum) when it passes through a refractive medium like a prism.
+*Dispersion* is the splitting of *white light into its constituent colors* (spectrum) when it passes through a refractive medium like a prism.
 
 *   **Cause:** The refractive index ($n$) of a medium varies slightly with the wavelength ($\lambda$) of light. Different colors (wavelengths) bend by different amounts.
     *   Violet light (shorter $\lambda$) has a *higher* refractive index and bends *most*.
