@@ -882,7 +882,7 @@ Sound is a *mechanical wave* produced by *vibrations* and transmitted through a 
 
 ### Characteristics of Sound Waves
 
-*   **Frequency ($ \nu $ or $f$):** The number of vibrations or oscillations per second. Its unit is *Hertz (Hz)*. Frequency determines the *pitch* of a sound (high frequency = high pitch/shrill, low frequency = low pitch/deep). The audible range for humans is approximately *20 Hz to 20,000 Hz*.
+*   **Frequency ($\nu$ or $f$):** The number of vibrations or oscillations per second. Its unit is *Hertz (Hz)*. Frequency determines the *pitch* of a sound (high frequency = high pitch/shrill, low frequency = low pitch/deep). The audible range for humans is approximately *20 Hz to 20,000 Hz*.
 *   **Time Period ($T$):** The time taken for one complete oscillation. It is the reciprocal of frequency ($T = 1/\nu$). Its SI unit is *second (s)*.
 *   **Wavelength ($\lambda$):** The distance between consecutive compressions or rarefactions. Its unit is *meters (m)*.
 *   **Amplitude ($A$):** The magnitude of the maximum disturbance in the medium from its mean position. Amplitude determines the *loudness* of a sound (larger amplitude = louder sound).
@@ -979,15 +979,16 @@ Electromagnetic (EM) waves are produced by *oscillating or accelerated electric 
 
 EM waves are categorized by frequency ($\nu$) or wavelength ($\lambda$), related by $c = \nu \lambda$. The spectrum, in order of *increasing wavelength* (decreasing frequency):
 
-| Wave Type        | Wavelength Range (approx.) | Sources                                           | Applications                                                                       |
-|-----------------|---------------------------|---------------------------------------------------|-----------------------------------------------------------------------------------|
-| Gamma Rays       | < 0.01 nm                 | Radioactive decay, nuclear reactions              | Cancer treatment (radiotherapy), sterilization, radioactivity testing             |
-| X-rays           | 0.01 nm - 10 nm           | High-energy electron bombardment, medical tubes | Medical imaging (radiography), industrial inspection, crystal structure analysis  |
-| Ultraviolet (UV) | 10 nm - 400 nm            | Sun, electric arcs, special lamps                 | Sterilization, medical treatment (phototherapy), DNA analysis, detecting forgery |
-| Visible Light    | 400 nm - 700 nm           | Sun, lamps, LEDs, lasers, excited atoms           | Vision, optical instruments (cameras, telescopes), illumination, photosynthesis |
-| Infrared (IR)    | 700 nm - 1 mm             | Hot bodies, molecules, Sun, electronic devices    | Heating, thermal imaging (night vision), remote controls, fiber optic communication |
-| Microwaves       | 1 mm - 1 m                | Special vacuum tubes (klystrons, magnetrons)      | Radar, satellite communication, microwave ovens, wireless networks (Wi-Fi)      |
-| Radio Waves      | > 1 m                     | Oscillating circuits, antennas                    | Radio/TV broadcasting, mobile phones, MRI, navigation systems (GPS)             |
+|Wave Type|Wavelength Range (approx.)|Frequency Range (approx.)|Sources|Applications|
+|---|---|---|---|---|
+|Gamma Rays|< 0.01 nm|> 30 exahertz (3 × 10¹⁹ Hz)|Radioactive decay, nuclear reactions|Cancer treatment (radiotherapy), sterilization, radioactivity testing|
+|X-rays|0.01 nm - 10 nm|30 petahertz – 30 exahertz|High-energy electron bombardment, medical tubes|Medical imaging (radiography), industrial inspection, crystal structure analysis|
+|Ultraviolet (UV)|10 nm - 400 nm|750 terahertz – 30 petahertz|Sun, electric arcs, special lamps|Sterilization, medical treatment (phototherapy), DNA analysis, detecting forgery|
+|Visible Light|400 nm - 700 nm|430 – 750 terahertz|Sun, lamps, LEDs, lasers, excited atoms|Vision, optical instruments (cameras, telescopes), illumination, photosynthesis|
+|Infrared (IR)|700 nm - 1 mm|300 gigahertz – 430 terahertz|Hot bodies, molecules, Sun, electronic devices|Heating, thermal imaging (night vision), remote controls, fiber optic communication|
+|Microwaves|1 mm - 1 m|300 megahertz – 300 gigahertz|Special vacuum tubes (klystrons, magnetrons)|Radar, satellite communication, microwave ovens, wireless networks (Wi-Fi)|
+|Radio Waves|> 1 m|< 300 megahertz|Oscillating circuits, antennas|Radio/TV broadcasting, mobile phones, MRI, navigation systems (GPS)|
+
 
 ### Maxwell's Equations
 
@@ -1026,6 +1027,151 @@ Magnetic Resonance Imaging (MRI) is a medical diagnostic technique employing *st
 3.  **Signal Emission & Reception:** When the radio waves are turned off, the protons relax back to their aligned state, releasing the absorbed energy as weak radio signals. Sensitive detectors capture these signals.
 4.  **Image Creation:** Powerful computers process these signals, mapping the distribution and properties of water in different tissues. The varying water content creates contrast, resulting in detailed cross-sectional images.
 
+```d2
+# Direction for the flow
+
+direction: down
+
+  
+
+# Define Shapes / Actors
+
+body_protons: "Body Protons (Hydrogen)" {
+
+shape: circle
+
+tooltip: "Abundant in water molecules"
+
+}
+
+magnet: "Powerful Magnet" {
+
+shape: cylinder # Representative shape
+
+tooltip: "Creates strong static magnetic field (B0)"
+
+}
+
+rf_source: "Radio Wave Source" {
+
+shape: square # Using square, a standard shape
+
+tooltip: "Emits brief radio frequency (RF) pulses"
+
+}
+
+detectors: "Sensitive Detectors / Coils" {
+
+tooltip: "Capture weak radio signals emitted by protons"
+
+}
+
+computer: "Powerful Computer" {
+
+shape: rectangle # Changed from 'box' to 'rectangle'
+
+tooltip: "Processes signals to create images"
+
+}
+
+mri_image: "Detailed MRI Image" {
+
+shape: rectangle # Changed from 'image' to 'rectangle'
+
+tooltip: "Cross-sectional image showing tissue properties"
+
+}
+
+  
+
+# Define Process Steps
+
+step1: "1. Magnetic Field Alignment" {
+
+tooltip: "Protons align with the main magnetic field"
+
+}
+
+step2: "2. Radio Wave Excitation" {
+
+tooltip: "RF pulse knocks aligned protons out of alignment"
+
+}
+
+step3: "3. Signal Emission & Reception" {
+
+tooltip: "Protons relax, release energy as signals, which are detected"
+
+}
+
+step4: "4. Image Creation" {
+
+tooltip: "Signals are mapped to create the final image"
+
+}
+
+  
+
+# Define Connections / Flow
+
+body_protons -> step1: "Subjected to field"
+
+magnet -> step1: "Applies Field"
+
+  
+
+step1 -> step2: "Aligned protons"
+
+  
+
+rf_source -> step2: "Pulses RF Waves"
+
+  
+
+step2 -> step3: "Excited protons\n(RF Turned Off)"
+
+  
+
+step3 -> detectors: "Emit Weak Signals"
+
+  
+
+detectors -> step4: "Send Captured Signal Data"
+
+computer -> step4: "Processes Signals"
+
+  
+
+step4 -> mri_image: "Generates Image"
+
+  
+
+# Style Note (Optional: Can be added for visual clarity if renderer supports it)
+
+# style {
+
+# step1, step2, step3, step4 {
+
+# stroke-width: 2
+
+# fill: "#f0f8ff" # Light blue fill for steps
+
+# }
+
+# magnet, rf_source, detectors, computer {
+
+# fill: "#e0e0e0" # Grey fill for components
+
+# }
+
+# mri_image {
+
+# fill: "#d3d3d3"
+
+# }
+
+# }
+```
 ### Characteristics of MRI
 
 *   Uses *non-ionising radiation*, unlike X-rays or CT scans.
@@ -1064,7 +1210,7 @@ Specialized MRI techniques include:
 
 ## Nuclear Magnetic Resonance (NMR)
 
-Nuclear Magnetic Resonance (NMR) is a physical and analytical technique leveraging the magnetic properties of certain atomic nuclei to determine the physical and chemical properties of atoms or the molecules containing them. It is fundamental in *chemistry, biochemistry, physics, medicine,* and *pharmaceutical research* for understanding atomic-level properties and structures.
+Nuclear Magnetic Resonance (NMR) is a *physical and analytical technique* leveraging the *magnetic properties of certain atomic nuclei* to *determine the physical and chemical properties of atoms or the molecules* containing them. It is fundamental in *chemistry, biochemistry, physics, medicine,* and *pharmaceutical research* for understanding atomic-level properties and structures.
 
 ### Principle of NMR
 
@@ -1119,7 +1265,7 @@ While both techniques rely on the principles of nuclear magnetic resonance, thei
 | **Relationship**      | Fundamental physical technique                         | *Applied NMR technique* using primarily $^1$H signals from water   |
 ## Nuclear Fission and Nuclear Fusion
 
-Nuclear fission and nuclear fusion are the two primary methods for generating nuclear energy. Both processes originate within atomic nuclei but differ significantly in their mechanisms, products, energy output, and applications. The energy released in both processes stems from the conversion of mass into energy, governed by Einstein's famous equation `$E = \Delta m c^2$`, where a small mass difference (`$\Delta m$`) results in a tremendous amount of energy (`$E$`) due to the large value of the speed of light squared (`$c^2$`). Nuclear reactions release energies typically measured in *Mega-electron Volts* (`$MeV$`), which are approximately a million times greater than the *electron Volt* (`$eV$`) scale energies released in chemical reactions for the same amount of matter.
+Nuclear fission and nuclear fusion are the two primary methods for generating nuclear energy. Both processes originate within atomic nuclei but differ significantly in their mechanisms, products, energy output, and applications. The energy released in both processes stems from the conversion of mass into energy, governed by Einstein's famous equation $E = \Delta m c^2$, where a small mass difference ($\Delta m$) results in a tremendous amount of energy ($E$) due to the large value of the speed of light squared ($c^2$). Nuclear reactions release energies typically measured in *Mega-electron Volts* ($MeV$), which are approximately a million times greater than the *electron Volt* ($eV$) scale energies released in chemical reactions for the same amount of matter.
 
 ### Nuclear Fission
 
@@ -1127,9 +1273,9 @@ Nuclear fission and nuclear fusion are the two primary methods for generating nu
 
 **The Fission Process:**
 
-1.  A neutron strikes a heavy, fissile nucleus (e.g., Uranium-235, `$U-235$`).
+1.  A neutron strikes a heavy, fissile nucleus (e.g. $U-235$).
 2.  The nucleus absorbs the neutron, becomes highly unstable, and splits into two smaller nuclei (fission fragments, e.g., Barium-141 and Krypton-92).
-3.  This process releases a significant amount of energy (approximately `$200 \, MeV$` per `$U-235$` fission) primarily as kinetic energy of the fragments and gamma rays.
+3.  This process releases a significant amount of energy (approximately $200 \, MeV$ per $U-235$ fission) primarily as kinetic energy of the fragments and gamma rays.
 4.  Typically, 2-3 additional neutrons are also released.
 
 **Chain Reaction:**
@@ -1138,7 +1284,7 @@ The neutrons released during fission can go on to induce fission in other nearby
 *   In *nuclear weapons*, the chain reaction is allowed to proceed *uncontrolled*, leading to a rapid, explosive release of energy.
 
 **Fissile Materials:**
-Materials capable of sustaining a fission chain reaction with thermal (slow) neutrons are called *fissile*. Key examples include `$U-235$`, Plutonium-239 (`$Pu-239$`), `$U-233$`, and Thorium-232 (`$Th-232$`). These nuclei often have an odd mass number.
+Materials capable of sustaining a fission chain reaction with thermal (slow) neutrons are called *fissile*. Key examples include $U-235$, Plutonium-239 ($Pu-239$), $U-233$, and Thorium-232 ($Th-232$). These nuclei often have an odd mass number.
 
 **Characteristics of Nuclear Fission:**
 
@@ -1147,7 +1293,7 @@ Materials capable of sustaining a fission chain reaction with thermal (slow) neu
 | **Process**    | Splitting of a heavy nucleus                          |
 | **Fuel**       | Heavy elements (Uranium, Plutonium, Thorium)           |
 | **Trigger**    | Neutron bombardment                                     |
-| **Energy Output**| High (~`$200 \, MeV$` per fission event)               |
+| **Energy Output**| High (~$200 \, MeV$ per fission event)               |
 | **Neutron Output**| 2-3 neutrons per fission, enabling chain reactions    |
 | **Waste**      | Significant radioactive waste with long half-lives    |
 | **Control**    | Can be controlled (reactors) or uncontrolled (weapons) |
@@ -1159,13 +1305,13 @@ Materials capable of sustaining a fission chain reaction with thermal (slow) neu
 2.  **Nuclear Weapons (Atomic Bombs):** Uncontrolled fission chain reactions create massive explosions (e.g., Hiroshima, Nagasaki).
 3.  **Nuclear Propulsion:** Compact nuclear reactors power submarines and aircraft carriers, allowing long operation without refueling (e.g., USS Enterprise, Typhoon-class submarines).
 4.  **Medical Applications (Nuclear Medicine):** Fission produces radioisotopes used in:
-    *   *Cancer Therapy (Radiotherapy):* E.g., Cobalt-60 (`$Co-60$`).
-    *   *Medical Imaging:* E.g., Technetium-99m (`$Tc-99m$`) for scans.
-    *   *Treatment:* E.g., Iodine-131 (`$I-131$`) for thyroid disorders.
+    *   *Cancer Therapy (Radiotherapy):* E.g., Cobalt-60 ($Co-60$).
+    *   *Medical Imaging:* E.g., Technetium-99m ($Tc-99m$) for scans.
+    *   *Treatment:* E.g., Iodine-131 ($I-131$) for thyroid disorders.
 5.  **Industrial Applications:**
     *   *Material Analysis/Inspection:* Neutron radiography.
     *   *Food Preservation:* Irradiation to extend shelf life.
-6.  **Space Exploration:** Radioisotope Thermoelectric Generators (RTGs), often using `$Pu-238$` produced in reactors, provide power for deep space missions (e.g., Voyager, Curiosity, Perseverance).
+6.  **Space Exploration:** Radioisotope Thermoelectric Generators (RTGs), often using $Pu-238$ produced in reactors, provide power for deep space missions (e.g., Voyager, Curiosity, Perseverance).
 7.  **Research and Education:** Reactors provide neutron sources for physics, chemistry, materials science, and biological research.
 8.  **Seawater Desalination:** Heat from reactors can be used to desalinate water.
 
@@ -1178,10 +1324,10 @@ The primary hazard is the production of *radioactive waste*, which remains dange
 
 **The Fusion Process:**
 A common reaction involves hydrogen isotopes:
-1.  Deuterium (`$^2H$` or D) and Tritium (`$^3H$` or T) nuclei collide at immense speeds due to temperatures exceeding 10 million degrees Celsius (`$> 10^7 \, ^\circ C$` or `$10^8 \, K$`).
+1.  Deuterium ($^2H$ or D) and Tritium ($^3H$ or T) nuclei collide at immense speeds due to temperatures exceeding 10 million degrees Celsius ($> 10^7 \, ^\circ C$ or $10^8 \, K$).
 2.  They overcome their mutual electrostatic repulsion and fuse.
-3.  The fusion produces a Helium-4 nucleus (`$^4He$`) and a high-energy neutron.
-4.  This process releases significant energy (~`$17.6 \, MeV$` per D-T reaction).
+3.  The fusion produces a Helium-4 nucleus ($^4He$) and a high-energy neutron.
+4.  This process releases significant energy (~$17.6 \, MeV$ per D-T reaction).
 
 **Conditions Required:**
 Fusion requires overcoming the strong electrostatic repulsion between positively charged nuclei. This necessitates:
@@ -1197,9 +1343,9 @@ Nuclear fusion is the fundamental energy source of stars, including our Sun. In 
 | Feature           | Description                                                       |
 | ----------------- | ----------------------------------------------------------------- |
 | **Process**       | Joining (fusion) of light nuclei                                 |
-| **Fuel**          | Light elements (Hydrogen isotopes: Deuterium `$[^2H]$`, Tritium `$[^3H]$`) |
-| **Conditions**    | Extremely high temperature (`$>10^7 \, K$`) and pressure           |
-| **Energy Output** | Very high (~`$17.6 \, MeV$` per D-T reaction); higher per unit mass than fission |
+| **Fuel**          | Light elements (Hydrogen isotopes: Deuterium $[^2H]$, Tritium $[^3H]$) |
+| **Conditions**    | Extremely high temperature ($>10^7 \, K$) and pressure           |
+| **Energy Output** | Very high (~$17.6 \, MeV$ per D-T reaction); higher per unit mass than fission |
 | **Neutron Output**| Typically 1 neutron per D-T fusion reaction                        |
 | **Waste**         | Little long-lived radioactive waste; Helium is inert              |
 | **Control**       | Sustained controlled fusion not yet achieved commercially           |
@@ -1224,12 +1370,217 @@ The primary challenge is achieving *ignition* – creating and sustaining condit
 | Feature               | Nuclear Fission                                         | Nuclear Fusion                                              |
 | :-------------------- | :------------------------------------------------------ | :---------------------------------------------------------- |
 | **Definition**        | Splitting a heavy nucleus into lighter ones             | Combining light nuclei into a heavier one                   |
-| **Fuel**              | Heavy elements (Uranium `$U-235$`, Plutonium `$Pu-239$`) | Light elements (Hydrogen isotopes `$D, T$`)               |
-| **Conditions**        | Neutron bombardment; critical mass                      | Extremely high temperature (`$>10^7 \, K$`) and pressure      |
-| **Energy Release**    | High (~`$200 \, MeV$/fission`).                           | Very high (~`$17.6 \, MeV$/fusion`), more energy per unit mass |
+| **Fuel**              | Heavy elements (Uranium $U-235$, Plutonium $Pu-239$) | Light elements (Hydrogen isotopes $D, T$)               |
+| **Conditions**        | Neutron bombardment; critical mass                      | Extremely high temperature ($>10^7 \, K$) and pressure      |
+| **Energy Release**    | High (~$200 \, MeV$/fission`).                           | Very high (~$17.6 \, MeV$/fusion`), more energy per unit mass |
 | **Chain Reaction**    | Yes (can be controlled or uncontrolled)                 | No inherent chain reaction in the same way                 |
 | **Waste Products**    | Significant long-lived radioactive waste              | Little long-lived radioactive waste; Helium product       |
 | **Natural Example**   | Rare natural reactors (Oklo); induced processes       | Sun and stars                                               |
 | **Current Technology**| Established (Power plants, weapons)                     | Experimental (ITER); Hydrogen bombs                         |
 | **Control**           | Technology well-developed                               | Achieving sustained control is a major challenge          |
 | **Safety Concerns**   | Radioactive waste, meltdown risk, proliferation         | Plasma control challenges, tritium handling, neutron activation |
+## Quick Revision
+
+### Gravitation
+
+*   **Definition:** Attractive force between *any two objects with mass*. Universal.
+*   **Newton's Law:** $F = G \frac{m_1 m_2}{r^2}$. (F=force, m=mass, r=dist betw centers, G=Universal Grav. Const $\approx 6.674 \times 10^{-11} \, \text{N m}^2/\text{kg}^2$)
+*   **Characteristics:** Attractive only, Universal, $\propto m_1m_2$, $\propto 1/r^2$ (Inverse Square), Acts along line, Weakest fundamental force but infinite range (dominant on cosmic scale).
+*   **Acc. Due to Gravity (g):** Free fall acc. on a planet. $g = G \frac{M_P}{R_P^2}$. Independent of falling object's mass. Avg Earth $g \approx 9.8 \, \text{m/s}^2$.
+*   **Variation in g:**
+    *   Altitude: *Decreases* w/ height ($g(h) \approx g(1-2h/R_E)$).
+    *   Depth: *Decreases* w/ depth ($g(d) = g(1-d/R_E)$), $g=0$ at center.
+    *   Latitude: Weaker at equator (bulge/rotation).
+*   **Kepler's Laws (Planetary Motion):**
+    1.  Orbits: Elliptical, Sun at one focus.
+    2.  Areas: Equal areas swept in equal time (planets faster near Sun). Cons. of Angular Momentum.
+    3.  Periods: $T^2 \propto a^3$ (a=semi-major axis). $T^2 = (4\pi^2/GM_{central}) a^3$.
+*   **Escape Velocity (V<sub>e</sub>):** Min speed to escape grav. pull. $V_e = \sqrt{\frac{2GM}{R}}$. Earth $V_e \approx 11.2 \, \text{km/s}$. Higher M or smaller R = Higher $V_e$. Black Hole: $V_e > c$.
+*   **Satellite Motion:** Gravity provides centripetal force for orbit.
+    *   Orbital Velocity: $v = \sqrt{\frac{GM}{r}}$ ($r=R+h$).
+    *   Period: $T = 2\pi \sqrt{\frac{r^3}{GM}}$. Higher orbit $\implies$ longer period.
+    *   Types: Geostationary (GEO): Equator, $\approx$36k km, 24h, fixed view. Polar (LEO): Low alt, short period, covers poles/entire Earth over time.
+*   **Gravitational Potential Energy (U):**
+    *   Near surface: $U = mgh$.
+    *   General: $U = -G \frac{Mm}{r}$ (Zero at $\infty$). Always negative.
+*   **Daily Life:** Keeps us grounded (Weight $W=mg$), falling objects, tides (Moon/Sun grav), orbits, fluid flow (rivers), climbing.
+
+---
+
+### The Human Eye and Vision
+
+*   **Function:** Camera-like organ, captures light, converts to brain signals.
+*   **Structure:**
+    *   Outer: Sclera (white), Cornea (transparent front, refracts most light, no vessels).
+    *   Middle (Uvea): Choroid (vessels), Ciliary Body/Muscles (control lens shape), Iris (colored, controls pupil size), Pupil (opening, regulates light).
+    *   Inner: Retina (light-sensitive, back layer). Rods (dim light), Cones (color/bright light). Macula/Fovea (sharpest vision). Optic Nerve (signals to brain). Blind Spot (no photoreceptors).
+    *   Internal: Lens (transparent, biconvex, flexible, fine focus), Aqueous Humor (fluid betw cornea-lens, nourishes), Vitreous Humor (jelly behind lens, shape/support).
+*   **Mechanism:** Light -> Cornea/Aqueous/Lens (refract) -> Pupil (adjusts) -> Retina (inverted real image) -> Rods/Cones (light to signals) -> Optic Nerve -> Brain (interprets upright).
+*   **Accommodation:** Lens changes focal length to focus. Muscles relaxed = Lens flatter (long f, distant). Muscles contracted = Lens thicker (short f, near).
+    *   Near Point: Closest clear vision ($\approx 25 \, \text{cm}$).
+    *   Far Point: Farthest clear vision ($\infty$ for normal eye).
+*   **Vision Defects:**
+    *   Myopia (Nearsighted): Distant blurry. Eyeball too long/Lens too powerful. Corrected by *Concave* lens.
+    *   Hypermetropia (Farsighted): Near blurry. Eyeball too short/Lens too weak. Corrected by *Convex* lens.
+    *   Presbyopia (Age): Near blurry. Stiff lens/Weak muscles. Corrected by *Convex* (Bifocal).
+    *   Astigmatism: Blurred/distorted (all dist). Irregular cornea/lens. Corrected by *Cylindrical* lens.
+    *   Cataract: Cloudy lens. Surgery.
+*   **Power of Lens (P):** $P = 1/f$ (f in meters). Unit: Dioptre (D). Convex +P, Concave -P. $P_{net} = \sum P_i$.
+*   **Care:** Vitamin A vital (prevents night blindness). Maintain distance/light. Eye donation possible (cornea).
+
+---
+
+### The Nature and Behavior of Light
+
+*   **Dual Nature:** Behaves as both *wave* (Diffraction, Interference, Polarization) and *particle* (Photons: Photoelectric Effect, Radiation Pressure). Quantum theory unifies.
+*   **Propagation:** Transverse EM wave. $c = 3 \times 10^8 \, \text{m/s}$ in vacuum. $c = \nu\lambda$. Speed changes in medium ($v=c/n$).
+*   **Refractive Index (n):** $n=c/v$. Higher n = Slower light = Optically denser.
+*   **Reflection:** Bounces off surface (same medium). $\angle i = \angle r$. Speed, $\lambda$, $\nu$ UNCHANGED. Mirrors.
+*   **Refraction:** Bends passing into another medium. Cause: Change in speed. Snell's Law: $\frac{\sin i}{\sin r} = \frac{n_2}{n_1}$. Rarer to Denser: Bends Towards Normal. Denser to Rarer: Bends Away from Normal.
+*   **Total Internal Reflection (TIR):** Denser to Rarer, $\angle i >$ critical angle. Light reflected back. Optical fibers, diamonds.
+*   **Dispersion:** Splitting white light into colors (VIBGYOR) by prism. Cause: $n$ varies with $\lambda$. Violet (short $\lambda$) bends most (high n), Red (long $\lambda$) bends least (low n). Rainbows.
+*   **Atmospheric Refraction:** Bending in atmosphere. Effects: Twinkling stars, Advanced sunrise/Delayed sunset (~2min), Flattened sun/moon near horizon.
+*   **Scattering:** Deviation by particles.
+    *   Rayleigh: Particles << $\lambda$. $I \propto 1/\lambda^4$. Blue sky (blue scatters most), Red sun (blue scattered away).
+    *   Mie: Particles $\approx \lambda$. White clouds (all $\lambda$ scatter equally).
+    *   Tyndall effect.
+*   **EM Spectrum:** Gamma, X-rays, UV, Visible, IR, Microwaves, Radio (decreasing $\nu$, increasing $\lambda$). Visible: $\approx 400-700 \, \text{nm}$.
+*   **Photoelectric Effect:** Light releases electrons. $K.E._{max} = h\nu - \phi_0$. Proves particle nature.
+*   **Applications:** Vision, lighting, communication (radio, TV, mobile), heating (IR, microwave), medical (X-ray, UV, therapy), technology (lasers, optical fibers, radar).
+
+---
+
+### Heat, Temperature, and Thermodynamics
+
+*   **Temperature (T):** Degree of hotness/coldness. Average KE of molecules. SI Unit: Kelvin (K). $0 \, \text{K}$ Absolute Zero.
+*   **Heat (Q):** Energy transferred due to $\Delta T$. Energy in transit. SI Unit: Joule (J). $1 \, \text{cal} \approx 4.186 \, \text{J}$. $Q = mc\Delta T$. Not a state function.
+*   **Heat Transfer:**
+    1.  Conduction: Direct contact (solids).
+    2.  Convection: Fluid movement (liquids/gases).
+    3.  Radiation: EM waves (no medium).
+*   **Specific Heat Capacity (c):** Heat to raise 1kg by 1°C/1K. High c means heats/cools slowly (water).
+*   **Latent Heat (L):** Heat for phase change at constant T. $Q=mL$. Fusion ($L_f$, solid-liquid), Vaporization ($L_v$, liquid-gas). Evaporation cools (uses $L_v$).
+*   **Thermodynamics:** Study of heat, T, energy conversion. System, Surroundings, State Variables (p, V, T, U).
+*   **Laws:**
+    1.  1st Law (Energy Cons.): $\Delta Q = \Delta U + \Delta W_{by system}$.
+    2.  2nd Law (Direction): Heat flows Hot to Cold. Entropy increases. Efficiency limit for engines.
+    3.  3rd Law (Absolute Zero): Unreachable.
+*   **Temp Scales:** Celsius (°C), Fahrenheit (°F), Kelvin (K). Conversions: $T_K = T_C + 273.15$, $T_F = \frac{9}{5} T_C + 32$. $\frac{T_k-273}{100}=\frac{T_f-32}{180}= \frac{T_c}{100}$.
+*   **Examples:** Spoon in tea (Conduction), Boiling (Convection), Sun (Radiation), Sweating (Latent Heat), Coastal climate (Specific Heat).
+
+---
+
+### Electrostatics and Current Electricity
+
+*   **Electrostatics:** Charges at rest.
+*   **Charge:** + (proton), - (electron). Like repel, opposite attract. Quantized ($e$), Conserved.
+*   **Coulomb's Law:** $F = k \frac{|q_1 q_2|}{r^2}$. Force betw point charges.
+*   **Electric Field ($\vec{E}$):** Force per unit + charge. $\vec{E} = \vec{F}/q_0$. Unit N/C or V/m. Lines out of +, into -. Density $\propto$ Strength.
+*   **Electric Potential (V):** Energy per unit charge. $V=W/q$. Unit Volt (V=J/C). Scalar. $E = -dV/dr$. Conductor surface is equipotential.
+*   **Gauss's Law:** $\oint \vec{E} \cdot d\vec{A} = Q_{enc}/\epsilon_0$. Flux $\propto$ enclosed charge. Useful for symmetric E-field calculations.
+*   **Capacitor:** Stores charge/energy. $C = Q/V$. Unit Farad (F). $C \propto A/d$ & dielectric ($\epsilon$). Blocks DC, passes AC.
+*   **Current Electricity:** Charges in motion.
+*   **Current (I):** Rate of charge flow. $I = dQ/dt$. Unit Ampere (A=C/s). Conventional current (+ve flow). Needs closed circuit & potential difference (V).
+*   **Ohm's Law:** $V = IR$. Relation betw V, I, R for ohmic materials (const T).
+*   **Resistance (R):** Opposes current. $R = \rho l/A$. Depends on material ($\rho$), length (l), area (A), temperature. Unit Ohm ($\Omega$). Conductance $G=1/R$ (Siemens).
+*   **Joule's Law of Heating:** Heat $H = I^2Rt = VIt = V^2t/R$. Energy converted to heat.
+*   **Kirchhoff's Laws:** KCL (Junction Rule): $\sum I_{in} = \sum I_{out}$ (Charge Cons.). KVL (Loop Rule): $\sum \Delta V_{loop} = 0$ (Energy Cons.).
+*   **Magnetism:** Moving charges produce magnetic fields. N/S poles (no monopoles). Like repel, unlike attract.
+*   **Magnetic Field ($\vec{B}$):** Unit Tesla (T). Lines: N to S (outside), S to N (inside), closed loops.
+*   **Electromagnetism:** Unified E & M.
+    *   Oersted: Current $\to$ B field.
+    *   Faraday: Changing $\Phi_B \to$ induced EMF/Current. $\mathcal{E} = -N d\Phi_B/dt$. Lenz's Law opposes change. Generators.
+    *   Lorentz Force: Force on charge/current in B field. $\vec{F}_B = q(\vec{v} \times \vec{B})$ or $I(\vec{l} \times \vec{B})$. Motors.
+*   **Hand Rules:** RHR (Current $\to$ B), Fleming's LHR (Force on current), Fleming's RHR (Induced current).
+*   **Applications:** Motors, Generators, Transformers, Electromagnets, Communication (EM waves), MRI.
+
+---
+
+### Sound
+
+*   **Definition:** *Mechanical wave* from *vibrations*, needs a *medium* (solid, liquid, gas - NO vacuum). Propagates as *longitudinal* waves in fluids (C/R). Energy travels.
+*   **Characteristics:**
+    *   Frequency ($\nu$): Pitch (Hz). Audible: 20Hz-20kHz. Infrasound (<20Hz), Ultrasound (>20kHz).
+    *   Time Period (T): $T=1/\nu$ (s).
+    *   Wavelength ($\lambda$): Distance C-C / R-R (m).
+    *   Amplitude (A): Loudness.
+    *   Speed ($v$): Fastest in solids > liquids > gases. Depends on elasticity/density. $v=\lambda\nu$.
+    *   Intensity (W/m²): Energy flow rate. Measured in Decibels (dB).
+    *   Quality/Timbre: Distinguishes sources (harmonics).
+*   **Wave Phenomena:**
+    *   Superposition: Interference (Constructive/Destructive). Beats ($|\nu_1-\nu_2|$).
+    *   Reflection: Bounces off surfaces. Echo (distinct reflection, >0.1s delay, >17.2m dist). Reverberation (multiple reflections, blending). Applications: SONAR, Echolocation, Stethoscope.
+    *   Doppler Effect: Apparent $\nu$ change due to source/observer motion (approaching $\uparrow\nu$, receding $\downarrow\nu$).
+*   **Hearing:** Ear converts sound waves to electrical signals. Outer $\to$ Eardrum (vibrate) $\to$ Middle bones (amplify) $\to$ Inner Cochlea (fluid/hair cells) $\to$ Auditory nerve $\to$ Brain.
+*   **Applications:** Ultrasound (Medical imaging, SONAR, Cleaning), Stethoscope, Music/Communication.
+*   **Noise Pollution:** Harmful unwanted sound. Control: Soundproofing, limits.
+
+---
+
+### Electromagnetic Waves (EM Waves)
+
+*   **Definition:** Oscillating *E* and *B* fields $\perp$ to each other and $\perp$ to propagation. Produced by *accelerating charges*. *Transverse waves*. *NO medium* needed (travel in vacuum at $c$).
+*   **Generation:** Maxwell's equations (Changing E creates B, Changing B creates E).
+*   **Properties:** Transverse, No medium, Speed $c \approx 3 \times 10^8 \, \text{m/s}$ in vacuum ($v<c$ in medium), Carry Energy/Momentum, Wave phenomena (reflect, refract, etc.), $E/B=c$.
+*   **EM Spectrum (Increasing $\lambda$):**
+    *   Gamma Rays (<0.01nm): Nuclear. Radiotherapy, Sterilization.
+    *   X-rays (0.01-10nm): Electron bombardment. Medical imaging, Inspection.
+    *   UV (10-400nm): Sun, lamps. Sterilization, Phototherapy.
+    *   Visible Light (400-700nm): Sun, lamps. Vision, Optics, Photosynthesis.
+    *   Infrared (IR) (700nm-1mm): Hot bodies, Sun. Heating, Thermal imaging, Remotes.
+    *   Microwaves (1mm-1m): Special tubes. Radar, Sat comm, Ovens, Wi-Fi.
+    *   Radio Waves (>1m): Oscillating circuits. Broadcasting, Mobile phones, MRI.
+*   **Interaction:** Fields interact with charges in matter. Depends on wave $\nu$/$\lambda$ and material.
+*   **Applications:** Pervasive in technology (Comm, Heating, Medical, Imaging, etc.).
+
+---
+
+### Magnetic Resonance Imaging (MRI)
+
+*   **Definition:** Medical *imaging* using strong *magnetic fields* + *non-ionising radio waves* for detailed *soft tissue* images.
+*   **How it Works:** B field aligns H+ protons $\to$ Radio pulse excites protons $\to$ Protons relax, emit radio signals $\to$ Computer processes signals (water distribution/properties) $\to$ Image.
+*   **Characteristics:** Non-ionising, Superior soft tissue contrast, Weak on bone, Painless, Non-invasive. Detects *pathological/physiological changes*.
+*   **Uses:** Brain/Spinal cord, Joints, Organs, Heart.
+*   **Disadvantages:** Long scan, Claustrophobia, Costly, Cannot use with certain *metal implants* (pacemakers, clips).
+
+---
+
+### Nuclear Magnetic Resonance (NMR)
+
+*   **Definition:** Analytical *technique* using *magnetic properties of nuclei* ($^1$H, $^{13}$C) to determine *molecular structure/properties*.
+*   **Principle:** Nuclei with spin align in B field $\to$ Radio wave 'flips' nuclei (resonance) $\to$ Nuclei relax, emit characteristic signals $\to$ Analyze signals for structure/dynamics.
+*   **Applications:** Chemical analysis, Drug structure, Protein structure, Materials science.
+*   **Advantages:** Detailed molecular structure (non-destructive), Studies dynamics, Non-invasive (sample).
+*   **Limitations:** Requires specific nuclei, Can be low sensitivity, Expensive equipment (superconducting magnets), Requires expertise.
+*   **NMR vs MRI:** NMR = fundamental technique, molecular structure (samples). MRI = applied NMR, medical imaging (patients, water distribution).
+
+---
+
+### Nuclear Fission and Nuclear Fusion
+
+*   **Both:** Release huge energy from mass-energy conversion ($E=\Delta mc^2$). Energy in MeV scale.
+
+*   **Nuclear Fission:**
+    *   Process: Heavy nucleus (U, Pu) *splits* (often by neutron).
+    *   Fuel: Heavy elements (U-235, Pu-239).
+    *   Trigger: Neutron bombardment.
+    *   Energy: High (~200 MeV/fission).
+    *   Output: 2-3 neutrons + Fission fragments + Energy.
+    *   Chain Reaction: Yes (controlled in reactors, uncontrolled in weapons).
+    *   Waste: Significant long-lived radioactive waste.
+    *   Occurrence: Reactors, Weapons, Rare Natural.
+    *   Applications: Nuclear Power (locations in India: Tarapur, etc.), Weapons, Propulsion, Medical (radioisotopes), Industry, Space RTGs.
+    *   Hazards: Radioactive waste, Accidental leakage (radiation risks).
+
+*   **Nuclear Fusion:**
+    *   Process: Two light nuclei (D, T) *combine/fuse*.
+    *   Fuel: Light elements (H isotopes: Deuterium, Tritium).
+    *   Conditions: *Extremely High Temperature* ($>10^7$K, plasma) and *Pressure*.
+    *   Energy: Very High (~17.6 MeV/D-T), higher per unit mass than fission.
+    *   Output: He nucleus + Neutron + Vast energy.
+    *   Chain Reaction: No inherent chain reaction.
+    *   Waste: Little long-lived radioactive waste (He is inert).
+    *   Occurrence: Powers Sun/Stars, Hydrogen bombs, Experimental reactors (ITER).
+    *   Potential: Clean, near-limitless energy source (abundant fuel, safer, minimal waste).
+    *   Challenges: Achieving/Sustaining ignition (energy gain), Plasma confinement (e.g., Tokamak).
+    *   Applications: H-bombs, Potential for clean power, Space propulsion.

@@ -1086,3 +1086,292 @@ _Radioactivity_ is the process in which an _unstable nucleus spontaneously emits
 2. _Proper disposal_ of radioactive materials in secure containers
 3. Use of _radiation detectors_ and _dosimeters_ by workers
 4. Adhering to strict _safety protocols_ and _exposure limits_
+
+## Quick Revision
+
+### Ch-1: States of Matter
+
+*   **Matter:** Occupies space, has mass. Made of atoms/molecules.
+*   **5 States:**
+    1.  **Solid:** Definite **shape** & **volume**. Tightly packed, high forces, vibrate. Rigid, high density, incompressible, slow diffusion. (Ice, iron)
+    2.  **Liquid:** Definite **volume**, **no definite shape**. Less packed, weaker forces. Flows, surface tension. Incompressible, faster diffusion than solid. (Water, milk)
+    3.  **Gas:** **No definite shape or volume**. Weakest forces. Free motion, fills space. Compressible, very fast diffusion. Laws: Boyle's (PV=const @ T const), Charles' (V$\propto$T @ P const), Gay-Lussac's (P$\propto$T @ V const), Ideal Gas (PV=nRT). (Oxygen, CO2)
+    4.  **Plasma:** Ionized gas (+ ions & free e-). Extreme heat/energy. Conducts electricity, sensitive to B fields. Highly energetic. (Sun, stars, lightning)
+    5.  **Bose-Einstein Condensate (BEC):** Atoms merge into single quantum state @ **extremely low temp** ($\approx -273^\circ$C). Behave like giant particle. (Superfluid He-4)
+*   **State Changes (Phase Changes):**
+    *   Melting (Solid $\to$ Liquid)
+    *   Evaporation (Liquid $\to$ Gas)
+    *   Condensation (Gas $\to$ Liquid)
+    *   Sublimation (Solid $\to$ Gas direct) (Camphor, dry ice)
+    *   Freezing (Liquid $\to$ Solid)
+
+---
+
+### Ch-2: Atomic Structure
+
+*   **Atom:** Smallest element unit in reactions. Size $\approx 10^{-10}$m.
+*   **Subatomic Particles:** Electron (e-, -), Proton (p+, +), Neutron (n0, neutral).
+*   **Atomic Models:**
+    *   Dalton (1808): Indivisible sphere. **Limit:** Couldn't explain subatomic part, isotopes.
+    *   Thomson (1897): Plum pudding (e- in +sphere). **Limit:** Couldn't explain stability.
+    *   Rutherford (1911): Nuclear model (dense +nucleus, e- revolve). Gold Foil exp. **Limit:** Couldn't explain e- stability, energy levels.
+    *   Bohr (1913): E- in definite energy levels (orbits K,L,M...). Energy quantized. Absorbs/Emits for jumps. **Limit:** Failed for multi-electron atoms.
+    *   Quantum Mechanical: Modern. Wave-particle duality (De Broglie), Uncertainty (Heisenberg), orbitals ($\Psi$).
+*   **Quantum Numbers:** Describe e- state. Orbitals: s (spherical), p (dumbbell), d, f.
+*   **Principles:**
+    *   Pauli Exclusion: Max 2 e-/orbital, opposite spin.
+    *   Aufbau: Fill lowest energy levels first (1s < 2s < 2p...).
+    *   Hund's Rule: Fill orbitals of same energy singly before pairing.
+*   **Hydrogen Spectrum:** Line spectrum from e- transitions.
+    *   Balmer: Visible (n=2 to higher).
+    *   Lyman: UV (n=1 to higher).
+    *   Paschen, Bracket, Fund: IR.
+*   **De Broglie:** $\lambda = h/mv$ (wave-particle duality).
+*   **Heisenberg Uncertainty:** $\Delta x \cdot \Delta p \ge h/4\pi$ (can't know position & momentum simultaneously precisely).
+*   **Electronic Config:** e- arrangement in orbitals (e.g., H: 1s¹).
+*   **Important Facts:** Lightest atom (H), Most stable nucleus (Fe), Most electronegative (F), Largest atomic radius (Cs).
+
+---
+
+### Ch-3: Metals, Non-Metals, and Metalloids
+
+*   **Metals:** Form cations (lose e-), good conductors (heat/elec). Fe, Cu, Al, Au, Ag.
+    *   **Physical:** Lustre (shiny), Ductile (wires), Malleable (sheets), Good conductors (Ag, Cu best), High density/MP (W highest MP), Strong.
+    *   **Exceptions:** Hg (liquid), Na/K (light, float on water).
+    *   **Chemical:** + O₂ $\to$ Basic Oxide. + H₂O $\to$ Hydroxide + H₂. + Acid $\to$ Salt + H₂. + Halogen $\to$ Halide.
+    *   **Uses:** Wires (Cu, Al), Construction (Fe), Filaments (W), Planes (Al).
+*   **Non-Metals:** Form anions (gain e-), insulators (heat/elec). O₂, N₂, H₂, S, P, Cl₂.
+    *   **Physical:** No lustre (except Iodine), Insulators (except Graphite), Soft/Brittle, Low density/MP. States: Gas (O₂, H₂), Solid (C, S), Liquid (Bromine Br₂).
+    *   **Chemical:** + O₂ $\to$ Acidic Oxide. + Metal $\to$ Ionic Cmpd. + H₂ $\to$ Hydride.
+    *   **Uses:** Respiration (O₂), Fertilizer (N₂), Fuel (H₂), Medicine (S).
+*   **Metalloids:** Properties of *both* metals & non-metals. Si, B, Ge, As, Sb, Te.
+    *   **Properties:** Metallic lustre but brittle. **Semiconductors**. Cond/Insulate depending on conditions/temp.
+    *   **Uses:** Chips/Solar (Si), Rocket fuel (B), Transistors (Ge), Pesticides (As).
+*   **Important Facts:** Most ductile/malleable (Au), Lightest metal (Li), Hardest non-metal (Diamond), Only liquid metal (Hg), Most reactive metal (Fr), Most reactive non-metal (F₂), Best conductor (Ag).
+
+---
+
+### Ch-4: Metallurgy - Principles and Methods
+
+*   **Metallurgy:** Science of extracting, purifying, processing metals from minerals.
+*   **Minerals vs Ores:** Mineral = Metal compound found naturally. Ore = Mineral from which metal extracted *profitably*.
+    *   Ores: Iron (Hematite Fe₂O₃, Magnetite Fe₃O₄), Aluminum (Bauxite Al₂O₃.2H₂O), Zinc (Zinc Blende ZnS, Calamine ZnCO₃).
+*   **Principles:** Reactivity Series (more reactive $\to$ more energy), Ellingham Diagram ($\Delta$G° vs T), Gangue (impurities) + Flux $\to$ Slag (removed).
+*   **Methods:**
+    1.  **Concentration (Enrichment):** Remove gangue.
+        *   Gravity Sep: By density (heavy ores like SnO₂).
+        *   Magnetic Sep: Magnetic ores (Fe₃O₄, MnO₂).
+        *   Froth Flotation: Sulfide ores (ZnS, CuFeS₂), ore floats with bubbles.
+        *   Leaching: Chemically dissolve metal. (Bauxite w/ NaOH).
+    2.  **Reduction:** Metal from oxide/sulfide/carbonate form.
+        *   Thermal Decomp: Heat carbonates/hydroxides to oxide (CaCO₃ $\to$ CaO).
+        *   Reduction by Carbon: Heat oxide w/ C or CO (Fe₂O₃ + CO $\to$ Fe).
+    3.  **Refining (Purification):** Remove impurities from extracted metal.
+        *   Liquation: Low MP metal heated to melt & separate (Sn).
+        *   Distillation: Volatile metals (Hg, Zn).
+        *   Electrolytic Refining: Electrolysis (Cu, Al, Ag).
+        *   Zone Refining: High purity for semiconductors (Si, Ge).
+*   **Specific Extractions:**
+    *   Iron: Blast Furnace (Hematite, Coke, Limestone $\to$ Fe + Slag).
+    *   Aluminum: Hall-Héroult (Bauxite Electrolysis $\to$ Al + O₂).
+    *   Copper: Pyrometallurgy (Copper Pyrite $\to$ Cu + SO₂).
+*   **Important Facts:** Most abundant metallic ore (Bauxite). Metals by electrolysis (Na, K, Al). Thermite reaction (Fe₂O₃ + Al). Electrolytic refining for (Cu, Al, Ag).
+
+---
+
+### Ch-5: Important Ores and Alloys
+
+*   **Important Metals and their Ores:** (Key examples)
+    *   Aluminum (Al): Bauxite (Al₂O₃·2H₂O), Cryolite (Na₃AlF₆)
+    *   Iron (Fe): Hematite (Fe₂O₃), Magnetite (Fe₃O₄), Siderite (FeCO₃)
+    *   Copper (Cu): Copper Pyrite (CuFeS₂), Cuprite (Cu₂O), Malachite (CuCO₃·Cu(OH)₂)
+    *   Zinc (Zn): Zinc Blende (ZnS), Calamine (ZnCO₃), Zincite (ZnO)
+    *   Gold (Au): Native Gold
+    *   Silver (Ag): Silver Glance (Argentite Ag₂S), Horn Silver (AgCl)
+    *   Lead (Pb): Galena (PbS), Cerussite (PbCO₃)
+    *   Tin (Sn): Cassiterite (Tin Stone SnO₂)
+    *   Manganese (Mn): Pyrolusite (MnO₂), Rhodochrosite (MnCO₃)
+    *   Chromium (Cr): Chromite (FeCr₂O₄)
+*   **Alloy:** Mixture of 2+ metals (or metal + non-metal) to improve properties.
+*   **Important Alloys & Uses:** (Key examples)
+    *   Stainless Steel: Fe + Cr + Ni. Rust-resistant, Strong. Utensils, Equip.
+    *   Brass: Cu + Zn. Hard, Shiny. Electrical, Decoration.
+    *   Bronze: Cu + Sn. Corrosion-resistant. Statues, Coins.
+    *   Duralumin: Al + Cu + Mg + Mn. Light, Strong. Aircraft, Autos.
+    *   Nichrome: Ni + Cr + Fe. Heat Resistant. Heating coils.
+    *   Gun Metal: Cu + Sn + Zn. Strong. Cannons, Pipes.
+    *   Solder: Pb + Sn. Low MP. Electrical joints.
+    *   Amalgam: Hg + Other metal. Dentistry.
+
+---
+
+### Ch-6: Acids, Bases and Salts and pH Scale
+
+*   **Acids:** Produce H+ in water. Sour taste, turn blue litmus red.
+    *   Types: Natural (Citric), Artificial (HCl, H₂SO₄). Strong (complete ioniz: HCl, H₂SO₄, HNO₃), Weak (partial: CH₃COOH, H₂CO₃). Organic (from bio sources), Inorganic (from minerals).
+    *   Uses: H₂SO₄ (Batteries, Fert), HNO₃ (Exp, Fert), HCl (Digestion, Cleaning).
+*   **Bases/Alkalis:** Produce OH- in water. Bitter taste, turn red litmus blue, slippery.
+    *   Types: Strong (complete ioniz: NaOH, KOH), Weak (partial: NH₄OH, Mg(OH)₂). Alkalis (soluble in water: NaOH, KOH), Insoluble (Cu(OH)₂).
+    *   Uses: NaOH (Soap, Paper), KOH (Batteries), Mg(OH)₂ (Antacid).
+*   **Salts:** Formed by Acid + Base $\to$ Salt + Water (Neutralization). Crystalline.
+    *   Types: Neutral (NaCl), Acidic (NaHSO₄), Basic (MgCl(OH)).
+    *   Uses: NaCl (Food, Preservative), Na₂CO₃ (Washing soda), CaCO₃ (Cement), KNO₃ (Fert, Gunpowder).
+*   **pH Scale:** 0-14. Measures Acidity/Alkalinity.
+    *   pH < 7: Acidic
+    *   pH = 7: Neutral
+    *   pH > 7: Alkaline (Basic)
+*   **Indicators:** Show pH by color change.
+    *   Litmus: Acid (Blue to Red), Base (Red to Blue).
+    *   Methyl Orange: Acid (Red), Base (Yellow).
+    *   Phenolphthalein: Acid (Colorless), Base (Pink).
+
+---
+
+### Ch-7 Important Medicines (Synthetic and Natural), Antioxidants and Preservatives
+
+*   **Medicines:** Chemicals preventing/treating/diagnosing disease. Synthetic (lab-made), Natural (plants, etc).
+*   **Drug Classification:** Based on effect (Analgesic), action (Antihistamine), structure, target (Proteins).
+*   **Drug-Target:**
+    *   Enzyme: Competitive (block active site), Non-competitive (bind allosteric site).
+    *   Receptor: Antagonists (block), Agonists (mimic natural).
+*   **Drug Classes:**
+    *   Antacids: Neutralize acid (NaHCO₃), Block secretion (Cimetidine).
+    *   Antihistamines: Counter histamine (Citrazine, Avil).
+    *   Tranquilizers: Relieve mental stress. Mild (Chlordiazepoxide), Strong (Equanil), Hypnotic (Barbiturates).
+    *   Analgesics (Pain relief): Non-narcotic (Aspirin-anti-inflam, Paracetamol), Narcotic (Morphine-strong pain, addictive/toxic).
+    *   Antimicrobials (Kill/Inhibit microbes): Antibiotics (Treat infections: Penicillin, Ofloxacin), Antiseptics (Apply to skin/wounds: Dettol, Iodine), Disinfectants (Apply to non-living: Chlorine, Phenol).
+    *   Antibiotics: Narrow (specific bacteria: Penicillin G), Broad (wide range: Chloramphenicol, Ofloxacin). Bactericidal (Kill: Penicillin), Bacteriostatic (Inhibit growth: Erythromycin).
+    *   Antifertility: Suppress ovulation (Norethindrone, Ethinylestradiol).
+*   **Natural Medicines:** Ayurveda (Decoctions, Triphala, Ashwagandha), Unani (Rogan Badam Shirin-mental, Habb-e-Suweida-blood), Homeopathy (Arsenic Album-immunity, Belladonna-fever). *Boric acid in Ayurveda for eye/skin.*
+*   **Antioxidants:** Prevent oxidation of food (prevent rancidity/spoilage) by reacting w/ free radicals.
+    *   Examples: BHT, BHA (add to fats/oils). SO₂, Sulfites (wine, fruit). Vitamin C. Natural: Salt, Sugar, Oils.
+    *   Mechanism: More reactive to O₂ than food.
+    *   Airtight containers & Nitrogen flushing (chips) reduce oxidation.
+*   **Preservatives:** Keep food/materials safe longer.
+    *   Natural: Salt (pickles), Sugar (jams), Lemon juice (fruit).
+    *   Artificial: Sodium Benzoate (drinks), Potassium Metabisulphite (dry fruit), Sodium Nitrate (meat), Salts of sorbic/propanoic acid.
+
+---
+
+### Ch-8: Insecticides, Pesticides, Fungicides and Herbicides
+
+*   **Pesticide:** Umbrella term. Kills/controls pests (insects, fungi, weeds, rodents, etc). (Chlorpyrifos, Captan, Glyphosate, Aldrin).
+*   **Insecticide:** Kills/repels insects.
+    *   Types: Contact (DDT, Malathion), Stomach Poison (Zinc Phosphide), Fumigants (Methyl Bromide, Aluminum Phosphide - gas).
+    *   Uses: Crop/food protection, Disease vectors, Post-harvest loss.
+    *   Harmful: Env poll, Bioaccumulation, Health risks, Resistance.
+*   **Fungicide:** Kills/inhibits fungi/spores.
+    *   Types: Contact (Copper Sulphate, Sulphur), Systemic (Carbendazim-absorbed by plant), Protective (Bordeaux Mixture).
+    *   Uses: Control crop fungal infections, Grain storage.
+    *   Harmful: Groundwater contam, Reduce plant resistance, Resistance strains.
+*   **Herbicide (Weedicide):** Kills unwanted plants (weeds).
+    *   Types: Contact (Paraquat-touch kills), Systemic (2,4-D, Glyphosate-circulates in plant), Selective (Atrazine-targets specific weeds), Non-Selective (Glufosinate-kills all plants).
+    *   Uses: Weed control (fields, canals), Improve yield, Hard-to-clear areas.
+    *   Harmful: Health risks (birth defects, endocrine disruptors), Toxic (mammals, aquatic), Reduce soil microbes, Runoff poll.
+*   **Overall Impact:** ✅ +ve: Increased yield, Protect crops/food, Soil nutrients (proper use). ⚠️ -ve: Human health risks, Env poll, Biodiversity loss, Bioaccumulation/magnification.
+*   **Precautions:** PPE, Integrated Pest Management (IPM - combine methods), Biopesticides/Organic, Use recommended doses/intervals, Farmer education (safe handling/disposal).
+
+---
+
+### Ch-9 Fertilizers
+
+*   **Fertilizers:** Chemical substances adding essential nutrients (esp. N, P, K) to soil for plant growth.
+*   **Types (by main nutrient):**
+    *   Nitrogenous (N): Leaf/stem growth, chlorophyll. Urea, Ammonium Sulphate, Ammonium Nitrate.
+    *   Phosphatic (P): Root, flower, fruit dev. Super Phosphate, DAP (Diammonium Phosphate).
+    *   Potassic (K): Water balance, disease resist, sturdy growth. MOP (Muriate of Potash), SOP (Sulphate of Potash). (Potassium Nitrate - also gunpowder).
+    *   Complex/Mixed (NPK): Balanced nutrition (fixed ratios, e.g., 17:17:17).
+*   **Nutrient Content:** Macro (N, P, K, S), Micro (Cu, Zn, Fe, Mn).
+*   **Benefits:** Enhance growth, Higher yield, Quick absorption, Intensive farming, Use on depleted soils.
+*   **Drawbacks/Env Impacts:**
+    *   Soil Degradation: Lose fertility, Kill microbes, Destroy structure, No organic matter.
+    *   Water Pollution: Runoff $\to$ Eutrophication (algal bloom $\to$ O₂ depletion $\to$ aquatic death).
+    *   Health Hazards: Nitrates in water $\to$ cancer.
+    *   Air/Ecosystem: Biomagnification, Air poll, Climate degradation.
+*   **Comparison: Fertilizers vs Manure:**
+    *   Fert: Inorganic/factory, High specific nutrients, No humus, Short-term benefit/long-term damage, Small use, Potentially harmful.
+    *   Manure: Organic/natural decomp, Low broad nutrients, Adds humus, Long-lasting benefit, Large use, Env friendly.
+*   **Sustainable Alternatives:** Organic farming, Biofertilisers (Living organisms: Rhizobium, Azospirillum, Blue-green algae), Green Manure (plough plants into soil), Integrated Organic Farming (zero-waste, combine crops/livestock), Crop Rotation/Fallowing.
+
+---
+
+### Ch-10: Binders and Sweeteners
+
+*   **Binders:** Substances holding ingredients together in tablets/products. Ensure intactness.
+    *   Types: Natural (Starch, Cellulose), Synthetic (PVP, HPMC), Semi-synthetic (Methylcellulose).
+    *   Functions: Hold/Shape, Uniform distribution, Texture, Stability.
+    *   Uses: Pharmaceuticals (tabs/capsules), Food (meat/baked goods), Cosmetics.
+*   **Sweeteners:** Provide sweet taste. Sugar alternatives.
+    *   Natural: Sucrose (Cane Sugar), Glucose, Lactose (Milk). Calorie source, excessive leads to health issues (obesity, diabetes).
+    *   Artificial Sweetening Agents: Chemical, sweet w/ NO calories/energy. For calorie control, diabetes.
+        *   Saccharin: $\approx$ 550x sweeter. Not metabolized. Sodium salt soluble.
+        *   Aspartame: $\approx$ 100x sweeter. Dipeptide. **NOT stable at cooking temps** (cold foods/drinks only).
+        *   Alitame: $\approx$ 2000x sweeter. Very potent. **Difficult to control sweetness.**
+        *   Sucralose: $\approx$  600x sweeter. Trichloro sucrose deriv. **STABLE at cooking temps.** No calories. Expected significant use.
+
+---
+
+### Ch-11: Carbon, its Compounds, and their Domestic and Industrial Applications
+
+*   **Carbon:** Basis of all life, versatile. Found as carbonates, coal, petro (0.02%), CO₂ in air (0.03%). Low abundance, HIGH importance.
+*   **Unique Properties:**
+    *   **Catenation:** Bonds w/ self (chains, rings, single/double/triple). Saturated/Unsaturated. Unique extent.
+    *   **Tetravalency:** 4 bonds (H, O, N, S, Halogens).
+    *   **Covalent Bonding:** Poor electrical conductors, weak intermolecular forces.
+*   **Allotropes (Different forms):**
+    *   Diamond: Hardest, 3D network, High MP, Good HEAT cond, Poor ELEC cond. Uses: Cutting, Jewelry.
+    *   Graphite: Soft, layered, Good ELEC cond (deloc e-), Lubricant. Uses: Lubricants, Electrodes, Pencils.
+    *   Fullerenes: Cage-like (C₆₀), potential uses (superconductors).
+    *   Amorphous: Coke (steel, metal extr), Charcoal (adsorbent), Carbon Black (pigment, tire filler).
+*   **Inorganic Carbon Cmpds:**
+    *   CO: Toxic gas (incomplete combust). Uses: Metallurgy, Methanol synth, Fuel.
+    *   CO₂: Gas (complete combust). Uses: Carbonated drinks, Dry ice/Refrig. Forms Carbonic acid in water. Excess $\to$ Greenhouse effect.
+    *   Carbonates/Hydrogencarbonates: Limestone, Marble. Washing soda (Na₂CO₃) $\to$ glass, soap. Baking soda (NaHCO₃) $\to$ baking, cleaning.
+*   **Organic Carbon Cmpds:** Study of C-containing cmpds. MILLIONS known. Underpins life/industry.
+    *   Hydrocarbons (C+H): From petro/coal. Fuels (LPG, petrol), Polymers, Solvents. Alkanes (saturated), Alkenes/Alkynes (unsaturated), Aromatics (Benzene-dyes, exp, some carcinogenic).
+    *   Alcohols (-OH): Ethanol (beverage, med, antiseptic, fuel), Methanol (plastics, fibers).
+    *   Aldehydes/Ketones (C=O): Flavorings, Solvents (Acetone), Perfumes.
+    *   Carboxylic Acids (-COOH): Ethanoic acid (Vinegar).
+    *   Polymers: Large repeating units (monomers). Polyethene, PVC, Nylon. Packaging, Clothing. Non-biodegradable waste issue $\to$ Biodegradable needed.
+    *   Soaps/Detergents: Cleaning (hydrophobic/hydrophilic ends).
+    *   Drugs/Medicines: Many organic.
+    *   Dyes/Pigments: Many C-based.
+    *   Solvents: Benzene, Acetone, Ethanol.
+*   **In Living Organisms:** Basis of Biomolecules (Carbs, Proteins, Fats, Nucleic Acids - DNA/RNA).
+*   **Industrial Apps:** Fuel, Mfg (chemicals, dyes, plastics), Metallurgy, Construction (Cement), Electronics (Graphite, Silicon), Water Treatment, Bleaching.
+*   **Env Cons:** GHGs (CO₂), Air Poll (CO, particulate), Plastic waste (Non-biodegradable).
+
+---
+
+### Ch-12: Radioactivity: Concepts and Applications
+
+*   **Radioactivity:** Unstable nucleus spontaneously emits radiation $\to$ more stable nucleus.
+    *   Discovery: Becquerel (Uranium), Curies (Radium, Polonium).
+    *   Elements: Natural (U, Th, Ra, Po), Artificial (Pu, Am, Tc).
+*   **Types of Radiation:**
+
+    | Type    | Structure           | Ionization | Penetration | Shielding          | Example (Source) |
+    | -------- | ----------------- | -------- | --------- | ---------------- | -------------- |
+    | Alpha ($\alpha$) | Helium nucleus (⁴He²⁺) | High       | Lowest      | Paper, few cm air  | U-238            |
+    | Beta ($\beta$)  | e⁻ / e⁺           | Moderate   | Moderate    | Few mm Aluminum    | C-14             |
+    | Gamma ($\gamma$) | High-energy EM wave | Low        | Highest     | Thick Lead/Concrete | Co-60            |
+
+*   **Laws:**
+    *   Spontaneous: Unaffected by T, P, chem changes.
+    *   First-Order Decay: Rate $\propto$ No. of undecayed nuclei (N).
+    *   Half-Life (T₁/₂): Time for half substance to decay. T₁/₂ = 0.693/λ.
+    *   Activity (A): Decay rate. A=λN. Units: Becquerel (Bq = 1 decay/sec), Curie (Ci = 3.7x10¹⁰ decays/sec).
+*   **Applications:**
+    *   Medical: Cancer therapy (Co-60 $\gamma$), Nuclear Medicine (I-131 thyroid, Tc-99m imaging).
+    *   Energy: Nuclear Reactors (U-235, Pu-239 Fission), Nuclear Fusion (D-T, potential clean energy).
+    *   Agri/Food: Crop improvement (mutations by $\gamma$), Food preservation (irradiation).
+    *   Carbon Dating: C-14 estimates age of organic remains.
+    *   Industry: Radiography (defect testing), Thickness measurement ($\beta$).
+    *   Space: Nuclear batteries/RTGs (Pu-238, power satellites/rovers).
+    *   Env Studies: Water source tracing (³H, Rn-222), Pollution tracing.
+*   **Dangers & Safety:**
+    *   Sources: Nuclear accidents (Chernobyl, Fukushima), Radioactive waste, Weapon testing.
+    *   Health Effects: Short-term (burns, nausea, DNA damage), Long-term (Cancer, birth defects, mutations).
+    *   Safety: Lead shielding, Proper disposal (secure containers), Radiation detectors/dosimeters, Strict protocols/limits.
+
+---
