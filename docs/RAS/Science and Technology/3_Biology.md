@@ -3,7 +3,7 @@
 
 **I. Introduction to the Cell**
 
-*   **Definition:** The structural and functional unit of all living organisms, capable of performing all essential life processes independently.
+*   **Definition:** The *structural and functional unit* of all living organisms, capable of performing all essential life processes independently.
 
 *   **Discovery of the Cell and Cell Theory:**
     *   **Robert Hooke (1665):** First observed cells (in cork).
@@ -12,21 +12,21 @@
     *   **Rudolf Virchow (1855):** "Omnis cellula e cellula" (Every cell originates from a pre-existing cell) (Added to Cell Theory).
 
 *   **Types of Cells:**
-    1.  **Prokaryotic Cell:**
-        *   Lacks a nucleus.
-        *   Lacks membrane-bound organelles.
-        *   DNA resides freely in the cytoplasm.
-        *   Examples: Bacteria and Archaea.
-    2.  **Eukaryotic Cell:**
-        *   Has a well-organized nucleus.
-        *   Has membrane-bound organelles.
-        *   More complex structure.
-        *   Examples: Plant and animal cells.
+
+| Feature                       | Prokaryotic Cell                                            | Eukaryotic Cell                                                                           |
+| :---------------------------- | :---------------------------------------------------------- | :---------------------------------------------------------------------------------------- |
+| **Nucleus**                   | Absent (genetic material in nucleoid region)                | Present (*membrane-bound*)                                                                |
+| **Membrane-bound Organelles** | *Absent*                                                    | Present (e.g., mitochondria, ER, Golgi, lysosomes, plastids)                              |
+| **Genetic Material**          | Single, circular DNA (naked)                                | Multiple, linear DNA (associated with histones in chromosomes)                            |
+| **Ribosomes**                 | 70S                                                         | Primarily 80S (cytoplasmic); 70S in some organelles                                       |
+| **Cell Wall**                 | Usually present (distinct composition, e.g., peptidoglycan) | Composition varies; absent in animal cells, present in plants (cellulose), fungi (chitin) |
+| **Cell Division**             | Binary *Fission*                                            | Mitosis & Meiosis                                                                         |
+
 
 **II. Cell Structure and Organelles**
-
+![](https://cdn.britannica.com/85/78585-050-DF72434D/cells-animal-plant-ways-nucleus-difference-organelles.jpg)
 *   **(i) Cell Membrane (Plasma Membrane):**
-    *   Semi-permeable boundary separating cell interior from the external environment.
+    *   *Semi-permeable boundary* separating cell interior from the external environment.
     *   Protects the cell and regulates molecule movement.
     *   **Structure (Fluid Mosaic Model):**
         1.  Phospholipid Bilayer: Main component (hydrophobic and hydrophilic parts).
@@ -44,11 +44,11 @@
         *   Active Transport (Uses ATP): Protein Pumps, Endocytosis, Exocytosis.
 
 *   **(ii) Cell Wall:**
-    *   Rigid, outer covering providing protection, structure, and support.
-    *   Found in plant cells, bacteria, fungi, some protists; absent in animal cells.
+    *   *Rigid, outer covering* providing protection, structure, and support.
+    *   Found in plant cells, bacteria, fungi, some protists; *absent in animal cells.*
     *   **Structure:** Varies by organism:
-        1.  In Plant Cells: Primarily cellulose, hemicellulose, pectin, proteins; lignin in mature cells.
-        2.  In Fungi: Primarily chitin.
+        1.  In Plant Cells: Primarily *cellulose*, hemicellulose, pectin, proteins; lignin in mature cells.
+        2.  In Fungi: Primarily *chitin*.
         3.  In Bacteria: Contains peptidoglycan.
         4.  In Algae: Cellulose, galactans, mannans, calcium carbonate.
     *   **Functions:**
@@ -59,14 +59,17 @@
         5.  Cell-to-Cell Communication (via plasmodesmata in plants).
     *   **Difference between Cell Membrane and Cell Wall:**
     
-| Feature   | Cell Membrane         | Cell Wall                   |
-| :-------- | :---------------------------- | :---------------------------------- |
-| Location  | All cells             | Plants, bacteria, fungi, protists |
-| Structure | Phospholipids and proteins    | Cellulose, chitin, peptidoglycan, etc. |
+| Feature   | Cell Membrane                | Cell Wall                                  |
+| :-------- | :--------------------------- | :----------------------------------------- |
+| Location  | *All cells*                  | *Plants*, bacteria, fungi, protists        |
+| Structure | Phospholipids and *proteins* | *Cellulose*, *chitin*, peptidoglycan, etc. |
 
 *   **Cell Nucleus:**
-    *   Most important part, controls biological functions, stores DNA.
-    *   "Brain" of the cell, directs activities.
+
+	![](https://eduinput.com/wp-content/uploads/2024/02/diagram-of-nucleus-1024x576.webp)
+
+	*   Most important part, controls biological functions, stores DNA.
+    *   "*Brain*" of the cell, directs activities.
     *   **Structure:**
         1.  Nuclear Membrane: Double membrane with pores.
         2.  Nucleoplasm: Fluid inside, suspends components.
@@ -78,7 +81,6 @@
         3.  Cell Division (DNA redistribution).
         4.  Growth and Development Control.
         5.  Storage and Processing of DNA/RNA.
-
 *   **Cytoplasm:**
     *   Semi-fluid substance between cell membrane and nucleus.
     *   Aids biological functions and supports organelles.
@@ -95,29 +97,32 @@
     *   **Types:**
         1.  Endoplasm: Thick, viscous inner part (higher activity).
         2.  Ectoplasm: Outer, lighter, transparent part (shape/support).
+        
     *   **Differences between Plant and Animal Cell Cytoplasm:**
     
-| Feature     | Plant Cell      | Animal Cell      |
-| :---------- | :---------------------- | :----------------------- |
-| Structure   | More organized, large vacuoles | Smaller or absent vacuoles |
-| Flow| Slow and limited| More dynamic     |
-| Organelles  | Plastids present| No plastids      |
+| Feature    | Plant Cell                       | Animal Cell                |
+| :--------- | :------------------------------- | :------------------------- |
+| Structure  | More organized, large *vacuoles* | Smaller or absent vacuoles |
+| Flow       | Slow and limited                 | More dynamic               |
+| Organelles | *Plastids* present               | No plastids                |
 
 *   **(i) Mitochondria:**
-    *   "Powerhouse of the cell," generates energy (ATP).
+
+![](https://upload.wikimedia.org/wikipedia/commons/7/75/Diagram_of_a_human_mitochondrion.png)
+    *   "*Powerhouse of the cell,*" generates energy (ATP).
     *   Membrane-bound organelle.
     *   **Structure:**
         1.  Outer Membrane: Smooth, permeable.
-        2.  Inner Membrane: Folded into cristae (increased surface area).
+        2.  Inner Membrane: Folded into *cristae* (increased surface area).
         3.  Intermembrane Space: Between outer and inner membranes.
-        4.  Matrix: Fluid inside inner membrane (mitochondrial DNA, ribosomes, enzymes).
+        4.  *Matrix*: Fluid inside inner membrane (mitochondrial DNA, ribosomes, enzymes).
     *   **Functions:**
         1.  Energy Production (ATP Synthesis via aerobic respiration).
         2.  Cellular Respiration (Krebs Cycle, Electron Transport Chain).
         3.  Assistance in Cell Division and Growth.
         4.  Control of Apoptosis (Programmed Cell Death).
         5.  Maintaining Calcium Homeostasis.
-    *   **Unique Features:** Contains its own DNA and ribosomes (semi-autonomous).
+    *   **Unique Features:** Contains its own DNA and ribosomes (*semi-autonomous*).
 
 *   **Ribosomes:**
     *   Composed of rRNA and proteins; two subunits.
@@ -125,28 +130,29 @@
         *   Free ribosomes (in cytoplasm): Proteins for intracellular use.
         *   Bound ribosomes (on RER): Membrane and secretory proteins.
     *   **Functions:**
-        1.  Protein synthesis (translation).
-        2.  Enzyme production.
+        1.  *Protein synthesis* (translation).
+        2.  *Enzyme production.*
         3.  Contribution to cell growth and division.
 
 *   **Golgi Body (Golgi Apparatus, Golgi Complex):**
+![](https://upload.wikimedia.org/wikipedia/commons/4/42/Golgi_apparatus_%28borderless_version%29-en.svg)
     *   **Structure:** Stack of flattened, membrane-bound sacs (cisternae).
         *   Cis face (forming face).
         *   Trans face (maturing face).
         *   Golgi vesicles.
     *   **Functions:**
         1.  Modification of proteins and lipids (glycosylation, lipid modification).
-        2.  Packaging and transport of molecules (to membrane, lysosomes, extracellular).
-        3.  Formation of lysosomes.
-        4.  Control of secretion (hormones, enzymes).
-        5.  Formation and repair of new cell membrane.
-        6.  Synthesis of pectin and cellulose in plant cell walls.
+        2.  *Packaging and transport* of molecules (to membrane, lysosomes, extracellular).
+        3.  Formation of *lysosomes*.
+        4.  Control of *secretion* (hormones, enzymes).
+        5.  Formation and *repair* of new cell membrane.
+        6.  Synthesis of pectin and *cellulose* in plant cell walls.
 
 *   **Lysosome:**
     *   **Structure:** Single membrane-bound organelles containing hydrolytic enzymes (proteases, lipases, etc.), functioning at acidic pH (~5). Originate from the Golgi apparatus.
     *   **Functions:**
-        1.  Digests waste materials (damaged parts, dead cells, unwanted substances).
-        2.  Autolysis (self-destruction - "suicidal bag").
+        1.  Digests *waste materials* (damaged parts, dead cells, unwanted substances).
+        2.  Autolysis (self-destruction - "*suicidal bag*").
         3.  Participates in endocytosis and phagocytosis (destroying pathogens).
         4.  Manages waste and recycling (breaks down old organelles).
         5.  Helps in cell division and growth (restructuring).
@@ -156,8 +162,8 @@
     *   Membrane-bound structure in eukaryotic cells.
     *   Role in synthesis, storage, transport.
     *   **Types:**
-        1.  Rough Endoplasmic Reticulum (RER): Has ribosomes, aids protein synthesis/modification (to Golgi/lysosomes).
-        2.  Smooth Endoplasmic Reticulum (SER): Lacks ribosomes, aids lipid/steroid synthesis, detoxification, Ca2+ storage.
+        1.  Rough Endoplasmic Reticulum (RER): Has *ribosomes*, aids *protein* synthesis/modification (to Golgi/lysosomes).
+        2.  Smooth Endoplasmic Reticulum (SER): Lacks ribosomes, aids *lipid/steroid* synthesis, detoxification, Ca2+ storage.
     *   **Functions:**
         1.  Synthesis of proteins (RER) and lipids/steroids (SER).
         2.  Transport of substances within the cell.
@@ -166,26 +172,29 @@
     *   **Relationship with Golgi Apparatus:** Proteins/lipids from ER are modified and transported by Golgi.
 
 *   **(vi) Chloroplast:**
-    *   Membrane-bound organelle in plant/algal cells. Responsible for photosynthesis.
-    *   **Structure:**
-        1.  Double Membrane: Outer & inner.
-        2.  Stroma: Fluid space inside (enzymes, DNA, ribosomes, Calvin cycle).
-        3.  Thylakoid: Membranous sacs (grana when stacked); contain chlorophyll.
-        4.  Chlorophyll & Other Pigments: Absorb light.
-    *   **Functions:**
-        1.  Photosynthesis (Light reactions in thylakoid, Calvin Cycle in stroma).
-        2.  Oxygen Production.
-        3.  Amino Acid & Fatty Acid Synthesis.
-        4.  Own DNA and Ribosomes (semi-autonomous).
-    *   **Importance:** Base of food chain, maintains atmospheric oxygen.
+
+![](https://upload.wikimedia.org/wikipedia/commons/2/2d/Scheme_Chloroplast-en.svg)
+    
+*   Membrane-bound organelle in plant/algal cells. Responsible for *photosynthesis*.
+*   **Structure:**
+	1.  Double Membrane: Outer & inner.
+	2.  Stroma: Fluid space inside (enzymes, DNA, ribosomes, Calvin cycle).
+	3.  Thylakoid: Membranous sacs (grana when stacked); contain *chlorophyll*.
+	4.  Chlorophyll & Other Pigments: Absorb light.
+*   **Functions:**
+	1.  Photosynthesis (*Light reactions in thylakoid, Calvin Cycle in stroma*).
+	2.  Oxygen Production.
+	3.  Amino Acid & Fatty Acid Synthesis.
+	4.  Own DNA and Ribosomes (*semi-autonomous*).
+*   **Importance:** Base of food chain, maintains atmospheric oxygen.
 
 *   **(vii) Centriole:**
-    *   Microtubular structure in animal cells, some plants/protists. Role in cell division and microtubule organization.
+    *   *Microtubular* structure in animal cells, some plants/protists. Role in cell division and microtubule organization.
     *   **Structure:**
         1.  Tubular Structure: Made of microtubules (9+0 structure).
-        2.  Present in Pairs: Called a centrosome; assists in spindle fiber formation.
+        2.  Present in *Pairs*: Called a centrosome; assists in spindle fiber formation.
     *   **Functions:**
-        1.  Role in Cell Division: Builds spindle fibers to separate chromosomes (mitosis/meiosis).
+        1.  Role in *Cell Division*: Builds *spindle fibers* to separate chromosomes (mitosis/meiosis).
         2.  Microtubule Organization: Maintains cell structure (cytoskeleton), regulates organelle position.
         3.  Cilia & Flagella Formation: Forms basal body.
         4.  Organizing Golgi Apparatus and Vesicles.
@@ -200,11 +209,26 @@
         *   Aids in general body growth, tissue repair, regeneration.
         *   **Stages:** Interphase (preparation), Prophase (chromosome condense, centrioles move), Metaphase (chromosomes align), Anaphase (chromatids separate), Telophase (new nuclei), Cytokinesis (cytoplasm divides).
         *   **Where occurs:** Somatic cells (skin, bone marrow, meristematic cells).
+        ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mitosis_Stages.svg/1600px-Mitosis_Stages.svg.png?20210301013002)
     2.  **Meiosis:** Special division. Parent cell forms four daughter cells with half the chromosome number (haploid, n). Occurs in gamete formation.
         *   **Stages:** Meiosis I (chromosome number halved, crossing over/genetic variation), Meiosis II (similar to mitosis, forms 4 cells).
         *   **Where occurs:** Reproductive cells (ovaries, testes).
+         ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Meiosis_Stages.png/1600px-Meiosis_Stages.png?20160731193954)
     3.  **Amitosis:** Simple, direct division. Cell divides into two parts without proper chromosome separation.
 
+
+| Feature                                          | Mitosis                                                                    | Meiosis                                                                         |
+| :----------------------------------------------- | :------------------------------------------------------------------------- | :------------------------------------------------------------------------------ |
+| **Type of Division**                             | *Equational* Division (chromosome number remains the *same*)               | *Reduction* Division (chromosome number is *halved*)                            |
+| **Number of Divisions**                          | One                                                                        | Two (Meiosis I and Meiosis II)                                                  |
+| **DNA Replication**                              | Occurs once before the division (during Interphase)                        | Occurs once before Meiosis I (during Interphase), but not before Meiosis II     |
+| **Number of Daughter Cells**                     | *Two*                                                                      | *Four*                                                                          |
+| **Chromosome Number of Daughter Cells**          | *Same* as parent cell (e.g., diploid parent -> diploid daughters)          | *Half* of parent cell (e.g., diploid parent -> haploid daughters)               |
+| **Genetic Composition of Daughter Cells**        | Genetically *identical* to parent cell                                     | Genetically *varied* from parent cell and each other (due to recombination)     |
+| **Occurrence**                                   | Diploid *somatic* cells (generally), also haploid cells in some exceptions | Diploid cells destined to form *gametes* (in reproductive organs/structures)    |
+| **Purpose/Role**                                 | *Growth*, tissue *repair*, cell replacement, *asexual reproduction*        | *Sexual reproduction*, production of gametes, introduction of genetic variation |
+| **Typical Outcome Cells**                        | *Somatic* cells, body cells                                                | *Gametes (sperm, egg), spores*                                                  |
+|                                                  |                                                                            |                                                                                 |
 *   **Importance of Cell Division:**
     1.  Growth (new cells formed).
     2.  Tissue Repair (damaged cells regenerated).
@@ -215,151 +239,117 @@
 ---
 
 
-## Ch-2 Control and Coordination in Animals
+## Ch-2 Control and Coordination
 
-Coordination is essential for multicellular organisms to respond to changes in their environment and maintain internal stability. It involves the controlled exchange of information between different body parts.
 
-*   In Animals: Coordination is primarily achieved through the Nervous System and the Hormonal (Endocrine) System.
-*   In Plants: Coordination occurs without a nervous system, relying on chemical (hormonal) and physical processes.
+**The Nervous System**
 
----
+**I. Introduction and Role**
+*   Vital system for **control and coordination** of bodily activities.
+*   Works with the endocrine system for controlled and coordinated body function.
+*   Operates by **detecting stimuli** (internal/external) and generating a **response**.
+*   Enables organisms to interact with their environment, regulate internal functions, and coordinate complex behaviors.
+*   Ensures controlled exchange of information between body parts for stability and response to changes.
 
-### I. Animal Coordination
+**II. Basic Unit: The Neuron (Nerve Cell)**
 
-Animals use two main systems for coordination: the fast-acting Nervous System and the slower, long-lasting Hormonal System.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Anatomy_of_neuron.png/1600px-Anatomy_of_neuron.png?20220517151917)
 
-#### A. The Nervous System
+*   The *functional unit* of the nervous system.
+*   Specialized for conducting information via **electrical impulses**.
+*   Composed of **nervous tissue**.
+*   **Parts of a Neuron:**
+    *   **Cell Body (Cyton or Soma):** Contains nucleus, cytoplasm. Receives impulses from dendrites, transmits to axon. Cytoplasm contains **Nissl bodies** (rough ER).
+    *   **Dendrites:** Short, branched extensions. Receive information (impulses) from receptors or other neurons. Information acquired at dendritic tip.
+    *   **Axon (Nerve Fibre):** Long projection. Carries impulses *away* from the cell body to other neurons, muscles, or glands. May have an insulating **fatty sheath (neurilemma)** with gaps (**Node of Ranvier**). Ends in swollen **axon bulbs** storing **neurotransmitters**. Can be up to a metre long.
 
-The nervous system controls the exchange of information and helps the body respond to internal and external changes.
+**III. How Information is Transmitted**
+*   **Nerve Impulse Transmission:**
+    *   Neurons are **excitable cells** due to polarized membranes.
+    *   Stimulation generates an **electrical impulse** (electrochemical process).
+    *   Impulse travels from dendrite -> cell body -> axon.
+    *   Transmission along axon involves **depolarization and repolarization**.
+*   **Synapse:**
+    *   Junction between axon ending of one neuron and dendrite/cell body of another.
+    *   Small gap: **synaptic cleft**.
+    *   Electrical impulse converted to a **chemical signal**.
+    *   **Neurotransmitters** released into cleft, bind to receptors on next cell, generating a new impulse.
 
-**1. Structure of the Nervous System:**
+**IV. Structure of the Nervous System: Divisions**
+*   **Nerve:** Thread-like structure formed by a **bundle of axons** bound by connective tissue. Emerge from brain/spinal cord.
+    *   **Sensory Nerves (Afferent):** Carry impulses *from* **receptors (sense organs)** *to* CNS. (e.g., Optic nerve). Contain sensory fibres.
+    *   **Motor Nerves (Efferent):** Carry impulses *from* CNS *to* **effector organs (muscles/glands)**. (e.g., Nerve to eye muscles). Contain motor fibres.
+    *   **Mixed Nerves:** Contain both sensory and motor fibres. (e.g., Spinal nerve).
 
 *   **Central Nervous System (CNS):**
-    *   Includes the **brain** and **spinal cord**.
-    *   Controls and coordinates the entire body.
+    *   Consists of the **brain** and **spinal cord**.
+    *   The **information processing and control center**.
     *   **Brain:**
-        *   *Forebrain:* Thinking, memory, language, sensory (vision, hearing, smell).
-        *   *Midbrain:* Visual and auditory responses.
-        *   *Hindbrain:* Balance, coordination, involuntary actions (heartbeat, respiration).
+        *   Main coordinating center, located in skull.
+        *   Protected by **cranium (brain box)**, **three meninges** (dura mater, arachnoid, pia mater), and **cerebrospinal fluid (CSF)**.
+
+![](https://upload.wikimedia.org/wikipedia/commons/c/cc/Basic_structures_of_the_brain_highlighted.png)
+        *   Major Parts:
+            *   **Forebrain:** Includes **cerebrum** (thinking, intelligence, memory, voluntary actions, processing sensory info), **thalamus** (relay for sensory impulses), and **hypothalamus** (controls motivated behavior, pituitary, body temperature).
+            *   **Midbrain:** Between forebrain/hindbrain. Receives/integrates visual, tactile, auditory inputs.
+            *   **Hindbrain:** Consists of **cerebellum** (precision of voluntary actions, posture, balance), **pons** (interconnects brain regions), and **medulla oblongata** (controls involuntary actions: heartbeat, breathing, blood pressure, salivation, vomiting; connects to spinal cord).
     *   **Spinal Cord:**
-        *   Transmits information between brain and body.
-        *   Controls reflex actions.
+        *   Extends from medulla oblongata down vertebral column.
+        *   Protected by **vertebral column**, **meninges**, and **CSF**.
+        *   Controls **reflexes below the neck**.
+        *   Conducts sensory impulses *to* the brain.
+        *   Conducts motor responses *from* the brain to trunk/limbs.
+        *   Forms **reflex arcs**.
+
 *   **Peripheral Nervous System (PNS):**
     *   Network of nerves connecting the CNS to the rest of the body.
-    *   Types of Nerves:
-        *   *Sensory Nerves:* Transmit signals *from* the environment *to* the brain.
-        *   *Motor Nerves:* Transmit commands *from* the brain *to* organs.
-*   **Autonomic Nervous System (ANS):**
-    *   Controls involuntary functions (heartbeat, digestion, sweating).
-    *   Parts:
-        *   *Sympathetic:* Prepares body for stress/danger ("fight or flight").
-        *   *Parasympathetic:* Returns body to normal state.
+    *   Facilitates communication between CNS and other parts.
+    *   Divisions:
+        *   **Somatic Nervous System:** Relays impulses from CNS to **skeletal muscles**. Controls **voluntary actions**. Includes cranial and spinal nerves.
+        *   **Autonomic Nervous System (ANS):** Transmits impulses from CNS to **involuntary organs and smooth muscles**. Controls **involuntary actions** (heartbeat, digestion, sweating).
+            *   **Sympathetic Nervous System:** Prepares body for **emergency** ("fight or flight"). Accelerates heartbeat, dilates pupils, constricts blood vessels, releases sugar, etc.
+            *   **Parasympathetic Nervous System:** **Restores normal body conditions** after emergency. Slows heartbeat, constricts pupils, etc. Often have **opposite but complementary effects**.
 
-**2. The Neuron (Basic Component):**
+**V. Sensory Input: Sense Organs (Receptors)**
+*   Specialized structures that detect information from the environment.
+*   Examples: inner ear (hearing/balance), nose (smell), tongue (taste), eyes (vision), skin (touch, pressure, pain, temperature).
+*   Detect stimulus and trigger nerve impulses that are sent to the CNS for processing.
 
-*   Carries nerve impulses.
-*   **Parts:**
-    *   *Cell Body:* Contains nucleus.
-    *   *Dendrites:* Receive signals, transmit to cell body.
-    *   *Axon:* Long fiber, sends signals away from cell body.
-    *   *Synapse:* Gap between neurons for chemical signal transmission (neurotransmitters).
-
-**3. Functions of the Nervous System:**
-
-*   *Sensory Function:* Receives information (temp, light, sound).
-*   *Integrative Function:* Analyzes and makes decisions.
-*   *Motor Function:* Stimulates organs to respond.
-
-**4. Reflex Action:**
-
-*   A quick, automatic response controlled by the spinal cord.
-*   Protects the body from sudden stimuli.
-*   **Examples:** Withdrawing hand from hot object, blinking from dust, removing foot from nail, pupil constriction in bright light, knee jerk.
+**VI. Reflex Actions**
+*   A **sudden, involuntary response** to a stimulus **without conscious thought**.
+*   Examples: pulling hand from hot object, blinking, removing foot from nail, pupil constriction, knee jerk.
+*   Controlled by the **spinal cord** (though impulse info reaches brain).
 *   **Reflex Arc (Pathway):**
-    1.  *Stimulus:* External factor (e.g., heat).
-    2.  *Receptor:* Detects stimulus (e.g., skin nerves).
-    3.  *Sensory Nerve:* Carries signal to spinal cord.
-    4.  *Spinal Cord:* Processes message, sends instruction.
-    5.  *Motor Nerve:* Carries instruction to effector organ.
-    6.  *Effector Organ:* Reacts (e.g., muscles).
+    1.  **Stimulus:** External factor (e.g., heat).
+    2.  **Receptor:** Detects stimulus (e.g., skin nerves).
+    3.  **Sensory Neuron:** Carries signal to CNS (spinal cord/brainstem).
+    4.  **Interneuron (Association Neuron):** (Optional) In CNS, processes info.
+    5.  **Motor Neuron:** Carries response instruction to effector.
+    6.  **Effector (Muscle or Gland):** Carries out the action.
 *   **Types of Reflex Actions:**
-    *   *Natural (Innate):* Automatic, no practice needed (suckling, blinking, sneezing).
-    *   *Acquired (Conditioned):* Developed through practice/experience (applying brakes, catching a ball).
+    *   **Natural (Innate):** Automatic, no practice needed (suckling, blinking, sneezing).
+    *   **Acquired (Conditioned):** Developed through practice/experience (applying brakes, catching a ball).
 *   **Importance:** Quick response, protection, energy conservation, life-saving.
 
-#### B. The Hormonal (Endocrine) System
+**VII. Overall Functions of the Nervous System**
+*   **Sensory Function:** Receives information from the environment (temperature, light, sound, etc.).
+*   **Integrative Function:** Analyzes information and makes decisions.
+*   **Motor Function:** Stimulates effector organs (muscles/glands) to respond.
 
-Coordination through chemical signals (hormones) produced by endocrine glands. Hormones travel via the bloodstream, providing slower but long-lasting responses.
+**VIII. Nervous vs. Hormonal Coordination**
+*   **Nervous System:**
+    *   **Rapid, point-to-point coordination.**
+    *   Uses electrical impulses and chemical signals (neurotransmitters).
+    *   Effects usually **localized and short-lived**.
+*   **Endocrine System:**
+    *   **Slower coordination.**
+    *   Uses hormones transported by blood.
+    *   Effects can be **general and long-lasting**.
+*   Systems often work **together** for coordination.
 
-**1. Endocrine Glands and Their Functions:**
-
-*   **Pituitary Gland ("Master Gland"):** Base of brain; controls other glands; secretes GH, prolactin, LH, FSH, ACTH.
-*   **Thyroid Gland:** Neck; regulates metabolism, energy, bone development; secretes Thyroxine (needs iodine). Iodine deficiency can cause goiter.
-*   **Parathyroid Gland:** Behind thyroid; controls calcium/phosphate levels via Parathyroid Hormone (PTH).
-*   **Adrenal Gland ("Stress Hormone Gland"):** On kidneys; regulates stress, water, metabolism; secretes Adrenaline, Noradrenaline, Cortisol, Aldosterone.
-*   **Pancreas ("Blood Sugar Control Gland"):** Behind stomach; controls blood sugar; secretes Insulin (lowers) and Glucagon (raises). Insulin deficiency causes diabetes.
-*   **Gonads ("Reproductive Hormone Glands"):**
-    *   *Testes (Male):* Scrotum; controls male traits, sperm; secretes Testosterone.
-    *   *Ovaries (Female):* Pelvic region; controls egg production, menstrual cycle; secretes Estrogen, Progesterone.
-*   **Thymus Gland ("Immune System Gland"):** Chest (above heart); strengthens immune system; secretes Thymosin (activates WBCs).
-*   **Pineal Gland ("Sleep Regulator Gland"):** Middle of brain; regulates sleep cycle; secretes Melatonin.
-
-**2. Hormones and Their Functions:**
-
-*   **Growth Hormone (GH):** (Pituitary) Controls overall body growth, bone/muscle development. Excess = gigantism; Deficiency = dwarfism.
-*   **Thyroxine:** (Thyroid) Regulates metabolism, energy production, cell growth.
-*   **Insulin:** (Pancreas, beta cells) *Lowers* blood glucose by signaling cells to absorb it and store as glycogen/energy. Deficiency = diabetes.
-*   **Glucagon:** (Pancreas, alpha cells) *Raises* blood glucose by signaling liver to convert stored glycogen to glucose.
-*   **Adrenaline (Epinephrine):** (Adrenal) "Emergency Hormone"; "Fight or Flight"; *Raises* heart rate, breathing, blood/oxygen to muscles, blood sugar (via liver glycogen conversion).
-*   **Noradrenaline (Noradrenaline):** (Adrenal) Similar to Adrenaline; primarily *increases blood pressure* by constricting vessels; aids recovery from shock, keeps brain alert.
-*   **Cortisol:** (Adrenal cortex) "Stress Hormone"; Aids coping with *long-term* stress; *Raises* blood sugar (converting protein/fat); regulates blood pressure; affects immune/digestive systems.
-*   **Testosterone:** (Testes) Male hormone; regulates primary/secondary sexual traits, muscle development.
-*   **Estrogen:** (Ovaries) Female hormone; regulates sexual development, reproductive system, menstrual cycle, breast development; maintains bones, cardiovascular health. Deficiency = menstrual irregularities, osteoporosis.
-*   **Progesterone:** (Ovaries/Uterus) "Pregnancy Hormone"; Essential for maintaining pregnancy (thickens uterine lining, relaxes uterine muscles); levels drop to initiate menstruation if no fertilization.
-*   **Luteinizing Hormone (LH):** (Pituitary) *Females:* Triggers ovulation; *Males:* Stimulates Testosterone production.
-*   **Follicle-Stimulating Hormone (FSH):** (Pituitary) *Females:* Stimulates egg development; *Males:* Aids sperm production.
-*   **Oxytocin:** (Pituitary) Stimulates uterine contractions (childbirth), milk production; associated with bonding.
-*   **Prolactin:** (Pituitary) Stimulates milk production after childbirth; contributes to mother-infant bond.
-
-**3. Importance of Hormonal Coordination:**
-Regulates physical growth/development, metabolism, stress response, blood sugar control, reproduction.
-
-#### C. Difference between Nervous System and Hormonal System
-
-*   **Nervous System:** Electrochemical signals, Very Fast Response, Short-lasting effect.
-*   **Hormonal System:** Chemical signals (hormones), Relatively Slower Response, Longer-lasting effect.
-
----
-
-### II. Plant Coordination
-
-Plant coordination relies on chemical (hormonal) and physical processes, without a nervous system. They regulate growth and responses to external changes.
-
-**1. Types of Plant Coordination:**
-
-*   **Quick Response:** Rapid responses to stimuli (e.g., touch in *Mimosa pudica*), based on turgor pressure changes.
-*   **Growth-Related Coordination:** Slower responses involving differential growth based on environmental cues (light, gravity, water, touch, chemicals).
-
-**2. Plant Hormones (Phytohormones) and Their Functions:**
-
-*   **Auxin:** Regulates plant growth, causes bending towards light (phototropism). Found in stems/roots.
-*   **Gibberellin:** Increases plant length, aids seed germination and flower formation. Found in seeds, roots, leaves.
-*   **Cytokinin:** Promotes cell division, develops new branches, prevents leaf fall, aids nutrient distribution. Found in roots/fruits.
-*   **Ethylene:** Helps ripen fruits, contributes to flower dropping. Found in fruits.
-*   **Abscisic Acid:** Maintains dormancy (e.g., seeds), helps close stomata during water scarcity. Present in roots/leaves.
-
-**3. Plant Movements (Tropisms):**
-
-Growth responses towards or away from a stimulus direction.
-
-*   **Phototropism:** Growth towards light (stems positive, roots negative/neutral). E.g., sunflowers turning.
-*   **Geotropism:** Growth response to gravity (roots positive, stems negative).
-*   **Hydrotropism:** Root growth towards water.
-*   **Thigmotropism:** Growth response to touch (e.g., climbing plants coiling around support).
-*   **Chemotropism:** Growth towards/away from a chemical (e.g., pollen tube growth towards ovule).
-
----
-
+**IX. Protection of the Nervous System**
+*   **Brain:** Protected by **bony skull (cranium)**, cushioned by **meninges** and **cerebrospinal fluid** (shock absorption).
+*   **Spinal Cord:** Protected by **vertebral column (backbone)**, covered by **meninges** and **cerebrospinal fluid**.
 
 ## Ch-3 Reproduction in Organisms
 
@@ -1162,128 +1152,129 @@ Maintaining a healthy lifestyle is crucial for circulatory health.
 
 ## Ch-9  Hormones
 
+### **I. Introduction to Hormones**
+- **Definition:** Hormones are chemical messengers secreted by endocrine glands.
+- **Transport:** Travel through the bloodstream to target organs.
+- **Functions:** Regulate growth, metabolism, reproduction, immunity, stress response, sleep, etc.
 
-**I. Introduction: What are Hormones?**
+### **II. Characteristics of Hormones**
+1. Secreted directly into the bloodstream (ductless).
+2. Target specific organs/tissues.
+3. Slow but long-lasting effects.
+4. Regulate key body functions.
+5. Imbalance (excess or deficiency) causes various disorders.
 
-*   **Definition:** Chemical messengers secreted by endocrine glands.
-*   **Transport:** Travel through the bloodstream to target parts of the body.
-*   **Function:** Control and regulate various bodily functions.
+### **III. Major Endocrine Glands and Their Hormones**
+#### 1. **Hypothalamus**
+- Part of the **forebrain** (diencephalon); controls pituitary gland.
+- Functions:
+  - Produces **releasing and inhibiting hormones** that regulate the **anterior pituitary**.
+  - Neurosecretory cells release **oxytocin** and **vasopressin** via the **posterior pituitary**.
+  - Regulates temperature, hunger, thirst, emotions, sexual behavior.
 
-**II. Key Characteristics of Hormones**
+#### 2. **Pituitary Gland** ("Master Gland")
+- Location: Base of the brain in a cavity called **sella turcica**.
+- Attached to hypothalamus via a stalk.
+- Divisions:
+  
+  ##### A. **Anterior Pituitary (Adenohypophysis)**
+  - **Growth Hormone (GH):** Body growth.  
+  - **Prolactin (PRL):** Milk production.  
+  - **TSH:** Stimulates thyroid gland.  
+  - **ACTH:** Stimulates adrenal cortex.  
+  - **LH:** Ovulation in females; androgen production in males.  
+  - **FSH:** Follicle/sperm development.
+  ##### B. **Pars Intermedia**
+  - **Melanocyte Stimulating Hormone (MSH):** Skin pigmentation.
+  ##### C. **Posterior Pituitary (Neurohypophysis)**
+  - Stores/releases hypothalamic hormones:
+    - **Oxytocin:** Uterine contractions, milk ejection.
+    - **Vasopressin (ADH):** Water reabsorption in kidneys.
 
-1.  Secreted directly into the bloodstream.
-2.  Regulate body growth, development, metabolism, reproduction, and other functions.
-3.  Imbalance (Excess/Hypersecretion or Deficiency/Hyposecretion) can lead to various diseases and abnormalities.
+#### 3. **Pineal Gland**
+- Location: Dorsal side of forebrain.
+- Hormone: **Melatonin** — Regulates circadian rhythms (sleep-wake cycle).
 
-**III. Major Endocrine Glands and Their Hormones**
+#### 4. **Thyroid Gland**
+- Location: On trachea in the neck.
+- Hormones:
+  - **Thyroxine (T4), Triiodothyronine (T3):** Regulate metabolism, CNS development.
+  - **Calcitonin:** Lowers blood calcium levels.
 
-1.  **Pituitary Gland ("Master Gland"):**
-    *   Location: Beneath the brain.
-    *   Role: Controls many other endocrine glands.
-    *   Hormones:
-        *   Growth Hormone (GH): Controls body growth.
-        *   Prolactin (PRL): Stimulates milk production in women.
-        *   Adrenocorticotropic Hormone (ACTH): Stimulates the adrenal gland.
-        *   Thyroid Stimulating Hormone (TSH): Controls the thyroid gland.
-        *   Luteinizing Hormone (LH) and Follicle Stimulating Hormone (FSH): Control reproductive hormones.
+#### 5. **Parathyroid Glands**
+- Location: Behind thyroid.
+- Hormone: **Parathyroid Hormone (PTH)** — Increases blood calcium levels.
 
-2.  **Thyroid Gland:**
-    *   Location: Near the trachea in the throat.
-    *   Hormones:
-        *   Thyroxine (T4 & T3): Controls the body's metabolic rate.
-        *   Calcitonin: Regulates blood calcium levels.
+#### 6. **Thymus**
+- Location: Behind the sternum; active in childhood.
+- Hormone: **Thymosins** — Promote T-cell development (immunity).
 
-3.  **Parathyroid Gland:**
-    *   Location: Behind the thyroid gland.
-    *   Hormone:
-        *   Parathyroid Hormone (PTH): Maintains calcium and phosphate balance in the blood.
+#### 7. **Adrenal Glands**
+- Location: On top of each kidney.
+- Two regions:
+  ##### A. **Adrenal Medulla**
+  - Hormones: **Adrenaline (epinephrine)** and **Noradrenaline (norepinephrine)** — Fight-or-flight response.
+  ##### B. **Adrenal Cortex**
+  - Hormones:
+    - **Glucocorticoids (Cortisol):** Stress, metabolism.
+    - **Mineralocorticoids (Aldosterone):** Salt balance, BP regulation.
+    - **Androgens:** Secondary sex characteristics.
 
-4.  **Adrenal Gland:**
-    *   Location: Above both kidneys.
-    *   Hormones:
-        *   Epinephrine (Adrenaline) / Norepinephrine (Noradrenaline): "Fight or flight" hormone; increases energy during stress, excitement, danger.
-        *   Cortisol: Regulates stress, affects metabolism.
-        *   Aldosterone: Controls blood pressure and sodium-potassium balance.
+#### 8. **Pancreas** (Mixed Gland)
+- Location: Near duodenum.
+- Endocrine part: **Islets of Langerhans**
+- Hormones:
+  - **Insulin (β-cells):** Lowers blood glucose.
+  - **Glucagon (α-cells):** Raises blood glucose.
 
-5.  **Pancreas ("Mixed Gland"):**
-    *   Location: Near the stomach.
-    *   Role: Functions as both endocrine (hormones) and exocrine (digestive enzymes) gland.
-    *   Hormones:
-        *   Insulin: Lowers blood glucose levels.
-        *   Glucagon: Raises blood glucose levels.
+#### 9. **Gonads (Sex Glands)**
+##### A. **Testes (Male)**
+- Hormones: **Testosterone, Androsterone**
+- Functions: Spermatogenesis, male secondary sexual characteristics.
+##### B. **Ovaries (Female)**
+- Hormones: **Estrogen, Progesterone**
+- Functions:
+  - Estrogen: Sexual development, menstrual regulation.
+  - Progesterone: Maintains pregnancy, prepares mammary glands.
 
-6.  **Pineal Gland:**
-    *   Location: In the brain.
-    *   Hormone:
-        *   Melatonin: Regulates the body's biological clock (sleep-wake cycles).
+#### 10. **Other Hormone-Secreting Structures**
+##### A. **Heart**
+- Hormone: **Atrial Natriuretic Factor (ANF)** — Reduces blood pressure.
+##### B. **Kidneys**
+- Hormone: **Erythropoietin** — Stimulates RBC production.
+- Also respond to **ADH** for water balance.
+##### C. **Gastrointestinal Tract**
+- Local hormones:
+  - **Gastrin:** Stimulates gastric juice.
+  - **Secretin:** Stimulates pancreatic bicarbonate.
+  - **CCK:** Pancreatic enzymes and bile secretion.
+  - **GIP:** Inhibits gastric activity.
+##### D. **Placenta (During Pregnancy)**
+- Temporary endocrine organ.
+- Hormones:
+  - **hCG, hPL, Estrogens, Progesterone** — Maintain pregnancy, prepare breasts for lactation.
 
-7.  **Thymus Gland:**
-    *   Activity: More active in childhood, shrinks later.
-    *   Hormone:
-        *   Thymosin: Strengthens the immune system, aids T-cell development.
+### **IV. Hormonal Imbalance & Associated Disorders**
 
-8.  **Gonads (Sex Glands):**
-    *   **(a) Ovaries (Women):**
-        *   Hormones: Estrogen (controls female sexual characteristics), Progesterone (helps maintain pregnancy).
-    *   **(b) Testes (Men):**
-        *   Hormone: Testosterone (affects male sexual development, muscle growth, voice).
+| Hormone      | Excess (Hypersecretion)        | Deficiency (Hyposecretion)     |
+| ------------ | ------------------------------ | ------------------------------ |
+| GH           | Gigantism, Acromegaly          | Dwarfism                       |
+| Prolactin    | Galactorrhea, menstrual issues | Poor lactation                 |
+| Thyroxine    | Graves' disease                | Goitre, Myxedema, Cretinism    |
+| PTH          | Hypercalcemia, kidney stones   | Hypocalcemia, cramps           |
+| Cortisol     | Cushing's syndrome             | Addison's disease              |
+| Adrenaline   | High BP, anxiety               | Fatigue, weakness              |
+| Insulin      | Hypoglycemia                   | Diabetes Mellitus (Type 1 & 2) |
+| Estrogen     | Menstrual irregularities       | Osteoporosis, infertility      |
+| Testosterone | Aggression, acne               | Muscle loss, fatigue           |
+| Melatonin    | Excessive sleep                | Insomnia                       |
 
-**IV. Effects of Hormonal Imbalance (Hypersecretion / Hyposecretion)**
 
-*   Imbalances can cause diseases and abnormalities affecting various bodily functions.
+### **V. Importance**
+- Hormones maintain internal balance (homeostasis).
+- Essential for physical growth, metabolism, reproduction, stress management, immunity.
+- Healthy lifestyle helps maintain hormonal balance: diet, sleep, exercise.
 
-1.  **Pituitary Gland Imbalance:**
-    *   **Growth Hormone (GH):**
-        *   Excess: Gigantism (childhood), Acromegaly (adults).
-        *   Deficiency: Dwarfism.
-    *   **Prolactin (PRL):**
-        *   Excess: Excessive milk secretion (Galactorrhea), menstrual irregularities, breast development in men (Gynecomastia).
-        *   Deficiency: Reduced or absent milk production in women.
-
-2.  **Thyroid Gland Imbalance:**
-    *   **Thyroxine (T3 & T4):**
-        *   Excess (Hyperthyroidism): Graves' Disease (sweating, rapid heart rate, weight loss, nervousness, eye swelling).
-        *   Deficiency (Hypothyroidism): Myxedema, Goiter (reduced metabolism, fatigue, weight gain, cold intolerance). Cretinism (children - impaired mental/physical development).
-
-3.  **Parathyroid Gland Imbalance:**
-    *   Excess (Hyperparathyroidism): High blood calcium (Hypercalcemia), weakened bones, kidney stones.
-    *   Deficiency (Hypoparathyroidism): Low blood calcium (Hypocalcemia), muscle cramps, nervous system problems.
-
-4.  **Adrenal Gland Imbalance:**
-    *   **Cortisol:**
-        *   Excess: Cushing's Syndrome (obesity, facial swelling, high blood pressure, weakened bones).
-        *   Deficiency: Addison's Disease (weakness, weight loss, low blood pressure, skin darkening).
-    *   **Adrenaline:**
-        *   Excess: Stress, high blood pressure, increased heart rate.
-        *   Deficiency: Fatigue, weakness, lack of energy.
-
-5.  **Pancreas Imbalance (Insulin):**
-    *   **Insulin:**
-        *   Excess: Hypoglycemia (very low blood sugar, dizziness, fainting, weakness).
-        *   Deficiency: Diabetes Mellitus (very high blood sugar).
-            *   Type-1: Body doesn't produce insulin.
-            *   Type-2: Body doesn't use insulin properly.
-
-6.  **Gonad Gland Imbalance:**
-    *   **Estrogen:**
-        *   Excess: Excessive menstrual bleeding, breast swelling, headache.
-        *   Deficiency: Irregular menstruation, weakened bones (osteoporosis), menopausal symptoms.
-    *   **Testosterone:**
-        *   Excess: Excessive hair growth, acne, aggressive behavior.
-        *   Deficiency: Muscle weakness, decreased fertility, fatigue.
-
-7.  **Pineal Gland Imbalance (Melatonin):**
-    *   **Melatonin:**
-        *   Excess: Excessive sleep, lethargy, depression.
-        *   Deficiency: Insomnia, imbalance of the biological clock.
-
-**V. Conclusion**
-
-*   Hormonal balance is crucial for proper bodily function.
-*   Imbalances can lead to serious health problems.
-*   Maintaining a healthy lifestyle, balanced diet, and regular exercise helps support hormonal balance.
-
----
 ## Ch-10 Genetic and Lifestyle Diseases
 
 
