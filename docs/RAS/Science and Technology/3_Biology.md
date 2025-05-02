@@ -710,16 +710,16 @@ While breathing facilitates gas exchange, the term "respiration" also refers to 
     3.  **Sub-mucosa:** Connective tissue with nerves, blood, and lymph vessels.
     4.  **Mucosa:** Innermost lining, secretes mucus and digestive enzymes/juices. Forms folds (rugae in stomach, villi in small intestine).
 
-| Part                   | Description & Location                                                                 | Key Functions & Features                                                                                                                                                                                                | Digestion/Absorption Notes                                                                                                                            |
-| :--------------------- | :------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1. Mouth & Buccal Cavity (Oral Cavity)** | Anterior opening and the space within. Contains teeth, tongue, salivary gland openings. | **Ingestion** (taking in food). **Mechanical Digestion:** Chewing (mastication by teeth). **Mixing:** Tongue mixes food with saliva, forms bolus. **Tasting:** Taste buds on tongue. **Swallowing** initiation.        | **Chemical Digestion:** Salivary amylase begins starch breakdown. **Absorption:** Some drugs absorbed through mucosa.                               |
-| **2. Pharynx (Throat)**  | Cavity at the back of the mouth; common passage for food and air.                        | Pushes food bolus towards esophagus during swallowing (deglutition).                                                                                                                                                     | None.                                                                                                                                                 |
-| **3. Esophagus (Food Pipe)** | Muscular tube (~25 cm long) connecting pharynx to stomach.                             | Transports food bolus from pharynx to stomach via **Peristalsis** (wave-like muscular contractions).                                                                                                                      | No digestion or significant absorption occurs here.                                                                                                   |
-| **4. Stomach**         | J-shaped/U-shaped elastic, muscular sac in the upper left abdomen, below the diaphragm. Widest part of the canal. | **Storage:** Holds food for ~3-4 hours. **Mechanical Digestion:** Churning action mixes food with gastric juice. **Chemical Digestion:** Secretes **Gastric Juice** (HCl, Pepsin, Rennin). Forms acidic **chyme**. Mucosa has folds (**rugae**). | **Chemical Digestion:** Pepsin (activated by HCl) begins protein breakdown. Rennin aids milk digestion (esp. infants). **Absorption:** Water, simple sugars, alcohol. |
-| **5. Small Intestine** | Longest part (~6-7.5 meters), highly coiled tube filling much of the abdomen.              | **Primary site for chemical digestion completion and nutrient absorption.** Receives secretions from liver, gallbladder, pancreas. Divided into: **Duodenum** (initial section), **Jejunum** (middle section), **Ileum** (final section). Enhanced surface area due to **villi** and microvilli. | **Chemical Digestion:** Enzymes from pancreas and intestinal wall digest carbohydrates, proteins, fats. **Absorption:** Principal site for absorbing glucose, amino acids, fatty acids, glycerol, vitamins, minerals, water. |
-| **6. Large Intestine** | Wider but shorter (~1.5 meters) tube surrounding the small intestine.                   | **Absorption:** Absorbs water, minerals (electrolytes), and some drugs from remaining indigestible material. **Formation & Storage:** Forms and stores feces. **Secretion:** Secretes mucus for lubrication. Divided into: **Caecum** (pouch with **vermiform appendix**), **Colon** (ascending, transverse, descending, sigmoid), **Rectum**. | No significant digestive enzyme activity. Bacteria here synthesize some vitamins (e.g., Vitamin K).                                                   |
-| **7. Rectum**          | Final section of the large intestine (~15-20 cm).                                        | Temporarily stores feces before elimination.                                                                                                                                                                           | Absorption of water and electrolytes continues.                                                                                                     |
-| **8. Anus**            | Posterior external opening of the alimentary canal.                                      | **Egestion (Defecation):** Expels feces from the body. Controlled by internal and external **anal sphincter muscles**.                                                                                             | None.                                                                                                                                                 |
+| Part                                       | Description & Location                                                                                            | Key Functions & Features                                                                                                                                                                                                                                                                                                                              | Digestion/Absorption Notes                                                                                                                                                                                                       |
+| :----------------------------------------- | :---------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1. Mouth & Buccal Cavity (Oral Cavity)** | Anterior opening and the space within. Contains teeth, tongue, salivary gland openings.                           | **Ingestion** (taking in food). <br>**Mechanical Digestion:** Chewing (mastication by teeth). <br>**Mixing:** Tongue mixes food with saliva, forms bolus. <br>**Tasting:** Taste buds on tongue.<br>**Swallowing** initiation.                                                                                                                        | **Chemical Digestion:** Salivary amylase begins starch breakdown.<br> **Absorption:** Some drugs absorbed through mucosa.                                                                                                        |
+| **2. Pharynx (Throat)**                    | Cavity at the back of the mouth; common passage for food and air.                                                 | Pushes food bolus towards esophagus during swallowing (deglutition).                                                                                                                                                                                                                                                                                  | None.                                                                                                                                                                                                                            |
+| **3. Esophagus (Food Pipe)**               | Muscular tube (~25 cm long) connecting pharynx to stomach.                                                        | Transports food bolus from pharynx to stomach via **Peristalsis** (wave-like muscular contractions).                                                                                                                                                                                                                                                  | No digestion or significant absorption occurs here.                                                                                                                                                                              |
+| **4. Stomach**                             | J-shaped/U-shaped elastic, muscular sac in the upper left abdomen, below the diaphragm. Widest part of the canal. | **Storage:** Holds food for ~3-4 hours.<br>**Mechanical Digestion:** Churning action mixes food with gastric juice.<br>**Chemical Digestion:** Secretes **Gastric Juice** (HCl, Pepsin, Rennin). Forms acidic **chyme**. Mucosa has folds (**rugae**).                                                                                                | **Chemical Digestion:** Pepsin (activated by HCl) begins protein breakdown. Rennin aids milk digestion (esp. infants).<br> **Absorption:** Water, simple sugars, alcohol.                                                        |
+| **5. Small Intestine**                     | Longest part (~6-7.5 meters), highly coiled tube filling much of the abdomen.                                     | **Primary site for chemical digestion completion and nutrient absorption.** Receives secretions from liver, gallbladder, pancreas. <br>Divided into: **Duodenum** (initial section), **Jejunum** (middle section), **Ileum** (final section). <br>Enhanced surface area due to **villi** and microvilli.                                              | **Chemical Digestion:** Enzymes from pancreas and intestinal wall digest carbohydrates, proteins, fats.<br> **Absorption:** Principal site for absorbing glucose, amino acids, fatty acids, glycerol, vitamins, minerals, water. |
+| **6. Large Intestine**                     | Wider but shorter (~1.5 meters) tube surrounding the small intestine.                                             | **Absorption:** Absorbs water, minerals (electrolytes), and some drugs from remaining indigestible material.<br> **Formation & Storage:** Forms and stores feces.<br>**Secretion:** Secretes mucus for lubrication. Divided into: **Caecum** (pouch with **vermiform appendix**), **Colon** (ascending, transverse, descending, sigmoid), **Rectum**. | No significant digestive enzyme activity. Bacteria here synthesize some vitamins (e.g., Vitamin K).                                                                                                                              |
+| **7. Rectum**                              | Final section of the large intestine (~15-20 cm).                                                                 | Temporarily stores feces before elimination.                                                                                                                                                                                                                                                                                                          | Absorption of water and electrolytes continues.                                                                                                                                                                                  |
+| **8. Anus**                                | Posterior external opening of the alimentary canal.                                                               | **Egestion (Defecation):** Expels feces from the body. Controlled by internal and external **anal sphincter muscles**.                                                                                                                                                                                                                                | None.                                                                                                                                                                                                                            |
 
 *   **Villi:** Small, finger-like projections lining the mucosa of the small intestine. They vastly increase the surface area for efficient nutrient absorption. Each villus contains a network of blood capillaries (for absorbing sugars, amino acids, etc.) and a lymph capillary called a **lacteal** (for absorbing fats).
 
@@ -727,15 +727,15 @@ While breathing facilitates gas exchange, the term "respiration" also refers to 
 
 *   Glands located outside the alimentary canal that secrete substances essential for digestion via ducts.
 
-| Gland                | Location                                        | Secretion(s)                                | Key Components & Functions of Secretion                                                                                                                                                                                                      |
-| :------------------- | :---------------------------------------------- | :------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1. Salivary Glands** | In/around the buccal cavity (Parotid, Submandibular/Submaxillary, Sublingual). | **Saliva**                                  | Contains **Salivary Amylase (Ptyalin/Tylin):** Begins starch digestion (starch → maltose/dextrins). Contains mucus: Lubricates food, forms bolus for swallowing. Contains electrolytes and antibacterial compounds (e.g., lysozyme). |
-| **2. Liver**         | Upper right abdomen, below the diaphragm. Largest gland (~1.2-1.5 kg). | **Bile Juice**                              | **Bile:** Emulsifies fats (breaks large fat globules into smaller droplets), increasing surface area for lipase action. Contains bile salts, bile pigments (bilirubin, biliverdin - from RBC breakdown), cholesterol, phospholipids. **Note:** Bile contains *no digestive enzymes*. Other liver functions: Detoxification, metabolism, glycogen storage. |
-| **3. Gallbladder**   | Small, pear-shaped sac tucked beneath the liver. | Stores & concentrates **Bile**.               | Releases stored bile into the small intestine (duodenum) via the bile duct when needed (especially after a fatty meal).                                                                                                                       |
-| **4. Pancreas**      | Behind the stomach, in the curve of the duodenum. Cream-colored/reddish-brown. | **Pancreatic Juice** (Exocrine function)      | Contains several powerful digestive enzymes: **Pancreatic Amylase:** Digests starch. **Trypsin** (and Chymotrypsin): Digest proteins/peptides. **Pancreatic Lipase:** Digests fats (triglycerides) → fatty acids + glycerol. Contains bicarbonate: Neutralizes acidic chyme from the stomach. |
-|                      |                                                 | **Hormones (Insulin, Glucagon)** (Endocrine function) | Regulate blood sugar levels (secreted directly into bloodstream, not involved in digestion within the canal).                                                                                                                          |
-| **5. Gastric Glands**| In the stomach wall mucosa.                       | **Gastric Juice**                           | Contains **HCl:** Creates acidic pH (~1.5-3.5), kills microbes, activates pepsinogen → pepsin. **Pepsin(ogen):** Begins protein digestion. **Rennin:** Curdles milk protein (infants). **Mucus:** Protects stomach lining from acid. |
-| **6. Intestinal Glands** | In the small intestine wall mucosa (Crypts of Lieberkühn). | **Intestinal Juice (Succus Entericus)** | Contains enzymes for final digestion: **Disaccharidases** (Maltase, Sucrase, Lactase): Break down disaccharides → monosaccharides. **Peptidases:** Break down small peptides → amino acids. **Lipase:** (Minor role). Contains mucus and bicarbonate. |
+| Gland                    | Location                                                                       | Secretion(s)                                          | Key Components & Functions of Secretion                                                                                                                                                                                                                                                                                                                       |
+| :----------------------- | :----------------------------------------------------------------------------- | :---------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1. Salivary Glands**   | In/around the buccal cavity (Parotid, Submandibular/Submaxillary, Sublingual). | **Saliva**                                            | Contains **Salivary Amylase (Ptyalin/Tylin):** Begins starch digestion (starch → maltose/dextrins). Contains mucus: Lubricates food, forms bolus for swallowing. Contains electrolytes and antibacterial compounds (e.g., lysozyme).                                                                                                                          |
+| **2. Liver**             | Upper right abdomen, below the diaphragm. Largest gland (~1.2-1.5 kg).         | **Bile Juice**                                        | **Bile:** Emulsifies fats (breaks large fat globules into smaller droplets), increasing surface area for lipase action. Contains bile salts, bile pigments (bilirubin, biliverdin - from RBC breakdown), cholesterol, phospholipids.<br> **Note:** Bile contains *no digestive enzymes*. Other liver functions: Detoxification, metabolism, glycogen storage. |
+| **3. Gallbladder**       | Small, pear-shaped sac tucked beneath the liver.                               | Stores & concentrates **Bile**.                       | Releases stored bile into the small intestine (duodenum) via the bile duct when needed (especially after a fatty meal).                                                                                                                                                                                                                                       |
+| **4. Pancreas**          | Behind the stomach, in the curve of the duodenum. Cream-colored/reddish-brown. | **Pancreatic Juice** (Exocrine function)              | Contains several powerful digestive enzymes: **Pancreatic Amylase:** Digests starch.<br> **Trypsin** (and Chymotrypsin): Digest proteins/peptides.<br> **Pancreatic Lipase:** Digests fats (triglycerides) → fatty acids + glycerol. Contains bicarbonate: Neutralizes acidic chyme from the stomach.                                                         |
+|                          |                                                                                | **Hormones (Insulin, Glucagon)** (Endocrine function) | Regulate blood sugar levels (secreted directly into bloodstream, not involved in digestion within the canal).                                                                                                                                                                                                                                                 |
+| **5. Gastric Glands**    | In the stomach wall mucosa.                                                    | **Gastric Juice**                                     | Contains **HCl:** Creates acidic pH (~1.5-3.5), kills microbes, activates pepsinogen → pepsin.<br> **Pepsin(ogen):** Begins protein digestion.<br> **Rennin:** Curdles milk protein (infants).<br> **Mucus:** Protects stomach lining from acid.                                                                                                              |
+| **6. Intestinal Glands** | In the small intestine wall mucosa (Crypts of Lieberkühn).                     | **Intestinal Juice (Succus Entericus)**               | Contains enzymes for final digestion: **Disaccharidases** (Maltase, Sucrase, Lactase): Break down disaccharides → monosaccharides.<br> **Peptidases:** Break down small peptides → amino acids.<br> **Lipase:** (Minor role). Contains mucus and bicarbonate.                                                                                                 |
 
 **III. The Process of Digestion in Humans (Stages)**
 
@@ -747,7 +747,7 @@ Human nutrition (Holozoic) involves the following steps:
     *   **Peristalsis:** Rhythmic, wave-like muscular contractions that push food along the esophagus, stomach, and intestines.
 3.  **Digestion:** Breakdown of complex, non-absorbable food molecules into simpler, absorbable molecules.
     *   **Mechanical Digestion:** Physical breakdown of food (chewing, churning in the stomach, segmentation in the small intestine).
-    *   **Chemical Digestion:** Breakdown using enzymes secreted by glands and the canal wall (see Section IV below). Occurs in the mouth, stomach, and primarily the small intestine.
+    *   **Chemical Digestion:** Breakdown using enzymes secreted by glands and the canal wall . Occurs in the mouth, stomach, and primarily the small intestine.
 4.  **Absorption:** Passage of digested end products (nutrients) from the lumen of the GI tract, across the mucosal cells, into the blood or lymph.
     *   **Primary Site:** Small intestine (vast surface area due to villi/microvilli).
     *   **Absorption Routes:**
@@ -793,84 +793,142 @@ Enzymes are biological catalysts (proteins) that speed up the breakdown of food 
 *   **Indigestion (Dyspepsia):** Feeling of fullness, discomfort, or pain in the upper abdomen, often due to improper digestion (causes: inadequate enzymes, anxiety, food poisoning, overeating, spicy food).
 ## Ch-8 Blood Groups, Blood Composition, and Function
 
+**I. Blood: Definition and Overview**
 
-**I. Blood Group System**
-
-*   **Definition:** A classification of blood based on antigens on RBCs and antibodies in plasma.
-
-**A. ABO Blood Group System**
-*   Discovered by Karl Landsteiner (1901).
-*   Based on the presence/absence of A and B antigens on RBC surface.
-*   Includes four main types:
-    *   **Blood Group A:**
-        *   Antigen: A
-        *   Antibody in Plasma: B
-    *   **Blood Group B:**
-        *   Antigen: B
-        *   Antibody in Plasma: A
-    *   **Blood Group AB:**
-        *   Antigens: A and B
-        *   Antibodies in Plasma: None
-        *   Known as the **Universal Recipient** (can receive blood from A, B, AB, and O).
-    *   **Blood Group O:**
-        *   Antigens: None
-        *   Antibodies in Plasma: A and B
-        *   Known as the **Universal Donor** (can donate blood to A, B, AB, and O).
-
-**B. Rh Factor**
-*   A type of protein (D antigen) on the surface of RBCs.
-*   **Rh+ (Positive):** D antigen is present.
-*   **Rh- (Negative):** D antigen is absent.
-*   Clinical Significance: If an Rh- person receives Rh+ blood, they can develop antibodies against the Rh factor, causing adverse reactions upon subsequent exposure.
+*   **Definition:** Blood is a red-coloured, thick, slightly alkaline fluid connective tissue that circulates within blood vessels.
+*   **Role:** It serves as the main circulating fluid, essential for transporting various substances throughout the body.
+*   **Origin:** Blood cells are manufactured in the bone marrow through a process called haemopoiesis.
 
 **II. Composition of Blood**
 
-*   Blood is a liquid connective tissue.
-*   Composed mainly of Plasma and Blood Cells.
+Blood consists of two main components: Plasma (the fluid matrix) and Formed Elements (cells and cell fragments).
 
 **A. Plasma**
-*   The liquid part of blood (approx. 55% of blood volume).
-*   Composition:
-    *   ~90% water.
-    *   Contains proteins (like fibrinogen, prothrombin), salts, hormones, gases (O₂, CO₂), waste products, nutrients (glucose, amino acids).
-*   Role of Fibrinogen & Prothrombin: Help in blood clot formation.
 
-**B. Blood Cells**
-*   Three main types:
+*   **Proportion:** Constitutes approximately 55% of total blood volume.
+*   **Appearance:** Straw-coloured, viscous fluid.
+*   **Composition:**
+    *   **Water:** ~90-92%
+    *   **Proteins (6-8%):**
+        *   Fibrinogen (Essential for clotting)
+        *   Globulins (Involved in defense mechanisms)
+        *   Albumins (Help maintain osmotic balance)
+    *   **Minerals:** Small amounts of Na+, Ca++, Mg++, HCO3–, Cl–, etc.
+    *   **Nutrients:** Glucose, amino acids, lipids (in transit).
+    *   **Gases:** Dissolved O₂, CO₂.
+    *   **Hormones & Enzymes:** Transported via plasma.
+    *   **Waste Products:** Transported for excretion.
+    *   **Clotting Factors:** Present in an inactive form (including Prothrombin, produced by the liver along with Fibrinogen).
+*   **Serum:** Plasma from which clotting factors (like fibrinogen) have been removed.
 
-    1.  **Red Blood Cells (RBCs / Erythrocytes):**
-        *   Function: Carry oxygen throughout the body.
-        *   Contain Hemoglobin: Protein that binds and transports O₂ and CO₂.
-        *   Formation: In bone marrow.
-        *   Lifespan: ~120 days.
+**B. Formed Elements (Blood Cells & Platelets)**
 
-    2.  **White Blood Cells (WBCs / Leukocytes):**
-        *   Function: Part of the immune system, protect the body from infection (bacteria, viruses, pathogens).
-        *   Lifespan: ~12-20 days.
-        *   Types and Roles:
-            *   Neutrophils: Protect against bacteria and fungi.
-            *   Lymphocytes: Produce antibodies.
-            *   Monocytes: Help eliminate infections.
-            *   Eosinophils: Protect against allergies and parasitic infections.
-            *   Basophils: Help in inflammation and allergic reactions.
+*   **Proportion:** Constitute approximately 45% of total blood volume.
+*   **Types:** Erythrocytes (RBCs), Leucocytes (WBCs), and Platelets (Thrombocytes).
 
-    3.  **Platelets (Thrombocytes):**
-        *   Function: Help in blood clotting to stop bleeding.
-        *   Lifespan: ~8-10 days.
-        *   Low Count: Increases risk of bleeding.
+    **1. Red Blood Cells (RBCs / Erythrocytes)**
+    *   **Structure:** Circular, biconcave disc-like shape; lack a nucleus in mature humans.
+    *   **Pigment:** Contain **Haemoglobin**, a red-coloured protein responsible for the blood's colour.
+    *   **Function:** Transport **Oxygen (O₂) **from lungs to tissues and **Carbon Dioxide (CO₂) **from tissues to lungs, bound primarily to haemoglobin. Efficient O₂ transport relies heavily on haemoglobin.
+    *   **Formation:** Produced in the bone marrow.
+    *   **Lifespan:** Approximately 120 days.
+    *   **Normal Count:** About 5 million per cubic millimeter (mm³).
+    *   **Related Conditions:**
+        *   **Polycythemia:** Increased RBC count.
+        *   **Anemia:** Decreased RBC count (Iron in diet helps prevent/treat some forms).
+
+    **2. White Blood Cells (WBCs / Leucocytes)**
+    *   **Structure:** Irregular shape; possess a nucleus (shape varies with type); colourless (lack pigment).
+    *   **Function:** Part of the immune system; protect the body against infection and disease by destroying pathogens (e.g., bacteria, viruses) or producing antibodies.
+    *   **Lifespan:** Approximately 12-20 days.
+    *   **Types and Specific Roles:**
+
+    | WBC Type   | Primary Role                                                             |
+    | :------------- | :--------------------------------------------------------------------------- |
+    | **Neutrophils**| Phagocytize (eat) bacteria and fungi.                                    |
+    | **Lymphocytes**| Responsible for specific immune responses. Two main types:<br> - **B-lymphocytes:** Produce antibodies.<br> - **T-lymphocytes:** Help B-cells, identify & destroy infected cells/antigens. |
+    | **Monocytes**  | Phagocytize pathogens and cellular debris; help eliminate infections.      |
+    | **Eosinophils**| Combat parasitic infections; involved in allergic reactions.               |
+    | **Basophils**  | Release histamine and other mediators involved in inflammation and allergic reactions. |
+    *   **Related Conditions:**
+        *   **Leukemia:** Cancer characterized by an abnormal increase in WBCs.
+        *   **Leukopenia:** Decreased WBC count.
+
+    **3. Platelets (Thrombocytes)**
+    *   **Structure:** Very small, irregular cell fragments; lack nuclei.
+    *   **Function:** Essential for **blood clotting (coagulation)**; release substances that initiate clotting to stop bleeding.
+    *   **Formation:** Produced from large cells called megakaryocytes in the bone marrow.
+    *   **Lifespan:** Approximately 8-10 days.
+    *   **Normal Count:** About 1,500,000 - 3,500,000 per cubic millimeter (mm³).
+    *   **Related Conditions:** Reduction in platelet count can lead to clotting disorders and excessive bleeding (haemorrhage).
 
 **III. Functions of Blood**
 
-1.  **Transportation of Oxygen and Carbon Dioxide:** Via hemoglobin in RBCs (O₂ from lungs to body, CO₂ from body to lungs).
-2.  **Transportation of Nutrients:** Carries glucose, amino acids, vitamins, minerals from digestion to cells.
-3.  **Immunity:** WBCs (especially lymphocytes producing antibodies) protect against pathogens.
-4.  **Blood Clotting:** Platelets and plasma proteins (fibrinogen) prevent excessive bleeding upon injury.
-5.  **Regulation of Body Temperature:** Distributes heat throughout the body.
-6.  **Transportation of Hormones and Enzymes:** Carries these signalling molecules from production sites to target organs.
-7.  **Excretion:** Transports metabolic wastes (like urea, CO₂) to excretory organs (kidneys, lungs) for removal.
+Blood performs numerous vital functions:
 
----
+1.  **Transport:**
+    *   **Gases:** Carries O₂ from lungs to body cells and CO₂ from body cells to lungs (via RBCs/Haemoglobin).
+    *   **Nutrients:** Transports digested food products (glucose, amino acids, lipids, vitamins, minerals) from the small intestine to body cells.
+    *   **Waste Products:** Carries metabolic wastes (e.g., urea) to excretory organs (like kidneys) for removal.
+    *   **Hormones & Enzymes:** Distributes hormones from endocrine glands and enzymes to target sites.
+    *   **Water:** Distributes water throughout the body.
+    *   **Medicines:** Helps distribute certain medications.
+2.  **Protection & Immunity:**
+    *   WBCs defend against pathogens (bacteria, viruses, etc.) through phagocytosis and antibody production (lymphocytes).
+3.  **Blood Clotting (Coagulation):**
+    *   Platelets and plasma proteins (like Fibrinogen) form clots to prevent excessive blood loss upon injury.
+4.  **Regulation:**
+    *   **Body Temperature:** Helps distribute heat and maintain a stable body temperature.
+    *   **Acid-Base Balance (pH):** Helps maintain the body's pH equilibrium.
+    *   **Osmotic Balance:** Plasma proteins help maintain fluid balance between blood and tissues.
 
+**IV. Blood Clotting (Coagulation)**
+
+*   **Definition:** The process of blood thickening to form a clot (scab) at the site of vessel injury, preventing further blood loss.
+*   **Mechanism:** A complex process involving:
+    *   **Platelets:** Aggregate at the injury site and release clotting factors.
+    *   **Plasma Proteins:** Primarily **Fibrinogen** (inactive) is converted to **Fibrin** (insoluble fibres). Prothrombin is another key inactive protein. Both are produced by the liver.
+    *   **Fibrin:** Forms a meshwork that traps blood cells (especially RBCs), forming the clot.
+*   **Requirements:**
+    *   **Calcium ions (Ca++)**: Essential cofactor in the clotting cascade.
+    *   **Vitamin K**: Necessary for the liver to synthesize prothrombin and other clotting factors.
+*   **Regulation:** **Heparin** (produced by the liver) is an anticoagulant that helps prevent unwanted clotting within blood vessels.
+*   **Disorders:** **Haemophilia** is a genetic disorder where blood fails to clot properly.
+
+**V. Blood Groups**
+
+*   **Definition:** Classification of blood based on the presence or absence of specific inherited **antigens** (substances that can trigger an immune response) on the surface of Red Blood Cells (RBCs) and corresponding **antibodies** (proteins that react with specific antigens) in the plasma.
+*   **Importance:** Crucial for safe blood transfusions, as mixing incompatible blood types causes **agglutination** (clumping) of RBCs, which can be fatal.
+*   **Major Systems:** ABO and Rh are the most clinically significant.
+
+**A. ABO Blood Group System**
+
+*   **Discovery:** Karl Landsteiner (1901).
+*   **Basis:** Presence or absence of two antigens (A and B) on RBCs and two natural antibodies (Anti-A and Anti-B) in plasma.
+*   **Genetics:** Controlled by the gene 'I' with three alleles: Iᴬ, Iᴮ, and i.
+    *   Iᴬ and Iᴮ are codominant (both expressed if present together) and produce A and B antigens, respectively.
+    *   'i' is recessive and produces no antigen.
+*   **Blood Types:**
+
+| Blood Group | Genotype(s)    | Antigen(s) on RBC | Antibody(ies) in Plasma | Can Donate To| Can Receive From |
+| :---------- | :----------------- | :---------------- | :---------------------- | :--------------- | :--------------- |
+| **A**   | IᴬIᴬ or Iᴬi  | A             | Anti-B              | A, AB        | A, O         |
+| **B**   | IᴮIᴮ or Iᴮi  | B             | Anti-A              | B, AB        | B, O         |
+| **AB**  | IᴬIᴮ         | A and B       | None                | AB only      | A, B, AB, O  |
+| **O**   | ii             | None          | Anti-A and Anti-B   | A, B, AB, O  | O only       |
+
+*   **Universal Donor:** Group **O** (lacks A and B antigens, so RBCs won't be agglutinated by recipient's antibodies).
+*   **Universal Recipient:** Group **AB** (lacks Anti-A and Anti-B antibodies, so won't agglutinate donor RBCs).
+
+**B. Rh Blood Group System**
+
+*   **Basis:** Presence or absence of the **Rh antigen** (also called D antigen) on the surface of RBCs.
+*   **Types:**
+    *   **Rh Positive (Rh+):** Rh antigen is present (approx. 80% of humans).
+    *   **Rh Negative (Rh-):** Rh antigen is absent.
+*   **Clinical Significance:**
+    *   **Transfusion:** An Rh- person exposed to Rh+ blood (e.g., via transfusion) will develop Anti-Rh antibodies. Subsequent exposure to Rh+ blood can cause a severe transfusion reaction. Rh group matching is essential.
+    *   **Pregnancy (Rh Incompatibility):** If an Rh- mother carries an Rh+ fetus, fetal RBCs entering the mother's circulation can cause her to produce Anti-Rh antibodies. In subsequent Rh+ pregnancies, these antibodies can cross the placenta and destroy fetal RBCs (causing Hemolytic Disease of the Newborn).
 
 ## Ch-9  Hormones
 
