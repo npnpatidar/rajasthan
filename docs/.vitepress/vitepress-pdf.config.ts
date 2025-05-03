@@ -1,14 +1,16 @@
 import { defineUserConfig } from "vitepress-export-pdf"
-import config from "./config"
+import config from "./pdf-config.mjs"
 
 // convert `config.themeConfig?.sidebar` to a list of routes
 let routeOrder = []
-const sidebar = config.locales.root.themeConfig?.sidebar
+const sidebar = config.themeConfig?.sidebar
 if (sidebar) {
   sidebar.forEach((it) => {
     if (it.items) {
       it.items.forEach((subItem) => {
-        routeOrder.push(subItem.link.replace(/\.md$/, ""))
+        if (subItem.link) {
+          routeOrder.push(subItem.link.replace(/\.md$/, ""))
+        }
       })
     }
   })

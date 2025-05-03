@@ -19,6 +19,7 @@
     "gray-matter": "^4.0.3",
     "markdown-it-footnote": "^4.0.0",
     "markdown-it-mathjax3": "^4.3.2",
+    "puppeteer": "^24.8.0",
     "sitemap-ts": "^1.8.0",
     "vitepress-plugin-comment-with-giscus": "^1.1.15",
     "vitepress-plugin-search": "^1.0.4-alpha.22"

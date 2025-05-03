@@ -21,3 +21,5 @@ TODOs.md
 *.timestamp-*.mjs
 
 **/.obsidian/**
+rajasthan.pdf
+docs/.vitepress/navbar.json
