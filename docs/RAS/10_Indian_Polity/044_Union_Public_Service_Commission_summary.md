@@ -1,4 +1,4 @@
-# Union Public Service Commission (UPSC) Notes
+# Union Public Service Commission (UPSC)
 
 *   The UPSC is the central recruiting agency in India and an independent constitutional body.
 *   Articles 315 to 323 in Part XIV of the Constitution contain provisions regarding the UPSC.

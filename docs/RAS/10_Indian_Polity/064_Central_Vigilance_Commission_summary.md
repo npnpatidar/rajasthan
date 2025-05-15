@@ -1,4 +1,4 @@
-# Central Vigilance Commission (CVC) Notes
+# Central Vigilance Commission (CVC) 
 
 ### Establishment
 *   Established in 1964 via executive resolution of the Central Government.

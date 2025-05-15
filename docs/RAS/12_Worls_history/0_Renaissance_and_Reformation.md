@@ -1,5 +1,3 @@
-# Comprehensive Detailed Notes: Renaissance and Reformation
-
 ## I. The Renaissance (Approx. Late 14th - Early 17th Century)
 
 ### 1. Meaning, Origin & Context:

@@ -1,6 +1,4 @@
-# Public Administration: Approaches to Study (Lecture 4 Notes)
-
-This lecture covers traditional approaches to studying public administration.  Modern approaches will be covered in the next lecture.  Lectures are kept short for easy revision.
+# Public Administration: Approaches to Study 
 
 ## I. Traditional Approaches to Studying Public Administration
 
@@ -58,6 +56,4 @@ Seven traditional approaches are discussed:
 7. **Political Method:**  Public administration executes political will and decisions; political stability leads to administrative efficiency.
 
 
-## II. Upcoming Lectures
 
-The next lecture will cover modern approaches to studying public administration, followed by New Public Management (NPM).  The course aims to cover approximately 250 marks worth of syllabus.

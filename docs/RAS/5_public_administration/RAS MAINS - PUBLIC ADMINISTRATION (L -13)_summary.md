@@ -1,6 +1,5 @@
-# Public Administration Revision Notes: Development Administration & Administrative Development
+# Public Administration: Development Administration & Administrative Development
 
-This lecture covers Development Administration (DA) and Administrative Development (AD), key differences, and their importance in Public Administration.
 
 ## I. Development Administration (DA)
 
@@ -86,4 +85,3 @@ This lecture covers Development Administration (DA) and Administrative Developme
 * Directorate vs. Secretariat
 
 
-This is a concise summary; refer to the full lecture for detailed explanations and examples.

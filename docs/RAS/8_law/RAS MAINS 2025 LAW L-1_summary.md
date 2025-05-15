@@ -1,26 +1,24 @@
-## Law and RAS Mains: Lecture 1 Notes
+## Law and RAS Mains
 
 **1. Course Overview:**
 
 *   **Course:** Law for RAS Mains
-*   **Total Lectures:** 7
-*   **Lecture Breakdown:**
-    *   **Concepts of Law (2 lectures):**
+    *   **Concepts of Law :**
         *   Ownership & Possession
         *   Personality, Liability, Rights & Duties
-    *   **Contemporary Legal Issues (1 lecture):**
+    *   **Contemporary Legal Issues :**
         *   Right to Information Act
         *   IT Act
         *   IPR (all types)
-    *   **Crimes Against Women & Children (2 lectures):**
+    *   **Crimes Against Women & Children :**
         *   Domestic Violence, Sexual Harassment at Workplace
         *   POCSO Act, Child Labor, Maintenance & Welfare of Parents/Senior Citizens Act
-    *   **Land Laws in Rajasthan (2 lectures):**
+    *   **Land Laws in Rajasthan :**
         *   Rajasthan Land Revenue Act
         *   Rajasthan Tenancy Act
 
 
-**2. Lecture 1: Concepts of Law - Ownership & Possession**
+**2. Concepts of Law - Ownership & Possession**
 
 **2.1. Types of Property:**
 

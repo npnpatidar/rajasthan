@@ -1,4 +1,4 @@
-# Rajasthan Tenancy Act, 1955: Lecture Notes
+# Rajasthan Tenancy Act, 1955
 
 **1. Introduction:**
 
@@ -116,7 +116,7 @@
 * **Exceptions based on Land Use:** If the land is used for agricultural operations (including agro-processing, agri-business, and plantation), a 15-year lease is permitted, which can be extended for another 15 years (total of 30 years maximum).  For non-agricultural purposes, the regulations from the Rajasthan Land Revenue Act apply.
 
 
-## Rajasthan Tenancy Act Notes: Continued
+## Rajasthan Tenancy Act
 
 **4.9 Letting and Subletting (Continued)**
 
@@ -146,7 +146,6 @@
 
 **5.0 Chapter 5: Surrender, Abandonment, and Extension of Tenancies**
 
-*(Note: This chapter was deemed less important for exam purposes and was not detailed in the lecture.)*
 
 
 **6.0 Chapter 6: Improvements to Land**
@@ -181,7 +180,7 @@
 
 
 
-## Rajasthan Tenancy Act: Detailed Lecture Notes (Continued)
+## Rajasthan Tenancy Act
 
 **8.0 Chapter 8: Declaratory Suits**
 

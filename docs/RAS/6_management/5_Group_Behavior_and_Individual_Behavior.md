@@ -1,4 +1,4 @@
-# Group Behavior & Individual Behavior Notes
+# Group Behavior & Individual Behavior
 
 ## I. Group Behavior
 
@@ -174,4 +174,3 @@
 * **Functional Teams:** Divided based on function (finance, marketing, sales, etc.); managed by different leaders.
 
 
-**(Note: The lecture notes ended before covering motivation theories.)**

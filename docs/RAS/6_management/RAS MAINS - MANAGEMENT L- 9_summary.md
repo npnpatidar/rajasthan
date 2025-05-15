@@ -1,6 +1,4 @@
-# Management of Essential Services: Exam Notes
-
-This lecture covers management of essential services, focusing on education, healthcare, and tourism.
+# Management of Essential Services
 
 ## I. Education Management
 

@@ -1,8 +1,4 @@
-# Public Administration Lecture Notes
-
-## Lecture Overview: Modern Approaches to Public Administration
-
-This lecture continues the discussion of approaches to studying Public Administration, focusing on modern approaches.  A total of 12-13 lectures will cover the 65-mark portion of the exam, estimated to take around 4 hours.
+## Modern Approaches to Public Administration
 
 ## I. Traditional Approaches (Recap)
 
@@ -131,4 +127,3 @@ This lecture continues the discussion of approaches to studying Public Administr
 
 ## III. Conclusion
 
-This lecture covered six modern approaches to studying public administration. The next lecture will cover the concepts of power, authority, and delegation.

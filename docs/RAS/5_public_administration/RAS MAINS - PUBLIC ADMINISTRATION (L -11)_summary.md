@@ -1,6 +1,5 @@
-# Public Administration Revision Notes: Lecture 11
+# Public Administration
 
-This lecture focuses on Attitudes and Values of Civil Services, specifically within the context of the RAS Mains syllabus.  It builds upon previous lectures covering NPM (New Public Management) and Change Management.
 
 ## I. Ethics, Integrity, and Civil Services
 

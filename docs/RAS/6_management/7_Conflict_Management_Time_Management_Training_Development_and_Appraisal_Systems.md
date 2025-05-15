@@ -118,7 +118,7 @@
 * Enhances adaptability to change.
 
 
-# Employee Development
+# Development
 
 **Definition:** A broader term than training; focuses on improving the current position of managers, enhancing their overall effectiveness, and preparing them for increased responsibilities in the future. Primarily for higher or middle-level management.
 
@@ -152,6 +152,3 @@
 * Halo effect (first impression bias)
 * Rater effect (favoritism)
 * Stereotyping
-
-
-**(Note:  The lecture transcript also mentioned entrepreneurship and hospitality management as further topics, but details were not provided.)**

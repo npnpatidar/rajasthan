@@ -1,4 +1,4 @@
-# Public Administration Revision Notes
+# Public Administration 
 
 ## I. New Public Administration (NPA)
 

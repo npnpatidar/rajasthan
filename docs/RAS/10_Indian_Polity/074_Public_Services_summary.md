@@ -1,4 +1,4 @@
-# Public Services Notes
+# Public Services 
 
 ### Classification of Services
 *   Indian public services are classified into:

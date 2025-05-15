@@ -1,4 +1,4 @@
-### Citizenship Notes 
+### Citizenship
 
 *   **Meaning and Significance**
     *   India has two categories of people: citizens and aliens.

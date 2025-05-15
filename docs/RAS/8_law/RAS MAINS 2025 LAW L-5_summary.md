@@ -1,4 +1,4 @@
-# Lecture 5 Notes: POSCO Act, Child Labor, and Maintenance
+# POSCO Act, Child Labor, and Maintenance
 
 ## 1. Protection of Children from Sexual Offences (POCSO) Act, 2012
 

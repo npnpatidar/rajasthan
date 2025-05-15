@@ -1,7 +1,3 @@
-# Public Administration Lecture 9 Notes
-
-This lecture covers Management Functions, Corporate Governance, and Corporate Social Responsibility (CSR).
-
 ## I. Management
 
 * **Definition:** Coordination of resources within an organization to achieve goals through proper resource utilization.  A part of an organization ensuring coordination between resources and driving them towards organizational objectives.

@@ -1,4 +1,4 @@
-## Lecture Notes: Law for RJs - Lecture 4: Domestic Violence Act & Sexual Harassment Act
+## Domestic Violence Act & Sexual Harassment Act
 
 **1. The Protection of Women from Domestic Violence Act, 2005**
 
@@ -131,7 +131,7 @@
 * **Note:**  Both the Domestic Violence Act and the Sexual Harassment Act define "Aggrieved Woman" in Section 2.  For exam purposes, it is recommended to specify the relevant act when defining it.
 
 
-# Sexual Harassment of Workplace Act, 2013: Detailed Notes
+# Sexual Harassment of Workplace Act, 2013
 
 This section continues from the previous summary, focusing on the structure and key sections of the Sexual Harassment of Workplace Act, 2013,  drawing heavily from the provided transcript.
 

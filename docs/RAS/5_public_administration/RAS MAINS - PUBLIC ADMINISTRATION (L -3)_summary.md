@@ -44,4 +44,3 @@ Alternative six phases proposed by Nicholas Henry in "Public Administration and 
 * **UPSC:** Public Administration added as an optional subject (1986-87).
 
 
-**Note:** While the lecture mentions specific books and authors,  the emphasis is on understanding the key characteristics and shifts in focus across the different eras.  The detailed list of books and authors may not be necessary for exam preparation unless specifically requested in the exam syllabus.

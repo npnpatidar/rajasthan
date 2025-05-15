@@ -2,7 +2,6 @@
 
 ## Different Views on the Scope of Public Administration
 
-This lecture discusses seven different viewpoints on the scope of public administration:
 
 **1. Narrow View:**
 
@@ -63,4 +62,3 @@ This lecture discusses seven different viewpoints on the scope of public adminis
 
 *   The scope of public administration is variable and changes with the scope and responsibilities of the state.  If the scope or responsibilities of the state increase, the scope of public administration will also increase.
 
-**Future Lectures:** Will cover the nature and role of public administration (estimated 12-15 lectures).

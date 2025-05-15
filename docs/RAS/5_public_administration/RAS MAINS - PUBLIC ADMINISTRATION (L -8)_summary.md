@@ -1,6 +1,5 @@
-# Public Administration Principles of Organization: Lecture A Notes
+# Public Administration Principles of Organization
 
-This lecture covers three key principles of organization within the context of the UPSC Mains syllabus: Hierarchy, Span of Control, and Unity of Command.
 
 ## I. Hierarchy (Pad Sopan)
 

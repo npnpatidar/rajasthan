@@ -1,6 +1,3 @@
-# RAS Mains Revision Module: Public Administration (Lecture Notes)
-
-This lecture covers control over administration in Public Administration, excluding the State Polity portion (refer to Lakshmikant or other prelims sources).  The focus is on the 55 marks covered in approximately 4-5 hours across 12-13 lectures.
 
 ## I. Control Over Administration
 
@@ -70,7 +67,5 @@ Three primary control mechanisms are discussed:
     * Increased accountability of public officials.
     * Improved administrative efficiency.
 
-
-## III. Next Lecture Topic: Development Administration
 
 

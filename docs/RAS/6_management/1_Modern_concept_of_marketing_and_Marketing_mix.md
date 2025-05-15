@@ -1,5 +1,3 @@
-# Management Notes for Exam Revision
-
 ## Section 1: Introduction to Management
 
 * **Definition:** Management is a process of getting things done effectively and efficiently to achieve organizational objectives.
@@ -116,6 +114,3 @@
 * **Services:** An act or performance offered by one party to another.  Characteristics: intangible, inseparable from provider, variable quality, perishable.
 
 * **Services Marketing Mix (7 Ps):** Product, Price, Place, Promotion, People, Physical Evidence, Process.
-
-
-This detailed structured outline covers all the key concepts and information mentioned in the lecture transcript and is suitable for exam revision.  Remember to refer to your course materials and other resources for a complete understanding.

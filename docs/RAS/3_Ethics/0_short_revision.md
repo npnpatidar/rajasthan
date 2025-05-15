@@ -323,7 +323,7 @@
 9. **Rawls:** Ethics = Fair justice.
 
 
-### **Bhagavad Gita – Quick Revision Notes**
+### **Bhagavad Gita**
 
 #### **Introduction**
 

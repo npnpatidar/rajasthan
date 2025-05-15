@@ -1,4 +1,4 @@
-## Lecture 3 Notes: Contemporary Legal Issues
+## Contemporary Legal Issues
 
 ### 3.1 Right to Information (RTI) Act, 2005
 
@@ -85,7 +85,6 @@
   - **Salami Attack:** Small amounts of money are stolen from many accounts simultaneously, often unnoticed.
   - **Phishing & Vishing:** Threatening messages (text/email - phishing) or calls (vishing) to extort information or money.
 
-**(Note: The lecture abruptly ends here. Further topics such as the IT Act and IPR are mentioned but not covered in this section.)**
 
 ## 3.2 Cyber Laws & IT Act (Partial)
 
@@ -123,9 +122,8 @@
   - Section 66: Hacking (includes publishing offensive information, receiving stolen computers, using others' passwords, cheating using computers, and publishing private pictures).
   - Cyber Terrorism (carries the most significant punishment under this Act).
 
-**(Note: The lecture ends before covering Intellectual Property Rights (IPR) in detail, although it's mentioned as the next topic.)**
 
-## Lecture Notes: Indian Cyber Law & Intellectual Property Rights (IPR)
+## Indian Cyber Law & Intellectual Property Rights (IPR)
 
 **4. Indian IT Act Continuation & Jurisdictional Scope:**
 

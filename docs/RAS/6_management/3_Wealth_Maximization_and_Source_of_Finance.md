@@ -1,5 +1,3 @@
-# R S Mains Revision Module: Management - Lecture 3
-
 ## Wealth Maximization vs. Profit Maximization
 
 * **Traditional View:** Main objective of a business is profit maximization (short-term focus).

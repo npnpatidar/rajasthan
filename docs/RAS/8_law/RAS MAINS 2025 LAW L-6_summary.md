@@ -1,4 +1,4 @@
-## Rajasthan Land Revenue Act, 1956: Lecture Notes - Part 6
+## Rajasthan Land Revenue Act, 1956
 
 **1. Introduction:**
 
@@ -154,7 +154,7 @@ This section lacks complete details but highlights the need to understand the ap
 * If used without permission, penalties (urban assessment levy, premium, or both) apply.
 
 
-# Land Ownership and Use in the Indian Context: Exam Notes
+# Land Ownership and Use in the Indian Context
 
 **Continuing from the previous section:**  The previous section detailed orders exempt from appeal/revision under the Indian Limitation Act. This section details land ownership and its implications.
 

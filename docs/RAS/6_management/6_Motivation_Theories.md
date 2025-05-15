@@ -1,4 +1,4 @@
-# Motivation Theories in Management
+# Motivation Theories 
 
 ## I. What is Motivation?
 

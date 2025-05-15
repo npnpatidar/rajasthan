@@ -1,4 +1,4 @@
-# Lecture Notes: Supply Chain Management, Logistics Mix, E-commerce, E-marketing & Business Ethics
+# Supply Chain Management, Logistics Mix, E-commerce, E-marketing & Business Ethics
 
 ## I. Supply Chain Management (SCM)
 

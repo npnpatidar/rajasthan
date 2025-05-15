@@ -14,7 +14,6 @@
   - Youth Olympics
   - Deaf Olympics
   - Special Olympics
-- **Focus:** This lecture will mainly focus on Summer Olympics and Paralympics.
 - **Organizer:** International Olympic Committee (IOC).
 - **Frequency:** Every four years.
 - **Logo:** Five interconnected rings of different colors representing the five continents.

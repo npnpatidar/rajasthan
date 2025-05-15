@@ -1,8 +1,6 @@
 # Intelligence 
 ## Syllabus Breakdown
 
-The syllabus is broadly divided into four topics, leading to four lectures:
-
 1.  **Intelligence (बुद्धि):**
     *   Cognitive Intelligence
     *   Social and Emotional Intelligence

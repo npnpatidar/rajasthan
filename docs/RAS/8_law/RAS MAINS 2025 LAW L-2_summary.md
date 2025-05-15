@@ -1,4 +1,4 @@
-# Law for RAS Mains: Lecture 2 - Personality, Rights, Liabilities, and Duties
+# Personality, Rights, Liabilities, and Duties
 
 ## 2.1 Personality
 

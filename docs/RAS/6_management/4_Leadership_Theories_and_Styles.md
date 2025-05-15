@@ -1,4 +1,4 @@
-# Management Lecture Notes: Leadership Theory & Styles
+#  Leadership Theory & Styles
 
 ## I. Leadership: Definition & Elements
 
@@ -93,5 +93,3 @@
 
 
 * **Charismatic Leadership:**  Leader uses communication skills, motivational power, and attractive personality to influence people; often seen as divinely appointed; elements include heroism, divine origin, and charismatic characteristics; features include vision, confidence, optimism, and masterful communication skills.
-
-**(Note:  The transcript contained some promotional statements regarding a particular academy's course materials, which have been omitted from these notes.)**

@@ -1,4 +1,4 @@
-### **Intelligence (बुद्धि) - Quick Revision Notes**
+### **Intelligence (बुद्धि)**
 
 #### **Definitions**
 

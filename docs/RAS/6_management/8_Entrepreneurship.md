@@ -1,4 +1,4 @@
-# Entrepreneurship Lecture Notes
+# Entrepreneurship
 
 ## What is Entrepreneurship?
 

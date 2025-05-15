@@ -1,7 +1,3 @@
-# Public Administration Revision Module: Lecture 10 Notes
-
-This lecture covers New Public Management (NPM) and Change Management.
-
 ## I. New Public Management (NPM)
 
 * **Definition:** Application of private sector managerial techniques to the public sector.  It's an art of executing managerial techniques of the private sector in the public sector. Aims for efficiency, effectiveness, and economy.  Focuses on proper utilization of resources.

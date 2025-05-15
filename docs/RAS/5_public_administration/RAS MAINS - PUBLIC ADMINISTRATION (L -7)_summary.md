@@ -1,4 +1,4 @@
-# Public Administration Revision Notes
+# Public Administration
 
 ## Key Concepts in Public Administration
 

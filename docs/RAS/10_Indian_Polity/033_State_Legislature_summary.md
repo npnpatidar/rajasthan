@@ -1,4 +1,4 @@
-## State Legislature Notes 
+## State Legislature
 
 ### Organisation of State Legislature
 *   No uniformity in the organization of state legislatures.
