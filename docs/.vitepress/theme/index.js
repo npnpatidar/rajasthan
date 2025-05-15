@@ -1,4 +1,5 @@
 import DefaultTheme from "vitepress/theme";
+import "@catppuccin/vitepress/theme/mocha/sapphire.css";
 import SimpleMcq from "../components/SimpleMcq.vue";
 // https://github.com/T-miracle/vitepress-plugin-comment-with-giscus
 import giscusTalk from "vitepress-plugin-comment-with-giscus";
@@ -8,7 +9,7 @@ import { toRefs } from "vue";
 
 // custom CSS
 import "../style/print.css";
-import './custom.css'
+import "./custom.css";
 
 // Configure the search plugin
 // const searchOptions = {
@@ -63,4 +64,3 @@ export default {
     );
   },
 };
-
