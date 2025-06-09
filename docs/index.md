@@ -28,7 +28,7 @@ hero:
       link: /rajasthan/4_economy/0_economy_intro
     - theme: alt
       text: Current Affairs
-      link: /rajasthan/6_current_affairs/0_current_affairs_today
+      link: /rajasthan/6_current_affairs/6_June_2025/08_08_10_03
     - theme: alt
       text: RAS
       link: /RAS/0_Syllabus_Mains
