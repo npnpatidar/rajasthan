@@ -479,6 +479,23 @@
 6. Give any five differences between Fixed and Flexible Budgets.
 7. Write the meanings of Responsibility Accounting and the names of responsibility centres.
 ## Administrative Ethics
+
+### 2025
+1. Explain 'Samyak Charitra'.
+2. Explain 'My station and its duties'.
+3. What is ‘Dukh-Nirodh-Marga'?
+4. Explain Virtue as a mean.
+5. Explain 'Moral determinism'.
+6. Does administrative objectivity necessarily presuppose administrative integrity?
+7. Formal education or Social inculcation : Which of the above two is more important in creation of a good administration ?
+8. Do you think that administrative decisions are free of political bias?
+9. "There can be no high civility without a deep morality, though it may not call itself by that name.” – R.WEmerson
+10. Discuss.
+11. How can hedonism be paradoxical? Discuss.
+12. What is the meaning of 'Good' ? How shall your idea of Good help structure a good administration?
+13. Present a comparative evaluation of Utilitarianism, Sarvodaya and Lok-Samgraha as an inspiration for administration.
+14. How is the idea of 'Human Resource' consistent with the idea of 'Humanity as an End'? Analyse in the perspective of Welfare State.
+
 ### 2023
 1. What are cardinal virtues according to Plato?
 2. What is Goodwill according to Kant?
@@ -530,6 +547,17 @@
 6. Describe the notion of "Niskamakarmayoga" according to Gita.
 7. Explain the postulates of morality according to Kant.
 ## General Science
+### 2025
+1. Name the methods of refining used for production of semiconductors and Zirconium/Titanium.
+2. What are the functions of blood platelets ?
+3. What is Tokamak? On what principle it is based?
+4. Give Lewis concept of acid and base with an example of eachFor an acid HA, how the electronegativity of A affects the strength of the acid, give example.
+5. Enumerate the medicinal significance and drug abuse of Opium poppy.
+6. Mention the parts of the forebrain and enlist the functions of each part.
+7. What is MCB? Explain its working.
+8. What is gravitational lensing? How does it occur? Explain.
+9. What is the difference between an acidic and basic buffer? Give an example of each
+10. How a buffer solution of known pH can be prepared ?
 ### 2023
 1. Why is solid carbon dioxide known as "dry ice"?
     - Why does a bee-sting cause pain and irritation?
@@ -599,6 +627,12 @@
 7. What is Environmental Impact Assessment (EIA)? Which aspects should be covered while preparing an Environmental Impact Statement (EIS)?
 8. Describe the products obtained from the fractional distillation of crude petroleum.
 ## Technology
+### 2025
+1. What are the names of main components of Apache Hadoop in the context of big data?
+2. What is Digital Rupee (e₹) ? How does it differ from UPI ?
+3. Discuss about the scientific achievements of Indian Scientists Haridatta and Panchanan Maheshwari.
+4. Development of which Al and Large Language Models (LLMs) addressing the Indian needs are being facilitated by the Government of India? Also, briefly specify features of these models.
+5. Critically evaluate the strategic and technological importance of indigenization in defence production, especially in missile and space technologies of India.
 ### 2023
 1. Write any two differences between IP Address and MAC address.
 2. Write any two differences between Classical Computing and Quantum Computing.
@@ -638,6 +672,9 @@
 1. Generic Medicine
 2. K-4 missile
 ## Rajasthan Science
+
+### 2025
+1. Which latest digital initiatives are being planned by Department of Tourism, Govtof Rajasthan under Rajasthan Tourism Policy drafted in 2024?
 ### 2018
 1. Enumerate and comment upon the schemes and works considered under Public Health initiative in
 Rajasthan.
@@ -646,6 +683,15 @@ Rajasthan.
 ### 2013
 1. Use your creativity to develop a "vision document" for improving forestry, animal husbandry and
 ## World Geography
+
+### 2025
+1. Name the highest mountain peaks of the following continents:
+	(A) North America
+	(B) South America
+	(C) Africa
+	(D) Australia
+2. Write names of any ten Biodiversity Hotspots of the world.
+3. Discuss the geopolitical factors behind the Russia-Ukraine struggle.
 ### 2023
 1. Discuss the causes and effects of Ozone layer depletion in the world.
 2. Write names of any 6 deserts found in Australia.
@@ -677,6 +723,14 @@ Rajasthan.
 1. Describe major iron ore mining areas of the world.
 2. What is the international Date line?
 ## Indian Geography
+
+### 2025
+1. Differentiate between 'Malnad' and 'Maidan' topography of Deccan Lava Plateau.
+2. In which areas of India highest and lowest variability of annual rainfall is found ?
+3. Differentiate between the Western and Eastern Coastal Plains of India.
+4. Describe the location and strategic importance of 'Chicken Neck' in present scenario.
+5. Explain the difference between the Himalayan and the Peninsular Rivers under the following heads:
+	Place of Origin, Nature of Flow, Type of Drainage, Nature of River and Catchment Area.
 ### 2023
 1. Name any eight tributaries of river Krishna.
 2. Mark the following places in the given outline map of India:
@@ -716,6 +770,19 @@ Rajasthan.
 1. What is geothermal energy and how is it being used?
 2. Divide India into major physiographic regions and describe any one of them.
 ## Rajasthan Geography
+
+### 2025
+1. Mark the following Conservation Reserves on given outline map of Rajasthan :
+	1. (A) Sorsan
+	2. (B) Akhargaon
+	3. (C) Gogelao
+	4. (D) Jod Beed Goadwale
+2. Write name of any four waterfalls located between Chittorgarh and Kota.
+3. Explain 'Sacred Groves' of Rajasthan.
+4. Discuss the "Integrated Clean Energy Policy – 2024" of Rajasthan.
+
+
+Describe habitat, economy and society of the Saharia tribe in Rajasthan and discuss the government's policies for the upliftment of Saharia tribe.
 ### 2023
 1. Sabarmati river flows in which districts of Rajasthan? Name its tributaries.
 2. Name the major rock phosphate producing areas of Rajasthan and mention its use.
