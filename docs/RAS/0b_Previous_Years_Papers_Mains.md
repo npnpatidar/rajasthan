@@ -841,6 +841,17 @@ Describe habitat, economy and society of the Saharia tribe in Rajasthan and disc
 3. Stone industry of Rajasthan.
 4. Mention the harmful effects of deforestation.
 ## Indian Polity
+
+### 2025
+1. Explain the 'Golden Triangle of Fundamental Rights' in the Constitution of India.
+2. What is the procedure to remove the Central Vigilance Commissioner from the office?
+3. Evaluate the claim, 'We, the people of India', made by the Constituent Assembly.
+4. Mention the major provisions of the Constitution of India which impose limitations on the Territorial Jurisdiction of Parliament.
+5. Considering the efficacy of Indian federalism, analyse the role of the Governor in the special context of the recent judgement of the Supreme Court in the State of Tamil Nadu V/s The Governor of Tamil Nadu case about Article 200 and Article 201.
+6. What is the concept of 'bullock capitalists' in the context of the rise of the intermediate castes?
+7. Discuss the features of 'autonomous women movement' in India. Cite few examples of such movements.
+8. What is AI Kosha? Write the name of its seven core pillars.
+9. Explain the constitutional implications of Secularism in India.
 ### 2023
 1. In the context of federal system, what are the provisions regarding Residuary matters in the Constitution of India?
 2. Why the following persons were recently in the news? 2.1. Idashisha Nongrang 2.2. Alok Shukla
@@ -897,6 +908,11 @@ Describe habitat, economy and society of the Saharia tribe in Rajasthan and disc
 3. Do you consider that the Women's Reservation Bill will enhance women's empowerment in India? If yes, how?
 4. "The fifteenth Lok Sabha elections have revived the importance of national political parties." - Discuss.
 ## State Polity
+
+### 2025
+1. Who is Sunny Sebastian? Why was he in news recently?
+2. What are the challenges in the effective implementation of “Rajasthan Panchayat Raj (Modification of Provisions in their Application to the Scheduled Areas) Act, 1999"?
+
 ### 2023
 1. Regarding the Bharatiya Adivasi Party's performance in the Rajasthan Vidhan Sabha elections held in 2023, answer the following questions:
     1. Total seats contested by BAP
@@ -920,6 +936,11 @@ Describe habitat, economy and society of the Saharia tribe in Rajasthan and disc
 ### 2010
 1. Comment upon the 'caste politics' in Rajasthan.
 ## International Relations
+
+### 2025
+1. What was India's stand on the 1956 Suez Canal crisis?
+2. How will President Donald Trump's threat of the United States' retreat from multilateral institutions affect international peace and security?
+3. "While the Ministry of External Affairs led by its Minister is the institutional anchor in the making of India's foreign policy, various Prime Ministers have assumed a dominant role in the process." In the light of this statement, discuss the instances where Prime Ministers have personally shaped the foreign policy of India.
 ### 2023
 1. On what grounds the registration of Overseas Citizens of India (OCI) can be cancelled under the Citizenship Amendment Act, 2019? Against cancellation of citizenship; what rights do these citizens have?
 2. Write a note on India's performance at 77th Cannes film festival.
@@ -950,6 +971,22 @@ Describe habitat, economy and society of the Saharia tribe in Rajasthan and disc
 5. What is Global Terrorism Index?
 6. "The problem of terrorism can be tackled only through a multidimensional strategy." Discuss the various steps.
 ## Public Administration
+
+### 2025
+1. Under the Rajasthan Right to Hearing Act, 2012 who has been notified as the second appellate authority to hear non-revenue matters in panchayats?
+2. Distinguish between Block and Tehsil.
+3. What is the difference between 'removal' from service and 'dismissal' from service?
+4. Mention the three trends in Comparative Public Administration as enumerated by F.W. Riggs.
+5. What do you understand by 'Res Judicata'?
+6. Discuss the paradoxes inherent in the New Public Management approach to governance.
+7. Discuss the role of the office of the Accountant General (A.G.) in the Process of Control over Executive.
+8. What do you understand by Post-modernism in Public Administration?
+9. Elaborate the difference between delegation and decentralization.
+10. What are the provisions for appointment, resignation and removal of a member of the Rajasthan State Human Rights Commission?
+11. 'The classical principles are proverbs and myths.' In the light of this statement, discuss the contradiction between hierarchy and span of control.
+12. In what ways do the concept of legitimacy as given by Weber and Barnard differ?
+13. 'It would be a gross fallacy to regard the institution of the Governor as a faint presence like a full moon at mid-day.' Discuss.
+
 ### 2023
 1. Write the name of any two H.Q. of Directorates or Executive Departments of State Government located in Ajmer.
 2. What do you mean by sub-national government?
@@ -1022,6 +1059,16 @@ Describe habitat, economy and society of the Saharia tribe in Rajasthan and disc
 13. What do you understand by New Public Management? Explain its features and examine its utility in public administration.
 14. What do you understand by 'Emotional Intelligence'? Explain its components and applications for effective and sensitive administration.
 ## Sports and Yoga
+
+### 2025
+1. Name the courses offered and universities under the National Centre of Sports Sciences and Research (NCSSR) in Rajasthan.
+2. Write a note on "Mission Olympics 2028" launched by the Government of Rajasthan.
+3. List the six core awards that make up the Indian National Sports Awards.
+4. Write a short note about Payal Nag's inspiring sports journey.
+5. List the names of Indian shooters and their events in which they won medals at the Paris Olympic 2024.
+6. Write a short explanation of "Vatkram Kapalbhati'.
+7. Write in brief about any five soft tissue injuries in sports.
+
 ### 2023
 1. Enlist the major achievements of the flag bearer from India in Paris Olympics 2024 opening ceremony.
 2. Write the number of total 'Khelo India' centres in India with special reference to Rajasthan State with Sports discipline.
@@ -1047,6 +1094,15 @@ Describe habitat, economy and society of the Saharia tribe in Rajasthan and disc
 6. Elaborate "Yog Karmsu Kauslam".
 7. Write a short note on P.S.P.B. Table Tennis Academy.
 ## Behaviour
+
+### 2025
+1. What is serial-position effect in learning and retention?
+2. What leads to learned helplessness?
+3. What is stress resistant personality?
+4. Differentiate between regression and sublimation.
+5. What is Social Readjustment Rating Scale?
+6. In what way Cultural Intelligence differ from Emotional Intelligence?
+7. What are major issues in personality assessment?
 ### 2023
 1. What kind of competencies are identified as facets of Intelligence in the Indian tradition?
 2. Define Intelligence as proposed by David Wechsler.
@@ -1080,6 +1136,15 @@ Describe habitat, economy and society of the Saharia tribe in Rajasthan and disc
 6. How are Semi-projective techniques useful to assess personality?
 7. Analyse different ways of Coping for stress management.
 ## Law
+
+### 2025
+1. What are included in the term "Crops" under the Rajasthan Tenancy Act, 1955?
+2. What is meant by "Cyber Cafe" under the Information Technology Act, 2000?
+3. What are the provisions of protecting a female living in a “live-in-relationship" against domestic violence?
+4. What is the meaning of "Shared household" according to the Protection of Children from Sexual Offences Act, 2012?
+5. Injurious contents were found in a "Branded Sweet" on its examination. Can any person ask for this information from the competent authority under the Right to Information Act, 2005?
+6. State the provisions relating to “Mutation” under the Rajasthan Land Revenue Act, 1956.
+7. Define 'possession' and point out its elements.
 ### 2023
 1. The government of India received information in confidence from a foreign Government. Can it be asked under the R.T.I. Act, 2005?
 2. What do you mean by the term 'private area' mentioned under the Information Technology Act, 2000?
