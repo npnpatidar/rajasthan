@@ -1,5 +1,13 @@
 # Previous Years Papers
 ## Rajasthan History, Art and Culture
+
+### 2025
+ 1. Describe the revenue system of Mediaeval Rajasthan.
+ 2. What is meant by 'Hath Ka Kurab' in Marwar state?
+ 3. Comment on the 'Samrat Yantra' of Jantar Mantar, Jaipur.
+ 4. Two female saints of Charandasi sect.
+ 5. Chandawal incident, 1942 of Rajasthan's Peasant Movement.
+
 ### 2023
 1. Who were the Dyodhidars?
 2. Name any two dialects counted under Middle-Eastern Rajasthani or Dhundhadi.
@@ -66,6 +74,13 @@
 2. Painters Chokha and Bagata Chitara
 3. Tasha
 ## History of Ancient and Medieval India
+
+### 2025
+ 1. Underline the similarities between the 6th century B.C. religious movements and Nirgun Bhakti movement of mediaeval India in terms of Varna system and prevalent evils.
+ 2. Explain the concept of 'Panchratra'.
+ 3. Examine the indigenous impact on Mughal architecture.
+
+
 ### 2023
 1. How were Buddhism and Jainism different from the religion of Samhitas? Underline two main differences.
 2. Explain the socio-religious significance of Naynar and Alwar bhakti saints.
@@ -93,6 +108,12 @@
 2. Discuss the development of painting under Jahangir.
 3. Enumerate the salient features of the Bhakti movement in India.
 ## History of Modern India
+
+### 2025
+ 1. Ahmadiyyah Movement
+ 2. Mahatma Gandhi was relevant to each generation in his three decades involvement in Indian Freedom Struggle. Elucidate with proper examples.
+ 3.  Who drafted India's First Five Year plan and on which growth model it was based upon?
+
 ### 2023
 1. The Razakars were the main obstacles to the accession of Hyderabad into the Indian Union. Explain.
 ### 2021
@@ -125,6 +146,11 @@
 2. Explain the causes for the partition of Bengal (1905).
 3. Explain the Cripps Mission Plan (1942).
 ## World History
+
+### 2025
+ 1. Thermidorian Reaction
+ 2. Throw light on the gradual development of the inventions leading to revolutionary changes in the textile industry during the Industrial Revolution.
+ 3. Opium played a major role in the imperialistic exploitation of China. Elucidate.
 ### 2023
 1. Explain Universal Priesthood.
 2. How did the two World Wars enhance the political and economic participation of European women?
@@ -144,6 +170,18 @@
 ### 2012
 1. Write down the main features of Nazism.
 ## Indian Economy
+
+### 2025
+1. What do you mean by TReDs in MSME in India?
+2. What is GI-cloud ‘Megh Raj' initiative of India?
+3. Which body in India releases 'Export Preparedness Index Number'? What is its purpose?
+4. What is the purpose of introducing ‘Urea Gold' in India?
+5. What are the aims of National Green Hydrogen Mission of India?
+6. What are the objectives of establishment of Atal Tinkering Laboratories in India?
+7. What is the government's futuristic roadmap for the development of nuclear energy sector as announced in the Union Budget 2025-26?
+8. What specific measures are announced in the Union Budget 2025-26 to boost MSMEs in India?
+
+ 
 ### 2023
 1. What are the objectives of 'SVAMITVA' Scheme in India?
 2. What are the main objectives of Pradhan Mantri Kisan Sampada Yojana?
@@ -231,6 +269,15 @@
 2. Describe the cause, effect, and remedies of the current global economic crisis.
 3. Analyse the role of India, China, and the USA in this regard.
 ## Rajasthan Economy
+
+### 2025
+ 1. What is the main objective of Namo Drone Didi Yojana of Rajasthan
+ 2. What is the importance of Acknowledgement Certificate for MSMEs, issued by the nodal agency in Rajasthan under MSME Act, 2019?
+3. Write the name of top four districts of Rajasthan in descending order with respect to Per Capita Income (PCI) at current prices.
+4. Why was social sector Viability Gap Funding Scheme introduced in Rajasthan?
+5. Write a short note on Rajasthan Refinery Project.
+
+
 ### 2023
 1. Why Gyan Sankalp Portal has been established by Government of Rajasthan?
 2. What is the main objective of Rajasthan Janani Shishu Suraksha Yojana?
@@ -283,6 +330,15 @@
 4. Throw light on the problems experienced in the implementation of MNREGA.
 5. Describe the role of RIICO in the industrial development of Rajasthan.
 ## Sociology
+
+### 2025
+1. What is 'Secularization of Caste'?
+2. What is 'Separatist Communalism'?
+3. What do you mean by ‘Socio-Cultural Ageing'?
+4. What is the reinforcement theory of drug abuse?
+5. What do you understand by 'Globalisation of Ethnicity'?
+6. In present context, mention role of Caste in Indian Politics.
+7. Mention various initiatives for tribal welfare taken by the Government of India regarding empowering tribal communities.
 ### 2023
 1. What do you mean by Westoxication?
 2. Mention the forms of Cultural Flow discussed by Arjun Appadurai regarding Global Society.
@@ -316,6 +372,17 @@
 6. Describe the characteristics of caste given by G.S. Ghurye.
 7. Explain the social consequences of terrorism.
 ## Management
+
+### 2025
+1. Explain the concept of ‘Captive-Product Pricing'. Give two examples.
+2. What do you understand by the concept of 'Social Loafing'?
+3. What do you mean by ‘Hot Money'?
+4. What is the full form of 'AYUSH'?
+5. Define 'Seed Funding'.
+6. List and explain in brief four Conflict-Stimulation Techniques.
+7. What do you mean by Financial Derivatives ? List the various types of Financial Derivatives.
+
+
 ### 2023
 1. What do you mean by the 'depth' of product portfolio?
 2. Who propounded the theory of 'Irrelevance of Capital Structure'? Write one key assumption of the theory.
@@ -349,6 +416,31 @@
 6. Explain wheel, chain, and circle communication networks.
 7. Explain different stages of the product life cycle.
 ## Accounting Auditing
+
+### 2025
+1. Write any two objectives of Government Audit.
+2. Mention three basic elements of performance audit with reference to public sector.
+3. What are the different stages of accounting as per Double Entry System of Accounting?
+4. Calculate Capital of the business from the following information
+   (i) Fixed Assets: ₹ 4,00,000
+   (ii) Current Liabilities: ₹ 85,000
+   (iii) Stock, Sundry Debtors and Cash: ₹ 90,000
+5. Give any four approaches of Social Accounting.
+6. The following information has been taken from the books of ABC Ltd.
+	- Cash and Bank Balance ₹30,000
+	- Trade Payables ₹45,000
+	- Trade Receivables ₹75,000
+	- Inventory ₹30,000
+	- Sales (All credit) ₹4,50,000
+	- Cost of Goods Sold ₹3,15,000
+	Calculate: 
+		(i) Current Ratio; 
+		(ii) Quick Ratio; 
+		(iii) Receivables Turnover Ratio; 
+		(iv) Inventory Turnover Ratio; 
+		(v) Gross Profit Ratio
+  7. Is the agreement of trial balance a conclusive proof of accuracy of books of accounts? If not, which different types of errors may remain even after agreement of trial balance?
+
 ### 2023
 1. Give any four objectives of Auditing.
 2. Write down any four duties of Comptroller and Auditor General of India.
