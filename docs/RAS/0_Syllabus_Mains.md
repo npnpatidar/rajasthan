@@ -1,5 +1,5 @@
 ---
-outline: [2, 3] # or [2, 4] or false to disable
+outline: [2, 4] # or [2, 4] or false to disable
 ---
 # Syllabus Mains
 ## Paper - I
