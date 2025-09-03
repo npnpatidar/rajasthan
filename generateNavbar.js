@@ -9,6 +9,54 @@ const __dirname = path.dirname(__filename);
 const docsDir = path.join(__dirname, "docs"); // Path to your docs folder
 const vitepressDir = path.join(docsDir, ".vitepress"); // Path to .vitepress folder
 
+function getFormattedDate(date) {
+  const year = date.getFullYear();
+  const month = date.toLocaleString('en-US', { month: 'long' });
+  const day = String(date.getDate()).padStart(2, '0');
+  const monthNum = String(date.getMonth() + 1);
+  return { year, month, day, monthNum };
+}
+
+function getLatestFile(dirPath, day) {
+    if (!fs.existsSync(dirPath)) {
+        return null;
+    }
+    const files = fs.readdirSync(dirPath);
+    const dayFiles = files.filter(file => file.startsWith(`${day}_${day}`));
+    if (dayFiles.length === 0) {
+        return null;
+    }
+    dayFiles.sort().reverse();
+    return dayFiles[0];
+}
+
+function getCurrentAffairsLink() {
+  const today = new Date();
+  const yesterday = new Date(today);
+  yesterday.setDate(yesterday.getDate() - 1);
+
+  const todayDate = getFormattedDate(today);
+  const yesterdayDate = getFormattedDate(yesterday);
+
+  const currentAffairsDir = path.join(docsDir, 'rajasthan', '6_current_affairs');
+  const todayDir = path.join(currentAffairsDir, `${todayDate.monthNum}_${todayDate.month}_${todayDate.year}`);
+  const yesterdayDir = path.join(currentAffairsDir, `${yesterdayDate.monthNum}_${yesterdayDate.month}_${yesterdayDate.year}`);
+
+  let latestFile = getLatestFile(todayDir, todayDate.day);
+  let link;
+
+  if (latestFile) {
+    link = `/rajasthan/6_current_affairs/${todayDate.monthNum}_${todayDate.month}_${todayDate.year}/${latestFile}`;
+  } else {
+    latestFile = getLatestFile(yesterdayDir, yesterdayDate.day);
+    if (latestFile) {
+      link = `/rajasthan/6_current_affairs/${yesterdayDate.monthNum}_${yesterdayDate.month}_${yesterdayDate.year}/${latestFile}`;
+    }
+  }
+  return link ? link.replace('.md', '') : null;
+}
+
+
 function parseOrder(orderStr) {
   const match = orderStr.match(/^(\d+)([a-z]*)/);
   if (match) {
@@ -105,6 +153,30 @@ function generateNavbar(dir) {
 }
 
 const navbar = generateNavbar(docsDir);
+const currentAffairsLink = getCurrentAffairsLink();
+
+if (currentAffairsLink) {
+  const recurseAndReplace = (items) => {
+    for (const item of items) {
+      if (item.text === 'Current Affairs') {
+        item.link = currentAffairsLink;
+        break;
+      }
+      if (item.items) {
+        recurseAndReplace(item.items);
+      }
+    }
+  };
+  recurseAndReplace(navbar);
+
+  const indexMdTemplatePath = path.join(vitepressDir, 'index.md.template');
+  const indexMdPath = path.join(docsDir, 'index.md');
+  let indexContent = fs.readFileSync(indexMdTemplatePath, 'utf8');
+  indexContent = indexContent.replace('{{CURRENT_AFFAIRS_LINK}}', currentAffairsLink);
+  fs.writeFileSync(indexMdPath, indexContent);
+  console.log("Generated index.md from template");
+}
+
 
 // Ensure the .vitepress directory exists
 if (!fs.existsSync(vitepressDir)) {
