@@ -5,7 +5,8 @@
     "vitepress": "^1.6.4",
     "vitepress-export-pdf": "1.0.0",
     "vitepress-plugin-d2": "^1.0.4",
-    "vitepress-plugin-mermaid": "^2.0.17"
+    "vitepress-plugin-mermaid": "^2.0.17",
+    "vitepress-plugin-rss": "^0.3.1"
   },
   "scripts": {
     "docs:dev": "vitepress dev docs",

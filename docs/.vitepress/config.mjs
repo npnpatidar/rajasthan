@@ -3,9 +3,20 @@ import { withMermaid } from "vitepress-plugin-mermaid";
 import d2 from "vitepress-plugin-d2";
 import { Layout, Theme, FileType } from "vitepress-plugin-d2/dist/config";
 import navbar from "./navbar.json";
+import { RssPlugin } from "vitepress-plugin-rss";
 
 // https://vitepress.dev/reference/site-config
 export default withMermaid({
+  vite: {
+    plugins: [
+      RssPlugin({
+        title: "Rajasthan Current Affairs",
+        baseUrl: "https://npnpatidar.github.io/rajasthan/",
+        copyright: "Copyright (c) 2024-present Naresh Patidar",
+        glob: "rajasthan/6_current_affairs/**/*.md",
+      }),
+    ],
+  },
   title: "Rajasthan",
   description: "A site for Rajasthan",
   cleanUrls: true,

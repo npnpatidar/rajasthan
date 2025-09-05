@@ -39,9 +39,6 @@ jobs:
       - name: Set permissions for d2-diagrams
         run: chmod -R 777 d2-diagrams
 
-      - name: Debug file structure (optional)
-        run: ls -R
-
       - name: Install dependencies
         run: npm ci # or pnpm install / yarn install / bun install
 
