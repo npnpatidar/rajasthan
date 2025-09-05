@@ -15,17 +15,16 @@ export default withMermaid({
         baseUrl: "https://rajedu.in",
         copyright: "Copyright (c) 2024-present Naresh Patidar",
         filename: "feed.rss",
-        locales: {
-          "current-affairs": {
-            title: "Rajasthan Current Affairs",
-            description: "Current Affairs for Rajasthan",
-            baseUrl: "https://rajedu.in",
-            copyright: "Copyright (c) 2024-present Naresh Patidar",
-            filter: (post) =>
-              post.regularPath.startsWith("rajasthan/6_current_affairs/"),
-            filename: "current-affairs.rss",
-          },
+      }),
+      RssPlugin({
+        title: "Rajasthan Current Affairs",
+        description: "Current Affairs for Rajasthan",
+        baseUrl: "https://rajedu.in",
+        copyright: "Copyright (c) 2024-present Naresh Patidar",
+        filter: (post) => {
+          return post.url.startsWith("/rajasthan/6_current_affairs/");
         },
+        filename: "current-affairs.rss",
       }),
     ],
   },
