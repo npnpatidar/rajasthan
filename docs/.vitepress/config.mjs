@@ -10,10 +10,22 @@ export default withMermaid({
   vite: {
     plugins: [
       RssPlugin({
-        title: "Rajasthan Current Affairs",
-        baseUrl: "https://npnpatidar.github.io/rajasthan/",
+        title: "RajEdu",
+        description: "A site for Rajasthan",
+        baseUrl: "https://rajedu.in",
         copyright: "Copyright (c) 2024-present Naresh Patidar",
-        glob: "rajasthan/6_current_affairs/**/*.md",
+        filename: "feed.rss",
+        locales: {
+          "current-affairs": {
+            title: "Rajasthan Current Affairs",
+            description: "Current Affairs for Rajasthan",
+            baseUrl: "https://rajedu.in",
+            copyright: "Copyright (c) 2024-present Naresh Patidar",
+            filter: (post) =>
+              post.regularPath.startsWith("rajasthan/6_current_affairs/"),
+            filename: "current-affairs.rss",
+          },
+        },
       }),
     ],
   },
