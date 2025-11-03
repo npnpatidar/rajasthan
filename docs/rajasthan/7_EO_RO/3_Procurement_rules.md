@@ -1,200 +1,159 @@
-# 1. Rajasthan Municipal General Purchase and Contract Rules, 1974
+# Rajasthan Municipalities (Purchase of Materials and Contracts) Rules, 1974
 
-*   **Basis:** Section *298, 80 & 297* of Rajasthan Municipal Act, *1959*
+*   **Basis:** Section 297, read with Sections 298 & 80 of the Rajasthan Municipalities Act, 1959.
 *   **Total Rules:** 17
 
 ## Rule 1: Short Title & Commencement
 
-*   **Short Title:** Rajasthan Municipal General Purchase and Contract Rules, 1974 (राजस्थान नगरपालिका सामान क्रय एवं अनुबंध नियम 1974)
-*   **Commencement:** *One month* after publication in the official gazette (राजपत्र). 
+*   **Short Title:** Rajasthan Municipalities (Purchase of Materials and Contracts) Rules, 1974.
+*   **Commencement:** One month after publication in the Official Gazette.
 
 ## Rule 2: Definitions
 
-*   **"Board":**  Includes all three - Municipal Corporation (निगम), Council (परिषद), and Municipality (पालिका).
-*   **"Purchasing Officer (क्रय अधिकारी) / Requesting Officer (मांग करता अधिकारी)":**  Refers to the Chief Municipal Officer (CMO).
+*   **"Board":** Includes Municipal Council.
+*   **"Purchasing Officer" / "Indenting Officer":** Refers to the Executive Officer.
+*   **"Executive Officer":** Includes the Commissioner of the Municipal Council.
 
 ## Rule 3: Purchase of Materials and Execution of Work by Tender
 
-| Expenditure Amount (₹) | Process                    |
-| ---------------------- | ------------------------------ |
-| Up to 10K          | Purchase without quotation |
-| 10K - 1 Lakh       | Purchase with three quotations |
-| Above 1 Lakh       | E-Tendering is required    |
+*   Tenders must be invited for:
+    *   Supply of materials or goods exceeding **₹1,000**.
+    *   Execution of any work exceeding **₹2,000**.
+*   This is subject to prior sanction from the competent authority as per Rule 14.
 
-## Rule 4: Time Limit for Purchase of Materials
+## Rule 4: Time Limit for Inviting Tenders (for Materials/Fabrication)
 
-| Expenditure Amount (₹) | Time Limit (Days) |
-| ---------------------- | ----------------- |
-| Up to 1 lakh       | 7             |
-| 1 lakh - 10 lakh   | 10            |
-| 10 lakh - 1 Crore  | 15            |
-| Above 1 Crore      | 30            |
+| Estimated Expenditure (₹) | Time Limit |
+| :--- | :--- |
+| Up to ₹1.00 lakh | One week |
+| ₹1.00 lakh to ₹5.00 lakhs | Two weeks |
+| Above ₹5.00 lakhs | One month |
 
-*   **Starting Point for Time Calculation:** Date of publication of the notice in the newspaper.
+*   **Starting Point for Time Calculation:** The time limit is calculated from the date the tender notice appears in the newspaper to the final date for tender submission.
 
 ## Rule 5: Re-Tendering
 
-*   If a tender receives an *insufficient or inadequate* number of bids, *re-tendering is required.*
+*   If a sufficient number of tenders are not received due to inadequate publicity or other reasons, fresh tenders must be invited.
 
 ## Rule 6: Procedure for Obtaining Tenders
 
-| Tender System             | Description                                | Value Limit (₹) |
-| ----------------------------- | ---------------------------------------------- | --------------- |
-| Open Tender (खुली निविदा) | Public advertisement (सार्वजनिक विज्ञापन)  | Above 5K    |
-| Limited Tender (सीमित निविदा) | Direct invitation to a limited number of firms | Below 10K   |
-| Single Tender (एकल निविदा)| Invitation to only one firm                | Up to 1K    |
+| Tender System | Description | Value Limit (₹) |
+| :--- | :--- | :--- |
+| **Open Tender** | Public advertisement (General Rule) | ₹5,000 or over |
+| **Limited Tender** | Direct invitation to a limited number of firms | Less than ₹10,000 |
+| **Single Tender**| Invitation to only one firm | Does not exceed ₹1,000 |
+
+*   **Special Conditions & Exemptions from Tendering:**
+    *   **No Tenders Required:** Tendering is not required for purchases of any value if:
+        *   Goods are of a **proprietary character**.
+        *   Purchased from registered manufacturers, or at rates approved by the Central Stores Purchase Organisation or DGS&D.
+        *   Purchased from specific government undertakings like Rajasthan State Agro Industries Corp., Rajasthan State Small Scales Industries Corp., or Certified Khadi Bhandars (for items they manufacture).
+        *   Cloth purchased from National Textiles Corp. Ltd., Rajasthan Handloom Project Board, or Rajasthan Rajya Bunkar Sahkari Sangh Ltd.
+        *   Purchases from Sahkari Wholesale Upbhokta Bhandars that receive supplies directly from manufacturers.
+        *   Spare parts for motor vehicles purchased from the manufacturer or its authorized dealer, up to a limit of **₹1,000**.
+        *   The State Government grants a specific exemption.
+    *   **Limited Tender instead of Open Tender:** A limited tender can be used even for amounts over ₹10,000 if:
+        *   The Purchasing Officer records in writing that advertising is not in the public interest.
+        *   The Indenting Officer certifies in writing that the demand is urgent.
 
 ## Rule 7: Blacklisting
 
-*   The **State Government  can blacklist firms/individuals for supplying poor quality materials.
-*   Blacklisted firms cannot participate in future tenders.
+*   The **State Government** can blacklist firms/persons for corrupt practices or supplying sub-standard goods.
+*   No municipal board shall issue tenders to or purchase from such a blacklisted firm.
 
 ## Rule 8: Ensuring Quality Control
 
-*   **Inspection:** By *Purchasing Officer* (CMO) or authorized officer *after* supply is received.
-*   Purchasing Officer is personally liable for ensuring proper sampling.
-*   **Sample Size:** *At least 10%* of items should be taken for comparison with samples.  If less, record the reason.
-*   **Rejection:** If the Purchasing Officer rejects the goods, the supplier bears the cost of returning and replacing the items.
-*   **Decision Time:** Purchasing Officer must decide on acceptance/rejection *within 7 days.*
-*   **Stock Register Inspection:** *Finance Committee members* (under Section 283) can inspect stock and purchase registers.
-*   **Exemptions:** The above procedures do *not* apply to purchases from:
-    *   Specific organizations 
-	    * राष्ट्रिय कपडा विभाग लिमिटेड
-	    * राजस्थान हथकरघा परियोजना लिमिटेड
-	    * राजस्थान राज्य बुनकर संघ
-	    * राजस्थान राज्य कृषि उद्योग निगम
-	    * Authorised Khadi Bhandar
-	    * Cooperative wholesale Upbhokta bhandar
-	    * Registered Seller with high credibility
-    *   Authorized repair of *fire fighting vehicles* from original manufacturer *(up to ₹25,000)*
-    *   Spare parts for *Motor vehicles (up to ₹1,000*)
-    *   Purchases from Government departments/undertakings
-    *   When the state government allows exemption
-* *Limited tenders* may be used for purchases *below 10,000* if:
-    *  Advertising is not in the *public interest* or
-    *  The officer certifies the need is *emergent*.
+*   **Inspection:** Supplies must be inspected by the Purchasing Officer or a nominated responsible officer.
+*   **Responsibility:** The Purchasing Officer is personally responsible for ensuring the supply conforms to the approved samples and specifications.
+*   **Sample Size:** At least **10%** of the supplied articles must be picked for comparison, unless impracticable (in which case reasons must be recorded).
+*   **Rejection:** If the supply is non-compliant, the Purchasing Officer can reject it and ask the supplier to replace it at their own cost.
+*   **Decision Time:** The Purchasing Officer must decide on acceptance or rejection within **one week** of receiving the supply.
+*   **Audit/Check:** Members of the Finance Committee and officers authorized under Section 283 of the Act can check the stock register and compare supplies with approved samples.
 
 ## Rule 9: Charges for Tender Forms
 
-| Tender Value (₹) | Charge (₹) |
-| ---------------- | ---------- |
-| Up to 10K    | 20     |
-| 10K - 1 lakh | 50     |
-| 1 lakh - 5 lakh  | 100    |
-| 5 lakh - 1 Crore | 200    |
-| Above 1 Crore| 500    |
+| Estimated Tender Value (₹) | Charge for Form (₹) |
+| :--- | :--- |
+| Up to ₹10,000 | 2.00 |
+| ₹10,001 to ₹20,000 | 3.00 |
+| ₹20,001 to ₹30,000 | 4.00 |
+| ₹30,001 to ₹50,000 | 5.00 |
+| ₹50,001 to ₹75,000 | 6.00 |
+| ₹75,001 to ₹1,25,000 | 8.00 |
+| Above ₹1,25,000 | 10.00 |
 
 ## Rule 10: Time Limit for Inviting Tenders for Public Works
 
-| Construction Cost (₹) | Time Limit (Days) |
-| --------------------- | ----------------- |
-| Up to 1 lakh      | 7             |
-| 1 lakh - 10 lakh  | 10            |
-| 10 lakh - 1 Crore | 15            |
-| Above 1 Crore     | 30            |
+| Cost of Work (₹) | Time Limit |
+| :--- | :--- |
+| Up to ₹2.00 lakhs | Two weeks |
+| ₹2.00 lakhs to ₹5.00 lakhs | Three weeks |
+| Above ₹5.00 lakhs | One month |
 
 *   **Calculation:** From the date of notice publication to the deadline for tender submission.
 
 ## Rule 11: Publication of Tenders
 
-If estimated *cost < ₹2000* Purchase Officer can use *Approved Contractor* with *Rate fixed by PWD.*
-
-| Estimated Cost (₹) | Publication Media                                                              |
-| ------------------ | ---------------------------------------------------------------------------------- |
-| Up to 20K      | Local daily, weekly, or fortnightly newspapers *approved by the State Government*. |
-| 20K - 10 lakh  | Prominent daily newspaper of the State.                                        |
-| Above 10 lakh  | All-India newspaper *and* a prominent daily newspaper of the State.            |
+*   Works with an estimated cost up to **₹2,000** may be executed by an approved contractor at the rates prevailing in the Public Works Department (B&R) or lower negotiated rates.
+*   **Media for Publication:**
+    | Estimated Cost (₹) | Publication Media |
+    | :--- | :--- |
+    | Up to ₹20,000 | One local daily/weekly/fortnightly newspaper approved by the State Govt. |
+    | Above ₹20,000 to ₹10 lakhs | As approved by the State Government. |
+    | Above ₹10 lakhs | One state-wide circulation newspaper AND one all-India newspaper. |
 
 ## Rule 12: Earnest Money
 
-*   No tender will be considered without the required earnest money deposit.
+*   No tender will be considered unless it is accompanied by the required earnest money deposit as notified.
 
 ## Rule 13: Inspection Before Approval
 
-*   All goods are subject to inspection *before* approval. Inspection can occur during manufacturing, before supply, or after supply.
+*   All articles are subject to inspection before acceptance and must conform to prescribed specifications and tests. Inspection can occur during manufacturing, before dispatch, or after.
 
-## Rule 14: Competent Authority for Approvals
+## Rule 14: Competent Authority for Financial Sanction/Approval
 
-| Municipality                        | Expenditure Limit (₹) | Approving Authority                                                    |
-| --------------------------------------- | --------------------- | -------------------------------------------------------------------------- |
-| **Municipal Corporation (Nagar Nigam)** | Up to 25 Lakhs    | Additional Commissioner (अतिरिक्त आयुक्त) / Deputy Commissioner (उपायुक्त) |
-|                                     | Up to 1 Crore     | Chief Executive Officer Cum Commissioner (आयुक्त)                      |
-|                                     | Up to 2 Crore     | Mayor (महापौर)                                                         |
-|                                     | Up to 5 Crore     | Finance Committee (वित्त समिति)                                        |
-|                                     | Unlimited         | Municipal Corporation (नगर निगम) - *Full Powers*                       |
-| **Municipal Council (Nagar Parishad)**  | Up to 2 Lakhs     | Commissioner (आयुक्त)                                                  |
-|                                     | Up to 50 Lakhs    | President (अध्यक्ष)                                                    |
-|                                     | Up to 1 Crore     | Finance Committee (वित्त समिति)                                        |
-|                                     | Unlimited         | Municipal Council (नगर परिषद) - *Full Powers*                          |
-| **Municipality (Nagar Palika)**     | Up to 1 Lakh      | EO (Executive Officer)                                                 |
-|                                     | Up to 25 Lakhs    | Chairman (अध्यक्ष)                                                     |
-|                                     | Up to 50 Lakhs    | Finance Committee (वित्त समिति)                                        |
-|                                     | Unlimited         | Municipality (नगरपालिका) - *Full Powers*                               |
+| Municipality Type | Expenditure Limit (₹) | Approving Authority |
+| :--- | :--- | :--- |
+| **Municipal Corporation** | Up to ₹25 Lakhs | Additional/Deputy Commissioner |
+| | Up to ₹1 Crore | Chief Executive Officer |
+| | Up to ₹2 Crores | Mayor |
+| | Up to ₹5 Crores | Finance Committee |
+| | Full Budgetary Powers | Corporation |
+| **Municipal Council** | Up to ₹2 Lakhs | Commissioner |
+| | Up to ₹50 Lakhs | President |
+| | Up to ₹1 Crore | Finance Committee |
+| | Full Budgetary Powers | Council |
+| **Municipal Board** | Up to ₹1 Lakh | Executive Officer |
+| | Up to ₹25 Lakhs | Chairman |
+| | Up to ₹50 Lakhs | Finance Committee |
+| | Full Budgetary Powers | Board |
 
-*   **Important Note:** The above authorities exercise powers as per Section 81 of the Act. 
+*   **Exceeding Budget:** If an amount exceeds the previous year's actual income and expenditure by more than 20%, prior approval is required from:
+    *   **State Government** (for Corporations and Councils).
+    *   **Deputy Director (Regional)** (for Municipal Boards).
+*   **Contract Execution:** Every contract must be in writing, signed by the Chairman and Executive Officer, and sealed with the common seal of the Board.
 
-*   **Exceeding Budget:**  If actual income/expenditure exceeds the previous year's by more than *20%, approval* is required from:
-    *   *State Government* (for Corporations and Councils).
-    *   *Regional Deputy Director* (for Municipalities).
-*   **No Increase:**  Approved administrative and financial sanctions cannot be increased later.
-*   **Time Limit for Completion:**
+## Rule 15: Technical Approval of Estimates and Bills
 
-| Cost of Work (₹) | Time Limit |
-| ------------------ | ---------- |
-| Up to 5 Lakhs   | 1 Month|
-| 5 - 10 Lakhs | 2 Months   |
-| 10 - 50 Lakhs| 4 Months   |
-| 50 Lakhs - 1 Crore   | 6 Months   |
-| Above 1 Crore| Determined by the Municipal Board |
+The following officers can technically approve/examine estimates and bills for construction works up to the limits shown:
 
-* Payment Schedule :
-  
-| Percent of Project Completion | Percentage of Payment Issued |
-| ----------------------------- | ---------------------------- |
-| 25%                       | 12.5%                    |
-| 50%                       | 40%                      |
-| 75%                       | 75%                      |
-| 100%                      | 100%                     |
+| Officer Level | Sanctioning Limit (₹) |
+| :--- | :--- |
+| Engineering Subordinate / Junior Engineer | Up to ₹30,000 |
+| Assistant Engineer | Up to ₹1 Lakh |
+| Executive Engineer | Up to ₹15 Lakhs |
+| Superintending Engineer | Up to ₹25 Lakhs |
+| Additional Chief Engineer | Up to ₹40 Lakhs |
+| Superintending Engineer (Directorate, Local Bodies) | Above ₹15 Lakhs |
 
-*   **Project Management Consultant (PMC):** Can be hired *after* Board approval if the department lacks resources for a specialized task.
-*   **Refund of Earnest Money:** To unsuccessful bidders *within 7 days.*
-*   **Single Tender:** May be accepted by *Higher Authority* if rates are *reasonable*, but the officer must *justify* why re-tendering is not in the Board's interest.  Normal procedure is to re-tender.
+*   **Note 1:** The powers of Junior and Assistant Engineers apply only if no higher-ranking technical officer is posted in that Municipality/Council.
+*   **Note 2:** In a Municipal Corporation/Council where no Superintending Engineer or Additional Chief Engineer is posted, the power to approve matters above ₹15 Lakhs lies with the Superintending Engineer (Local Bodies).
 
-## Rule 15: Technical Approval
-
-1.  **Technical Committee:**
-
-    *   The technical committee constituted by the State Government has *full powers* regarding technical approvals (पूर्ण शक्ति).
-    *   This committee's approval supersedes the powers of individual officers mentioned below.
-
-2.  **Individual Officers and their Powers:**
-
-| Officer                 | Designation Abbreviation | Sanctioning Limit (₹) | Notes                                               |
-| ----------------------- | ------------------------ | --------------------- | --------------------------------------------------- |
-| Superintending Engineer | SE                       | Up to 1.5 Crore       | Should come from office of local bodies directorate |
-| Executive Engineer      | XEN                      | Up to 50 Lakhs        |                                                     |
-| Assistant Engineer      | AEN                      | Up to 5 Lakhs         |                                                     |
-| Junior Engineer         | JEN                      | Up to 1 Lakh          |                                                     |
-3.  **Approval Process for amounts greater than 1.5 crore (₹):**
-    *   If The project is of larger value then the officers listed are unable to approve.
-    *   Any estimate approval must first go to the technical commitee.
-    *   The technical committee should act on any proposals *within seven days.*
-    *   Local office is responsible for officially signing the document to be implemented.
-
-4.  **Estimates**
-
-    *   Estimates must be prepared based on site inspection and the *Basic Schedule of Rates (BSR) from the Public Works Department (PWD)*. This means that for a building to be built, the price is determined from the PWD's documents.
-    *   The estimate should include:
-        *   Site plan (स्थल योजना)
-        *   Design drawings (डिजाइन रेखा चित्र)
-        *   Structural design (संरचनात्मक डिजाइन)
-        *   Technical notes (तकनीकी टिप्पणी)
-    *   *Three copies* of the estimate must be prepared .
 ## Rule 16: Compliance
 
-*   Contracts are *not* binding unless they *comply* with these rules and the Act.
+*   No contract is legally binding unless it complies with these rules and the Act.
 
-## Rule 17: Tender Format
+## Rule 17: Forms of Tenders, etc.
 
-*   The tender format should be in accordance with the *Rajasthan General Financial and Accounting Rules.*
-
+*   Tender forms, notices, and agreements shall follow the format prescribed in the Rajasthan General Financial & Accounts Rules.
+*   The procedure for executing works, payments, registers, and other transactions shall be the same as used in the Public Works Department (B&R) of the State Government.
