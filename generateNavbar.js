@@ -38,19 +38,19 @@ function getCurrentAffairsLink() {
   const todayDate = getFormattedDate(today);
   const yesterdayDate = getFormattedDate(yesterday);
 
-  const currentAffairsDir = path.join(docsDir, 'rajasthan', '6_current_affairs');
-  const todayDir = path.join(currentAffairsDir, `${todayDate.monthNum}_${todayDate.month}_${todayDate.year}`);
-  const yesterdayDir = path.join(currentAffairsDir, `${yesterdayDate.monthNum}_${yesterdayDate.month}_${yesterdayDate.year}`);
+  const nationalDir = path.join(docsDir, 'rajasthan', '6_current_affairs', 'national');
+  const todayDir = path.join(nationalDir, `${todayDate.monthNum}_${todayDate.month}_${todayDate.year}`);
+  const yesterdayDir = path.join(nationalDir, `${yesterdayDate.monthNum}_${yesterdayDate.month}_${yesterdayDate.year}`);
 
   let latestFile = getLatestFile(todayDir, todayDate.day);
   let link;
 
   if (latestFile) {
-    link = `/rajasthan/6_current_affairs/${todayDate.monthNum}_${todayDate.month}_${todayDate.year}/${latestFile}`;
+    link = `/rajasthan/6_current_affairs/national/${todayDate.monthNum}_${todayDate.month}_${todayDate.year}/${latestFile}`;
   } else {
     latestFile = getLatestFile(yesterdayDir, yesterdayDate.day);
     if (latestFile) {
-      link = `/rajasthan/6_current_affairs/${yesterdayDate.monthNum}_${yesterdayDate.month}_${yesterdayDate.year}/${latestFile}`;
+      link = `/rajasthan/6_current_affairs/national/${yesterdayDate.monthNum}_${yesterdayDate.month}_${yesterdayDate.year}/${latestFile}`;
     }
   }
   return link ? link.replace('.md', '') : null;
